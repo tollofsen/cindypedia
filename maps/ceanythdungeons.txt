@@ -1,0 +1,44 @@
+# The Dungeons of Lord Caenyth (243): 50-85, Tjaden/Amaranth  (King's Castle: 6wnw11nwsd)
+#
+#                           /
+#                          X
+#                         /
+#         o    o    o    o     o     o
+#         |    |    |    |     |     |
+#       o-o----o----o----o-----o-----o----o-o
+#         ^    |    |    |     |     |    |
+#         |    o    o    |     o     o    |
+#         |              |                |
+#         |              |     o     o    |
+#         |              |     |     |    |
+#       o-o-o <-----o----o-----o-----o----o-o
+#         |              |     |     |    |
+#   o  a<-o-o o     b  o-o-o   o     o    |    o        o
+#   |     |   |     |    |                |    |        |
+# o-o-----o---o-> /-o----o-o            o-o----o--------o-o
+#   |     |   |   \/|    |                |    |  /     |
+# o-o-o   v   o     o    |                o    |  |   o-R-o
+#   |     b              |                     \->o     |
+#   |                  o-o-o                          o-R-woman
+#   | o                  |    o    o  o     o           |
+#   | |                  |    |    |  |     |           |
+# o-o-o-o              o-o----o----o--o-> /-o-----------o--> /-o
+#   | |                  |    | \  |  |  /  |           |   /
+#   o o                  o    o  \ o  o /   o           a  /
+#   |                    |        \____/__________________/
+#   o                    o
+#
+* R: west and east directions are reverted
+* Beasts and monsters are vuln pure/light/fire. Guards are vuln fire.
+
+Ceanyth Dungeons:     Lvl    Xp ASWIDMX # agg      Hp         Gold      Special
+A prisoner             60   84M N--x x    -    4206-4273    4304-5495   [human]
+The prisoner (skinny)  60   78M N--- -    -    3237-4533    4037-4102   [human], sitting, flees
+The prisoner (woman)   60   78M N--x x    -    4862-5914    3325-6192   [human], sitting, flees
+An orc                 65  107M N--x -    -    7427-7656   37603-41473  [orc]
+An orc fighter         65  127M E--x -    -    6255-6387   42856-51409  [orc]
+Orc prisoner           65  120M N--x -    -    6111-6129   87076-155858 [orc]
+A guard                70  210M N-xx x    -    7433-8208   56446-63080  vuln fire
+A big guard            75  338M E-xx x    -   11352-11776 196045-248964 vuln fire
+The monster            80 1241M E-xx      G    ~18k        16001-16001  vuln pure/light/fire, resist dark
+The beast              80 1225M E-xx      G E 18243-18609  16001-16001  vuln pure/light/fire, resist dark

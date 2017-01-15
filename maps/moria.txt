@@ -1,0 +1,75 @@
+# Moria (levels 1/2) & Moria (levels 3/4) (40 & 41): 5-20, DikuMUD (?/never)  (Karandras: 10e3n)
+#
+#                                                   OC
+#                                                    |
+#                                      Wyvern  - o - o     Goblik
+#                                    Waterfalls      |       |
+#                                                    o - o - o
+#                                                    |
+#                                                    o
+#                                                    |
+#                                        o - o - o - o               o
+#                                                    |               |
+#                               Varak-Ki             o - o - o - o - o - RIP
+#                               Caverns              |           |
+# /------- o                        |                o        Varak-Ki
+# |        |                        |                |        Caverns
+# |    o - o ---------- o ----- o - o       o        o - Rand's
+# |   /                         |           |        |   Tower
+# |   | o ------ o ----- o      |           o        o
+# |   | |               /       |           |        |
+# |   | |              V        |       o - o ------ o
+# |   | |  o - o - o-o-o        |       |   |  z     |
+# |   | |      |                |       o   o  ^     o
+# |   | |      o - o            |       |   |  |    /
+# |   | |      |   |            o - o - o <-o  o - o
+# |   | |      o - o - o                |      ^
+# |   | |      |       |                o      |
+# |   | |      |       o -- o -- o - o  |      |
+# |  /  |      |       |         ^  /   o      |
+# | o --|----- o <-----|-\       | /    |      \_____
+# |     |              | |       | |    o            \
+# |     |              o o       | |    |            |
+# |     |              | |       | |    o            |
+# |     o ---- z - o   o o<-o<-o-o |    |   Three    |
+# |            |       |       | | |    X --- of     |
+# |            o       o ----- o-o |    |   Swords   |
+# |            |                   V                 |
+# \--> o - o - o <---------------- o ----------------/
+#              |                   ^                 |
+#              |                   |                 |
+#              o ----------------> o --------------- o
+#                                  |
+#                              o - o
+#                              |   |
+#                              o - o - o - o
+#                                      |
+#                                      o
+#
+* Area is indoors but not very bright
+* lowbie-area with many aggressive mobs. Thief steals money!
+
+Moria:                   Lvl    Xp ASWIDMX # agg     Hp        Gold       Special
+The centipede (small)      3  3000 G-----    -     58-66        1-1
+A happy little bird        3     1 G----     -      1-1         1-1       +1 maxhp
+The kobold (ugly)          4  7000 E-x--     -     81-81      101-101
+The centipede (white)      5   12k E-----    -    105-111       0-0
+The mountain lion          5   14k E-x---    G     99-114       0-0
+The orc (kill)             5   14k E-x--     G     93-94      245-284
+A centipede (harmless)     6   24k G-----    -    115-130       0-0
+The hobgoblin (small)      6   24k E-x---    -    118-126     388-422
+The green snake            7   35k E- --     -    130-140       0-0       immune poison
+The kobold (green)         7   39k E-x---    G    132-142     591-604
+The orc (mean)             7   35k E-x---    -    148-149     585-624
+The warrior (standing)     7   39k E-x--x    G    132-144     582-631
+The orc (eat)              8   66k E-x---    G    162-167     758-771
+The Thief                  8   65k G----x    -    153-144     753-780     no-charm, thief
+The warrior (evil grin)    9   99k E-x--x    G    178-181     922-956
+The hobgoblin (large)     10  100k E-x---    -    122-124     301-301
+The snake (brown)         10  100k E-----    G     68-69        1-1       immune poison
+The snake (guardian)      10   89k E-----    G     77-95        1-1       immune poison
+The snake (dreadful)      11  131k E--x--    G     70-75        1-1       immune poison
+The troll                 12  144k E-----    G    112-120     501-502     [troll], vuln acid?/mental?, resist earth?/poison?/crush?
+The warrior (preparing)   12  143k E-x--     G     97-107    1001-1419
+The Mage                  13  220k E-xx-x    -    206-207     449-499     magic missile, lightning bolt, burning hands, blindness
+The hill giant            23 1758k N-x---    -   1065-1069   2009-2018    [giant], resist crush?/large?/superarge?/poison?

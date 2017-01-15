@@ -1,0 +1,63 @@
+# Soulstealer's Laboratory (241): 50-100, Amaranth  (Ofcol: 3wnwn11e2u2w2u2eu4wn)
+* FIND OUT: Do they resist Unlife, Dark & Poison?
+#
+#           o -> o -> o -> o -> o -> o ->RIP
+#          x^    |    ^    |    ^    |    ^
+#         / |    v    |    v    |    v    |
+#        /  o <- o <- o <- o <- o <- o <- o
+#       /   ^    |    ^    |    ^    |    ^
+#      /    |    v    |    v    |    v    |
+#     /     o -> o -> o -> o -> o -> o -> o
+#    /      ^    |    ^    |    ^    |    ^
+#   /       |    v    |    v    |    v    |
+#   |       o <- o <- o <- o <- o <- o <- o
+#   |       ^    |    ^    |    ^    |    ^
+#   |       |    v    |    v    |    v    |
+#   |       o -> o -> o -> o -> o -> o -> o
+#   |       ^    |    ^    |    ^    |    ^
+#   |       |    v    |    v    |    v    |
+#   |       o <- o <- o <- o <- o <- o <- o
+#   |                                     ^
+#   |                                     +
+#   \->o -- o -- o -- o -- o -- o -- o    X -
+#      I    ^    |    |    |    |    |
+#      I    |    |    |    |    v    |
+#      o====o -- o -- o -- o -- o -- o
+#      |    I    ^    ^    ^    ^    |
+#      |    I    |    |    |    |    |  (se2sen3eswsese)
+#      o <- o <- o====o====o====o -> o
+#      |    I    I    |    ^    I    |
+#      |    I    I    v    |    I    |
+#      o <- o====o -> o <- o====o -> o
+#      |    |    |    |    I    ^    |
+#      |    v    v    |    I    |    |
+#      o -- o -- o -- o <- o====o -> o
+#      |    |    |    |    |    I
+#      |    |    |    |    v    I
+#      o -- o -- o -- o -- o <- o====o
+#                                   x
+#                                  /
+# ma - o -- o -- o -- o -- a -- o  |
+# |                             |  |
+# o    m -- o -- o -- a -- m    o  |
+# |    |                   |    |  |
+# o    o    o -- a +> o    o    o  |
+# |    |    |              |    |  |
+# a    o    o -- o -- o -- a    m  |
+# |    |                        |  |
+# o    o -- o -- ma-- o -- o -- o  |
+# |                                |
+# o -- a -- o -- o -- o -- m -- a<-/
+#
+* Entrance past mirror in Wyvern tower
+* Vuln pure/light/iron
+
+Laboratory:              Lvl    Xp ASWIDMX # agg     Hp         Gold       Special
+The soulcrusher (eyes)    68  218M E-xx -    -   9954-10416  50321-58976   vuln pure/light/iron, immune fire, sneak, hide, assist-equals
+The soulcrusher           68  220M E-xx -    -  10266-10335  83734-113929  vuln pure/light/iron, immune fire, sneak, assist-equals
+The soulcrusher(blurred)  80 1360M E-xx x    -  17846.25    101398-177664  [demon], sneak, assist-equals
+The soulcrusher (fear)    80 1360M E-xx -    -  16166.25    103544-164741  [demon], sneak, assist-equals
+The Great Soulcrusher     85       E-xx x    ---            375493-388778  vuln pure/light/iron, immune fire
+The soulcrusher (angry)   90       E--x      GN              72535-95379   vuln pure/light/iron, immune fire, blocker
+The mystical soulcrusher  95       Ex-x x    ---            464759-475447  INFO, invis, vuln pure/light/iron, immune fire, shrugger, plasma ball
+The SoulStealer          100       Ex-x x    ---           2000000-2000000 INFO, sitting, invis, hide, vuln pure/light/iron, resist dark, plasma ball, wither, trueheal, plasma bolt, powerword blind, area blindness, 2-2 spells

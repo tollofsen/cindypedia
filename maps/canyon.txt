@@ -1,0 +1,73 @@
+# New Elemental Canyon (101): 15-60, Raff  (Elemental Canyon: -)
+#
+#              Lightning
+#                 /
+#        o - o - o       o - o - o - Air
+#        |   |           |   |
+#        o - o           o - o
+#            |           |
+#            o - o ----- o   o - o - o
+#                |       |   |   |   |\
+#                o - o - o   o - o - o Water
+#                |   |   |   |
+#            o - o - o - o   o
+#            |   |   |   |   |
+# Fire - o - o   o - o - o - o
+#                |   |   |
+#                o - o - o - o - o - o
+#                    |           |   |
+#                  o |           o - o
+#                  |\|           |   |
+#                  | X           o - o - Earth
+#                  | |
+#                  | Revered
+#                  | Plateau
+#                  o
+#                   \
+#                 Cyclops
+#                     \
+#                      o
+#                       \
+#                        o
+#                         \
+#                          o -
+#
+* Only the Cyclops by the entrance is aggressive, but many here have spells,
+*    so be bit careful with whom you attack.
+
+Elemental Canyon:        Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+An elemental servant       2   300 G-x--     -     36-41       26-26
+The mountain climber       3  4500 G-x--     -     73-78       41-41    flees
+An eddie                   7   29k N-xx--    -    139-148      61-61
+A small rock               8   60k N-x---    -    146-172      78-83
+A small snowflake          8   60k N-x---    -    154-168      78-81
+A flame                    9   90k N-x---    -    175-192      88-94
+A small spark              9   81k N-x---    -    177-184      88-95
+A little imp              10  116k E-x---    -    193-209       1-104   hide, flees
+A particle                10  116k N-x---    -     94-108      83-144
+A dust cloud              11  137k N-xx--    -    209-232     452-516
+An elemental mist         11  137k N-x---    -    217-230     501-501
+A mud monster             12  168k N-x---    -    233-244    1810-1833
+A lava beast              13  195k N-x---    -    266-275    2002-2047
+A puddle                  13  195k N-x---    -    249-267    2916-2996
+A small blob of acid      14  224k N-x---    -    278-288    2268-2329
+A small elemental         15  260k N-x---    -    295-310    3001-3001
+A medium elemental        17  357k N-----    -    353-357    3501-3501
+A baby rainbow dragon     21  672k N-xx--    -    475-483    4991-5016  [dragon], resist fire?/ice?/earth?/air?/gas?
+An elemental magician     22  916k E-x---    -    501-519     442-446   invis, curse, burning hands, magic missile, lightning bolt
+An illusionist            22  778k E-x---    -    500-517    5006-5016  magic missile, curse, cure critic, blindness, burning hands, lightning bolt
+The Cyclops               22  809k Ex----    G E  496-524    5001-5001
+A large elemental         23 1035k N-----    -    534-545    5001-5001
+A rainbow warrior         23  943k G-x---    -    524-544    4994-5013  bash
+An alchemist              23  943k E-xx--    -    525-553    4986-5011
+The elemental guardian    28 2520k N--x--    -    683-704    5001-5001
+The Blue Flame            45   22M E-x---    -   1567-1637  16795-16878 resist dark, blindness, confusion, harm, fireball, msteor blast, meteor swarm
+The Hurricane             45   22M E-x---    -   1549-1587  17062-17066 resist dark, fireball, confusion, mass pain, powerheal, blindness, meteor blast, meteor swarm, powerword pain, NOT resist air
+The Ice Bandit            45   21M E-x-x-    -   1609-2141  16992-17010 flees
+The Magneto               45   22M E-x---    -   1637-1663  16960-17004 meteor blast, harm, blindness, powerheal, wither, fireball, confusion, meteor swarm, powerword pain
+The Rock Monster          45   22M E-x---    -   1589-1618  17043-17120 blind, wither, meteor blast, meteor swarm, powerheal, confusion, mass pain, harm, powerword pain, fireball, NOT resist earth
+The Air Ruler             60   66M Nx-x -    -   4511-4515  50001-50001 vuln slay elemental, resist light/dark, forceflee(blow), cloudkill (targets npc:s too!)
+The Earth Ruler           60   66M Nx-xx-    -   4479-4521  50001-50001 vuln slay elemental, resist light/dark, NOT vuln air, NOT resist earth, meteor blast, earthquake, feeblemind, special-waistgrip
+The Fire Ruler            60   66M Nx-xx-    -   4538-4567  50001-50001 vuln slay elemental, resist light/dark, NOT vuln ice, NOT resist fire, fireball, hell fire, shrugger
+The Lightning Ruler       60   66M Nx-xx-    -   4490-4524  50001-50001 vuln slay elemental, resist light/dark, lightning bolt, shocking grasp
+The Water Ruler           60   66M Nx-xx-    -   4494-4506  50001-50001 vuln slay elemental, resist light/dark, NOT vuln fire, NOT resist water, powerheal, ice storm, ice blast

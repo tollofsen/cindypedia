@@ -1,0 +1,52 @@
+# Inferno (167): 35-100, Arcane/Arbogastes  (Myrridon: 24wsw3n3w2nw5n7d)
+* FIND OUT: tiny Crystal cube: Dissolves
+* FIND OUT: Level on King Toric (99+)
+#                             
+#                o                             o - o - o
+#       o /--+--/|                             |       |
+#       +/       |                             o - o   o - o
+#     o+o+o    o-o o+o-o-o      _______________|__x|       |
+#      x+     /  | | |   |     /               |   |       |
+#  King o   RIP  o-o o+b o    /            o - o - o - o - o
+# Toric                  |   /                 |   |   |   |
+#                    o-o-o  /              o   o - o - o - o
+#                    | ____/              x|           |
+#                    |/                  o-|-----------o
+#                    o                     |
+#                            o - o       o-o
+#                            |   |       |
+#                        b - o - o       o-o
+#                            |   |       |
+#                        o - o - o - o - o    o-o
+#                        |               |    | |
+#                        |  M.Mines   Jirikai-o o
+#                        |    /                 |
+#                        | Sentry               o
+#                        |  /
+#                        | o
+#                        |/
+#                        o
+#
+* Entrance from Myrridon Mines
+* Only a couple of rooms are very bright. Marked "b"
+* Most mobs are vuln pure/light/iron. Devils have delayed agg.
+
+Inferno:                   Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A Feot                      36   11M E-x-x-    -    972-1039   3537-3591  [magical]
+A Grulch                    43   22M Exx-x-    GNE 1463-1566   9210-9700  vuln pure/light/iron, resist unlife/dark/poison/fire
+A dead rotten head          55   47M E-xxx-    -  ~3026-~3031     2-2     vuln pure/light/silver/heal, immune dark/unlife, resist earth/water/air/mental, 4-4 attacks, flying before being in battle - standing after
+The rampaging ghoul         60   91M E--xxx    -  ~4660-~4757  1619-2615  vuln pure/light/silver/heal, immune dark/unlife, resist earth/water/air/mental, 3-7 attacks
+A lost soul                 63  111M E-xxxx    -  ~4810-~5022    10-33    vuln pure/light/silver/heal, immune dark/unlife, resist earth/water/air/mental, 5-5 attacks, blindness, harm, vampiric touch, 0-1 spells, invis, shrugger, flees, flying before being in battle - standing after
+A SprecC demon              67  131M E--xxx    -   8418-8612      2-2     vuln pure/light/iron, immune fire, resist unlife/dark/poison, 4-8 attacks, shrugger
+A fallen angel              70  263M E-xxxx    -   7943-7965  37746-59539 vuln pure/light/iron, immune fire, resist unlife/dark/poison, 5-5 attacks, triad of ice, curse, plasma bolt, blindness, powerheal, 0-1 spells, sitting, invis, shrugger
+The minor devil             72  181M E-xxxx    ---10195-10273  9304-32322 vuln pure/light/iron, immune fire, resist unlife/dark/poison, invis, shrugger, bash, kick, headbang, berserk, blocker, random-delayed-agg-G
+The major devil             78  429M E-xxxx1   -  15213-15321 58925-64939 vuln pure/light, immune fire, resist unlife/dark/poison/iron, 10-10 attacks, invis, random-delayed-agg-G
+A huge sentry               93 1397M Ex-x x    --- ~50k       65662-65988 immune fire, resist ice/earth/air/gas, bash, kick, headbang, berserk, 7-7 attacks
+Nerfarim the elf ranger     99 4562M Gxx  x3   --- ~75k       65536-65536 INFO, vuln ice if using "an adamantine reinforced leather vest", resist unlife if using "an adamantine reinforced leather vest", invis, hide, sneak, flees, special-flee-damage
+King Toric                 99+       Ex-x      GNE~200k       66272-67051 INFO, [dragon], resist ice?/earth?/air?/gas?/crush?, immune fire, hell storm, trueheal, 1-2 spells, shrugger, special-tailstrike, -66 ac?
+  HITROLL: +38+8: 37 hits / 26 misses (60% hits)
+  Toric info:                             Crus Mass Obli Anni Vapo Pulv Atom
+  SlayDragon: CRUSH, SLAY Dragon, avg 44        21   11   13              1
+  Ice:        CRUSH, ICE,         avg 24    2   11
+  Avalanche:  CRUSH, EARTH,       avg 22         4
+Jirikai the Methuselah     100       Ex-   3   ---            68467-71773 INFO, vuln pure/light/silver, invis, shrugger, special-grab-and-drain-blood

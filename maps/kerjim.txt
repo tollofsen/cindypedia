@@ -1,0 +1,63 @@
+# The Infernal Pit of Kerjim (220): 50-100, Rafo/Bolt  (New Thalos: 2en2e2n2wn2wn2wnd)
+* FIND OUT: Level on The skeleton warrior (1-39)
+* FIND OUT: Level on The narauk (9-39)
+* FIND OUT: Level on The celebdel (9-39)
+* FIND OUT: Level on The corpse (43-56)
+* FIND OUT: Level on A small balrog (43-45)
+* FIND OUT: Level on The Elder Balrog (43-56)
+* FIND OUT: Level on Ralich (57-65)
+* FIND OUT: Level on Zedan (57-65)
+* FIND OUT: Level on The Grand Balrog (57-65)
+* FIND OUT: Level on A balrog shaman (57-65)
+#
+#                                         o
+#                                         |
+#                                       Lilith
+#                                         +
+#                                         o
+#                                         |
+#                                         o
+#                                         |
+#                             |     o   o-o-Bergron
+#                             o     |   |
+#                            /|   o-o-o-o
+#                           X         | |
+#                          /          o o-o
+#         Sin-            o           |
+#        Quests Kerjim   /        o - o   o
+#             * *       o         |   v   |
+#           o--Z    o<-/          o - o - o
+#           |      /                      |
+#       o   o     o           o - o - o - o
+#       |   |    /                |
+#       o   o   o                 o
+#       |   |  /                  +
+#       o   o o       o - o - o - o
+#       |   |/        |
+# o--o--o---o----o----o
+# |     +   |
+# o-o-o o o-o-o
+#           |
+#           o
+#           |
+#           o-RIP
+#
+* Min level 0/35
+* Pure/light/iron works on most mobs.
+* CAREFUL! Many mobs here will summon you back if you flee/recall!
+
+Kerjim:                  Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+The skeleton warrior    1-39  300k E- --     G    181-193       3-15     summoned
+The narauk              9-39  352k E- --     G    162-172     283-1021   vuln pure/light, immune fire, summoned
+The celebdel            9-39 5400k E- --     G    810-820   25482-26082  vuln pure/light, immune fire, resist unlife/dark, summoned, colour spray, heal, lightning bolt, fireball, blindness
+A small balrog         43-45   26M E- x      G E            25173-31546  vuln pure/light/iron
+The corpse             43-56   47M E-                                    vuln pure/light, immune unlife/dark
+The Elder Balrog       43-56   48M E-xx      G E            37256        vuln pure/light/iron, harm, powerheal, confusion, meteor blast, powerpain, meteor swarm, blindness, wither
+Bergron                   60   84M Ex-xxx    -   3070-3125 134892-135420 SUMMONER, vuln pure/light, immune fire, resist dark/unlife.
+Ralich                 57-65   85M Ex-x      G E           135087-135293 SUMMONER, vuln pure/light
+Zedan                  57-65   90M Ex-x x    G E           144943-145304 SUMMONER, vuln pure/light
+The Grand Balrog       57-65   97M Ex x      G E            72159        vuln pure/light/iron
+A balrog shaman        57-65  143M Exxx x0   G E            81506        SUMMONER, vuln pure/light/iron
+Lilith                    75       Gx-x      G                           [human], powerheal, powerword pain, meteor blast, confusion, mass pain, wither
+Kerjim                    75  503M Ex xxx    G              69424-70733  INFO, vuln pure/light, SUMMONER, teleport, hell fire, hell storm, mass pain, cloudkill, blindness, summon skeleton warriors, summon celebdels, summon narauks (11-16)
+Gabriel Dreyid           100       N--xx-    -  >539k                    4-4 attacks, SPANK:s, no-where, no irv:s for dark/mental/fire/unlife/pure/light/iron/acid/poison/ice, have not tried wood/silver/earth/electricity/energy/magic/water/large/superlarge/stun/bleed/air/gas/

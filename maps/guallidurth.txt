@@ -1,0 +1,97 @@
+# Nefertum's Castle Guallidurth (345): 40-100, Nefertum  (Crossroad: 2nen2en3enw)
+* FIND OUT: Check if the room close to king still gives manareg
+* FIND OUT: Need new ident: Priestess       cold key
+* FIND OUT: royal insignia of G.: Levels
+* FIND OUT: cold key: Id / dissolves
+* FIND OUT: large sapphire: Whereto / Held / Dissolves
+* FIND OUT: old book w.w.l.c.: Held / Dissolves
+* FIND OUT: In king's room, 3 guards are agg and 3 are not. Do they differ
+*           in any other way?
+* FIND OUT: Level on The Dot (55-64)
+* FIND OUT: Level on A priestess of Lloth (90-94)
+* FIND OUT: Level on The golem (90-91)
+* FIND OUT: Level on The queen of Guallidurth (95-99)
+#
+#                      Haarvenu
+#                         +
+#                       o-o-o-o
+#                       |     |
+#                       o     o   o-o-o-o-o-
+#                       |     |   | ^     |
+#                   X-o-o     o-o-o |
+#                   |               |
+#                 (aG)*->hpreg*-----/
+#                          |
+#                          NF
+#                          +
+#                          o
+#                          |
+#                          o
+#                          |
+#                          o - o
+#                          |    
+#                          o - o
+#                          |
+#                          o                          o
+#                          |                          |
+#                  o -dot- o - o - o              o - Q - o 
+#                  |               |                  +
+#  o + o           o               o                Guard
+#  |   |           |               |                  |
+#  o   o           o               o                  o
+#  |   |           |               |                  |
+#  o   o           o               o                  o
+#  +   |           |               |                  |
+#  o - o - o + o - o - o - o - o - o + NF - NF - NF + o
+#  |   |                   +
+#  o - o                   v
+#  |   |                   o - o - o - o
+#  o - o                               |          Home
+#  |   |                      o <---\  o           ^
+#  o - o                      |     |  |           | King
+#                     o - o - o     *  v           |  x|
+#                     +         /->Pardus          * / |
+#         Spirit- o - o        /      +             o  |
+#             |       |       /      mana___mana       |
+#       Minotaur- o - o      /      regen   drain*---->o
+#             *             /
+#              \___________/
+#
+* Min level 0/40, non-good (to enter the anti-good room)
+* Walking guards do FIRE-damage!
+* NF: Noflee/norecall room
+* Area from Pardus to Minotaur is norecall
+* When Pardus is killed, you get teleported to the spirit-area. Get through
+*    that and back to Pardus, and the exit south will be available.
+* The drows are vuln pure/light/ice/slay drow-elf. Many (not all) do ice damage
+* Dot is vuln unlife/slay magical
+* In King room, Zoebri (evil) was attacked by the top 3 (out of 8) royal
+* guards, plus golem. Cindy (neutral) didn't rush to attack any. Different
+* guards or how does it work there?
+
+Guallidurth:                Lvl    Xp ASWIDMX # agg       Hp         Gold       Special
+A dot                         1     0 E-x- -             1-2          1-2       hide, flying & walking before being in battle - standing & sentinel after, great ac
+The Dot                   55-64   61M   x  -    ---                   1-1       stun damage, [magical], ultra-hide, flees, sneak, judgement, 6-7 attacks, 0-1 spell, great ac, sentinel before being in battle - walking after
+A drow assassin              75  413M E-xxxx     -   21139-21262 131657-135188  NOT ice damage, [drow-elf], invis, hide, sneak, murder, backstab (46)
+A drow archer             75-77  372M E-xxx-    --   19088-19397 105250-105736  ice damage, [drow-elf]
+A drow guard (sleeping)      80 1240M E-xx -     -   18196-18273 367220-399672  ice damage, [drow-elf], sleeping, bash
+A drow guard (playing cards) 80 1200M E-xx -    --   18475-18476  67626-139293  NOT ice damage, [drow-elf], sitting, bash
+A drow guard (guarding)      80 1280M E-xx -    --   18733-18886 107093-108520  [drow-elf], resist dark?/unlife?/magic?, bash, 5-9 attacks
+A drow warrior               80 1256M E-xxx-    --   25217-25286 173418-173786  [drow-elf], bash, 5-6 attacks
+The gate guard of Guallidurth 80      Ex-       ---              198496-198943  [drow-elf?], vuln pure?/light?/ice?, resist dark?/unlife?/magic?, invis, room is noflee/norecall
+The Royal Doorguard          85       Ex-x      GNE               18108-20140   ice damage?, [drow-elf], resist dark?/unlife?/magic?, invis, mana shielded?, harm, powerheal, blindness, confusion, mass pain, wither, hell fire
+A royal guard                90       Ex        G E              123755-124920  ice damage, [drow-elf], resist dark?/unlife?/magic?
+A drow elite guard           90       Ex x  2   G-               122315-122595  ice damage, [drow-elf], kick
+A drow instructor            90       Ex                                        [drow-elf?], vuln pure?/light?/ice?, resist dark?/unlife?/magic?
+The golem                 90-91       Nx        G E               10092-10537   immune fire/ice/stun?/energy?/earth?
+A priestess of Lloth      90-94       Ex        ---                             [drow-elf?], vuln pure?/light?/ice?, resist dark?/unlife?/magic?, invis, summon small dark spider on entry (one per entry), wither, blindness, trueheal, powerheal, harm
+The queen of Guallidurth  95-99       Ex x      GN-              501827-501952  INFO, [drow-elf?], vuln ice?, resist dark?/unlife?/magic?, powerheal, harm, wither, blindness, curse
+King Kenafin Aleval of Guallidurth
+                            100       Ex        ---             1046362-1064270 INFO, [drow-elf?], vuln pure?/light?/ice?, resist dark?/unlife?/magic?, vuln fire if using "globe of biting cold" or "olplynir del chath"?, resist ice if using "globe of biting cold"?, resist iron if using "crown of battered iron"?, sitting, invis, vampiric mist, entangle, shadow form, ~16 attacks, 1-2 spells, murder
+   Fire (firebrand) (when using globe): pulv: 12
+Pardus, the Ancient Vampire 100       Ex    2    -                    0-0       INFO, vuln pure/light/silver/wood, immune fire, invis, hide, blood mirror, haste, vampiric mist, circlestab, murder, 1-2 spells/skills, corpseless, teleports you when killed
+    Silver lance: pulverize
+    Immune to Gungner and to WoJ?
+The Elderly Drow Herald     100       Ex        ---                             questmaster
+The Minotaur                100       E-xx       N                    1-1       INFO, vuln pure/light/energy/WEAPON, immune dark, whirlwind, blocker
+The spirit of Pardus        100       E-xx -    ---                             INFO, vuln energy, resist WEAPON, resist unlife if using "figment of your imagination", invis, hide, shrugger, area force bolt, vampiric mist, soulsteal, murder, circlestab, 1-2 spells/skills, corpseless, drops his items in the sw corner when killed

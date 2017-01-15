@@ -1,0 +1,60 @@
+# EarthSea (22): 50-100, Wench  (Karandras: 10wn3wswswn12ws2w2sen)
+* FIND OUT: Level on The Phase Dragon (59-60)
+#
+#                                       o
+#                                      /|
+#                                     / o+o
+#                                    /  |
+#                                   o o+o+Mage     o Red
+#                                   |   |          |x |
+#                                   | King-Queen   o  o
+#                                   |                 |
+#                         o ---+--- o + o + o ------> o - o + Green
+#         Dragons        x          |
+#        Graveyard    Hydra  /----->o
+#            *          +   /       |
+#       o + o - o - o + o  /        o
+#      /                  /    Ged  +
+#     /     White        /      +   X
+#    /        |         /       o   |
+#   /         o        /       /
+#  /          |       /       o
+# o --------- o ---- o       /
+#                    |  o - o
+#                    o  |  /
+#                    | Bl /
+#                    o __/
+#                    |/
+#                    o
+#                   /
+#                 RIP
+#
+* Min level > 0/34
+* Same area as Dragons Graveyard
+* Many rooms are very bright
+* Many moving, aggressive bodyguards & draconians (vuln unlife)
+* Tip: Open the door east to Red & Green dragon, and eventually all aggressive
+*      draconians and bodyguards will gather there, making the rest of the
+*      area a lot safer.
+
+EarthSea:                Lvl    Xp ASWIDMX # agg      Hp         Gold      Special
+A Human Slave             30 1200k E-----    -     701-701        5-5      [human]
+The Draconian Fool        30  240k N----x    ---   502-506      500-500    vuln unlife
+The Dragon Hatchling (out)40   17M Ex-x-x    -    1473-1508    2000-2000   [dragon], flees
+The Dragon Hatchling (in) 40   17M Ex-x-x    -    1464-1495    2000-2000   [dragon], flees
+A Concubine               50   48M Ex-x-     GN   2488-2500   50001-50001  vuln unlife, NOT resting
+A Draconian zombie        55  111M Ex-xxx    -   ~6500         1500-1500   vuln pure/light/silver/heal, resist earth/water/air/mental, immune unlife/dark, flees
+The Phase Dragon       59-60  120M Ex-x      GNE  5613-5623   50000-50000  [dragon]
+A Bodyguard               70  210M E-xx      GNE  8158-8190  100001-100001 vuln unlife, resist magic/energy
+A large hydra             70  281M Ex-x x    --  10170-10357   5000-5000   [dragon], 7-9 attacks, flees
+The Great White Dragon    70  210M Ex-x      GN   9660-9706   35000-35000  [dragon]
+The Draconian             75  300M E-xx      GNE 12154-12220 100001-100001 vuln unlife, resist magic/energy
+A Powerful Mage           80 1440M Ex-x x1   --- 20208-20257 300001-300001 [human], powerword pain, mass pain, meteor blast
+The Dragon Master         80 1361M Ex-x      GNE 17182-17200 150001-150001 vuln unlife, resist magic/energy
+The Great Red Dragon      80 1280M Ex-x      GN  15363-15420  10000-10000  [dragon]
+The Holy Draconian        80 2041M Ex-x x    ---             300001-300001 vuln unlife, powerheal, blindness, wither
+The Great Black Dragon    90 1620M Ex-xxx    -   30347-30372  20000-20000  INFO, [dragon]
+The Draconian King        90 1800M Ex-x      GNE 40762-40786 500184-500247 INFO, vuln unlife, avgdam 700, special-"The Draconian King bleeds profusely, his power weakening."(when he does this, the fools in the room just disappear)
+The Draconian Queen       90 1620M Ex-x x    --  30170-30194  10000-10000  vuln unlife, flees, NOT sitting
+Ged                       95 3800M Ex-x x3 1 --- 50619            4-4      INFO, [human], powerword pain, meteor blast, mass pain
+The Ancient Green Dragon  97       Ex-x      G    ~50k       600001        INFO, [dragon]

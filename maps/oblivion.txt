@@ -1,0 +1,127 @@
+# Nefertum's Oblivion (398): 50-90, Nefertum  (Palanthas: 5s2es2enen2enen2enen7w5n3e3n3e)
+* FIND OUT: LOTS!
+* FIND OUT: ------A golden key from Corpse of The Tower Guardian.
+* FIND OUT: Level on A small shadow daedra (1-61)
+* FIND OUT: Level on The Tower Guardian (74-75)
+* FIND OUT: Level on The Torturer (74-75)
+* FIND OUT: Level on An Elite Daedroth Guard (small) (88-91)
+* FIND OUT: Level on A nalfeshnee (88-90)
+* FIND OUT: Level on A greater fire daedra (89-90)
+* FIND OUT: Level on A Daedroth (having dinner) (89-90)
+* FIND OUT: Level on An Elite Daedroth Guard (big) (94-95)
+* FIND OUT: Level on The Spider Daedra (93-95)
+* FIND OUT: Level on The Dremora (93-95)
+* FIND OUT: Level on The Daedra Seducer (93+)
+* FIND OUT: Level on The nightwalker (93-95)
+* FIND OUT: Level on Nocturnal (98+)
+* FIND OUT: Level on The imprisoned Deva (98+)
+* FIND OUT: Level on Meridia (99+)
+#
+#                                                    o
+#                                                   /|
+#                                          /-------- |
+#                                         /   Meridia|  t=tunnel
+#                                        /    o   /  | (max 2 pers)
+#                                       o    /|  X   |
+#                                       |   o t o    o       Chef
+#                                       |  /  |/     |        +
+#                                       | o   o      o   o----o
+#                                       o |          |   |    |
+#                                       | o          o  mana-mana    o+o-Azimer
+#                                       | |          |   |    |     /
+#       o-o-o-X                         | o          o-+-o----o    o
+#       |     +                         | |          |   |    |   /
+#       o     V             o-o-o<--\   o o          o   o--mana o
+#       |     o             |   |   |   | |          |          /
+#       o    /              |   *   |   | o---o--o---o-o-o-o-o-o
+#       |   |               | Dopp*>o   |
+# o-o-o-o   V   o--o-o-o->SD|         o-o-o
+# |         o   |    | |    |         | | |  
+# o        /    o--o o o--o-o-o-o+o-o-o-o-o-o-o-o
+# |       |        | |    |           | | |    /
+# o       V        o o--o |           o-o-o   o           RIP?
+# |       o        |    | |                  /             +
+# o        *->o--o-m-o--o-f---o--o         o-o+Nocturnal+Deva
+# |                |             |
+# o                o+Dremora     o
+# |             |  |             |
+# o-o-o-o-o-o-o-o  o o-Seducer o-o
+#               |  | +         |
+#                  o-o----o----o+Spider
+#
+#
+#                    Torturer portal:(Sharns)
+#                             | | |
+# (fire)  o - o - o          -o-o-o-          o - o - o  (frost)
+#         |       |           | | |           |       |
+#     o - o - o   o          -o-o-o-          o   o - o - o
+#     |           |   | | | | | | | | | | |   |           |
+# o - o   o - o hole*-o-o-o-o-o-X-o-o-o-o-o-*hole o - o   o - o
+#         |   |   |   | | | | | | | | | | |   |   |   |
+#     o   o   o - o          -o-o-o-          o - o   o   o
+#     |       |               | | |               |       |
+#     o - o - o              -o-o-o-              o - o - o
+#         |                   | | |                   |
+#         o + ? + ?                           o + o + o
+#                  *---------> mana <--------*
+#                               |
+#                               V   *->f
+#                             Freiza
+#
+* Min level 0/45
+* Interesting xp-area. Not without dangers.
+* SD: Noexit norecall room (get summon out of there).
+*     Or... you can walk out, but big failchance or random exits???
+* The sharn area (through torturer portal) is norecall, but you can be
+* summoned out from and in to the area. The rooms in the middle "loop"!
+
+Oblivion:                 Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+A small shadow daedra    1-61                                    2-2      summoned by Nocturnal
+A scamp                    75  525M E-xx -    -  21634-26088 27121-27268  vuln pure/light, immune fire, resist unlife, headbang, berserk
+The Tower Guardian      74-75       E--x -1   G -               53        invis, powerheal, wither, hell fire, mass pain, area blindness, area confusion, 1-2 spells
+The Torturer            74-75       E-xx -1   ---                1-1      vuln pure/light, resist unlife, bash, blocker, special-create-portal-on-death
+A vermai                   80       E-xx -    -                           vuln pure/light, resist dark/unlife, berserk
+The devourer               80       E-xx -    -                           vuln pure/light, immune unlife, resist air, backstab
+A Sharn                    80       E-x   2   GNE                1-1      vuln unlife, no irv for dark/pure/light, backstab
+A clannfear                80       E-xx x    -                           vuln pure/light, resist dark/unlife, netherbolt
+Oblivion:                 Lvl    Xp ASWIDMX # agg     Hp        Gold      Spe
+Azimers transparent head of Air
+                           80       E--   2   GNE                         trueheal, rescue, hurricane, gives no xp and pops immediately if killed. Dies if Azimer dies
+Azimers red head of Fire   80       E--  x3   GNE                         trueheal, memory, gives no xp and pops immediately if killed. Dies if Azimer dies
+Azimers blue head of Ice   80       E--       GNE                         trueheal, rescue, gives no xp and pops immediately if killed. Dies if Azimer dies
+Azimers white head of Electricity
+                           80       E--  x1   GNE                         trueheal, rescue, lightning bolt, gives no xp and pops immediately if killed. Dies if Azimer dies
+The grick                  80 1360M E-xx -    -  25689       27214        vuln fire/ice/light, immune blind, resist water, no irv for air/unlife, NOT immune dark, hide, bash, kick, headbang
+A frost daedra             83       E-x   2   ---           384753-387804 vuln fire, resist dark, invis, ice storm, heal
+A fire daedra              83       E-x   2   ---           384623-389789 vuln ice, resist dark, no irv for pure/light/unlife, invis, hell storm, heal
+The doppelganger           85       Ex x -    G E~32500                   ice & fire damage, immune iron/light/blind (dark?), invis, hide, judgement, shadowform, special-teleport-group-on-death
+The Chef                   85       E--x -    - -                1        [human], vuln pure/light/iron/silver/electricity, immune fire, blocker
+An Elite Daedroth Guard (small)
+                        88-91       Ex        GNE                         vuln pure?/light?, immune fire?
+A nalfeshnee            88-90       E -   2   GNE           110170-110295 vuln pure/light, immune fire, invis, shrugger, area blindness
+A greater fire daedra   89-90       E-xx      GNE           325444-331556 vuln ice, resist dark, no irv for pure/light, invis, hell storm, heal
+A Daedroth (having dinner) 89-90    E-        ---                         vuln pure/light
+A Daedroth (standing)      90       E-x       ---            99677        vuln pure/light
+A greater frost daedra     90       E xx      GNE           325508-330644 vuln fire, invis, ice storm, heal, ignore-cop
+Freiza                     95       Ex    2   G-E           277208-277691 INFO, vuln dark, immune energy, resist fire, invis, chill touch
+An Elite Daedroth Guard (big)
+                        94-95       Ex        GNE                         vuln pure/light, immune fire
+The Spider Daedra       93-95       Nx-x      G             682552        INFO, vuln pure/light, invis, noflee-room (can recall), room drains moves
+The Dremora             93-95       E                                     INFO, vuln pure/light, invis
+The Daedra Seducer        93+       E                       207016        INFO, invis
+The nightwalker         93-95       E-xx -2   -              49001        vuln ?, immune slash/pure, invis, hide, sneak, assist-scamp
+    Dr.t.Whip:  CRUSH  SLAY dragon, avg 19: pulverize
+    Windweaver: PIERCE AIR          avg 23: annihilate
+    Deathbr:    CRUSH  SLAY Human   avg 25: pulv: 13
+                                            atom: 4
+    Stun:              STUN         avg 19: ?
+    Gas:        CRUSH  GAS          avg 18: ?
+    Unlife:     PIERCE UNLIFE       avg 25: ?
+    Earth:      CRUSH  EARTH        avg 22: ?
+    Ice:        PIERCE ICE          avg 23: ?
+    Hmm... Immune NORMAL and not SLASH?
+The Guardian of Oblivion  100       Gx-       ---           563660        INFO, vuln pure/light, area blindness, special-open-door
+The Daedra Lord Azimer    100       Ex-       GNE           369898-375058 INFO, [dragon], vuln light, immune acid?, resist fire?/ice?/earth?/air?/gas?, mira, forceflee(tailstrike), norecall-room
+Nocturnal                 98+       Ex-   4   ---           664654-665358 INFO, vuln pure/light, immune fire, backstab, summon small shadow daedra, shrugger
+The imprisoned Deva       98+       G--       ---                         Give silver feather -> Deneb
+Meridia                   99+       Ex x      G--           299295-300543 INFO, vuln pure/light, magic missile (17 times), area blindness

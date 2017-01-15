@@ -1,0 +1,160 @@
+# Nefertum's Dragontail Isle (304): 50-100, Nefertum  (Myrridon: 24ws2ws2w2se2swseses)
+* FIND OUT: Level on Lord Sarakesh (90-91)
+* FIND OUT: Level on The Draconian Lord Sarakesh (90-91)
+* FIND OUT: Level on The Lich of Lord Sarakesh (90-91)
+* FIND OUT: The Draconian Jailor: IRV:s
+* FIND OUT: J. Huge Black Key: Whereto? / Dissolves?
+#
+#                                                        |
+#                                                      Dragon
+#                                                        |
+#                                                        w
+#                                                        |
+#                                                        w
+#                                                        |
+#                                                      w-w
+#                                      o-----o         |
+#                o--o-o-o--o           |    /          w
+#                |  | |    |           | o-o-o-o-o-o-o-|-o-o
+#                |  o o    |           |               w   |
+#                |         |           |               |   |
+#              o-o---o   o-o---o       o            Dragon o
+#              | |   |   | |   |       |              /    |
+#              | o o | o | o o |       |       o-o-o-o     o
+#              |   | | | |   | |       |       |           |
+#      o-----o-o---o-o-o-o---o-o-o+o-o-o-f-o-o-o     Whale-o
+#      |     | |   | | | | o | | |       |             |
+#      |     | o   | o | o | | o o       o-o-o--o-o--o-o
+#      o-o o o---o-o   o---o-o
+#      |   |     |         |
+#      o---o     o---o-o-o-o-o
+#          |               |
+#          o-o-o   o o     o-o
+#            | |   | |       |
+#            o o-o-o-o-------o-o
+#              |   |
+#              o o o o            Lvl 2               Lvl 3
+#                | + |
+#              o-o-X-o-o        t-o-o-o-t             o-o-o
+#              | |   | |        | | | | |             | | |
+#              o-o   o-o        o-o U o-o           o-o-o-o-o
+#              | |  /| |        | |   | |      D    | | | | |
+#            o-o-oRIPo-o-o    o-o-t   t-o-o    |    o-o T o-o
+#            | |       | |    | |       | |    q    | |   | |
+#            o-o-o U o-o-o    o-o-t D o-o-t    |    o-o   o-o
+#              | | | | |        | | | | |      U    | |   | |
+#              o-o-o-o-o        o-o-o-o-o           o-o D o-o
+#                | | |            | | |               | | |
+#                o-o-o            t-o-o               o-o-o
+#                  |
+#                  o
+#                  +
+#                  o
+#                 /
+#        o-RIP   o
+#        +       |
+#   Ruby-o-o-----o----o-o-Topaz
+#     |          +      +   |
+#     o+o        o      o   o+o
+#     |          |          |
+#     o       o--o--o       o
+#     |       |  |  |       |
+#   o+o--+--o-o-Jai-o-o--+--o
+#   | |       |  |  |       |
+# RIP o       o--o--o     o+o RIP
+#     |          |          | |
+#     o+o        o   o      o+o
+#     |          +   +      |
+# o+Sapphire-o-o-o-o-o---Emerald
+#              + + +
+#              o o o              o
+#                +                |
+#                o      o-o Lord  o
+#                +        |   |   |
+#                o        o   o   o
+#                +        |   +  /
+#                o        o---o-o
+#                +            |
+#                \-> o*-----> o
+*
+* Draconians, acolytes & bodaks are vuln silver/mental/slay magical
+* Lord Sarakesh: Room is noflee/nosummon, but you can walk/recall out.
+* The Draconian Jailor picks up <Name> and runs away from battle: SUMMON <name>
+* Bodak cells are norecall but you can flee out
+
+Dragontail Isle:         Lvl    Xp ASWIDMX # agg       Hp        Gold       Special
+A small rat               10       N-xxx-    -      473-486       1-1       sneak
+A seagull                 50       N-xx--    -     2779-2786      1-1       invis, immune earth, vuln air
+A wild rabbit             50       N-xx--    -     2775-2781      1-1       invis, vuln mental
+A blue draconian          60       E-xxx-1   -    ~5583-~5584 21488-21579   [magical], vuln silver/mental, immune unlife, NOT resist energy?, random-delayed-agg-G??, invis, sneak, hurricane
+A Draconian gatekeeper    60       E--xx-    -    ~5437-~5528 51087-51107   [magical], vuln mental, immune unlife, NOT vuln silver/energy?, invis, backstab (300)
+A white draconian         60       E-xxx-1   -    ~5656-~5675 21471-21573   [magical], vuln silver/mental, immune unlife, NOT resist energy?, random-delayed-agg-G??, invis, sneak, sunray
+A yellow draconian        60       E-xxx-1   -    ~5620-~5698 21369-21582   [magical], vuln silver/mental, immune unlife, NOT resist energy?, random-delayed-agg-G?E, invis, sneak, bash
+An orange draconian       60       E-xxx-1   -    ~5471-~5682 21493-21565   [magical], vuln silver/mental, immune unlife, NOT resist energy?, random-delayed-agg-G??, invis, sneak, forcewave, aware
+A cleric of Sarakesh      80 1360M E-xx -    -    27648-27830 22229-25438   vuln silver/mental, immune dark, resist unlife, invis, sneak, assist-equals, 4-5 attacks, wrath of god, 0-1 spells
+An acolyte of Sarakesh (lich) 
+                          80 1280M E-xx -    -    18475-18495 23845-23937   vuln silver/mental, immune dark, resist unlife, invis, sneak, assist-equals, 5-5 attacks, powerharm, 0-1 spells
+An acolyte of Sarakesh (skeleton)
+                          80 1120M E-xx -    ---  18458-18540 23586-25397   vuln silver/mental, immune dark, resist unlife, invis, sneak, assist-equals, 4-5 attacks
+A Lich of Sarakesh        85       Ex-x -    -                              vuln silver/mental, immune dark, resist unlife, invis, assist-equals, vampiric mist, wrath of god, 1-3 spells
+A Templar of Sarakesh     85       E--x      GN               24651-26983   vuln silver/mental, immune dark, resist unlife, invis, bash, 6-6 attacks
+A Ruby Draconian          90       E--x      G E              50930-51116   INFO, [magical], vuln silver/mental, immune blind/unlife, invis, 8-8 attacks, attack, kick, whirlwind, 1-2 skills
+A Sapphire Draconian      90       E--x      G E              51002-51036   INFO, [magical], vuln silver/mental, immune blind/unlife, invis, 8-8 attacks, attack, kick, whirlwind, 1-2 skills
+A Topaz Draconian         90       E--x      G E              51022-51037   INFO, [magical], vuln silver/mental, immune blind/unlife, invis, 8-8 attacks, attack, kick, whirlwind, 1-2 skills
+An Emerald Draconian      90       E--x      G E              50972-51095   INFO, [magical], vuln silver/mental, immune blind/unlife, invis, 8-8 attacks, attack, kick, whirlwind, 1-2 skills
+Lord Sarakesh          90-91       Ex-  -1   ---                            vuln mental?, vuln gas if using "skeletal boots", resist weapon?, mana shielded, invis, trueheal, area blindness, backstab, 1-2 skills, changes into Draconian Lord Sarakesh
+  Mind flail (CRUSH MENTAL, avgdam 21):  7 pulverize
+The Draconian Lord Sarakesh
+                       90-92       Ex-  -2   ---                  1         invis, vuln mental?, resist weapon?, mana shielded, mass pain, trueheal, area blindness, changes into Lich of Lord Sarakesh
+  Mind flail (CRUSH MENTAL, avgdam 21): 13 vaporize
+The Lich of Lord Sarakesh
+                       90-92       Ex-x -2   ---                            invis, vuln mental?/silver?, immune dark, mana shielded, hell storm, plasma ball, area ice-damage spell, trueheal, 2-2 spells, changes into lvl 100 Lord Sarakesh
+  Mind flail (CRUSH MENTAL, avgdam 21): 13 pulverize     1 atomize
+An imprisoned bodak       95       E- x  3   GNE                  1-1       INFO, [magical], vuln slash/silver/mental, immune unlife/pure/dark/energy/wood, resist magic, invis
+                                           vapo pulv atom ultr
+  plain (avg 22):                           XX
+  slash (avg 24):                                  XX
+  crush (avg 24):                             XX
+  pierce (avg 25):                            XX
+  mjollnir (avg 24), CRUSH, MAGIC:   annihilate
+  Mind flail (CRUSH MENTAL, avgdam 21):          27         5
+  Silver lance (PIERCE SILVER, avgdam 24):      101   12   11
+  Wooden staff (WOOD, avgdam 22):                -----
+  Notorych (LIGHT, avgdam 20):              12    2
+  iron    PIERCE IRON   avg 20              XX
+  ice     CRUSH ICE     avg 24               6   17
+  fire    SLASH FIRE    avg 23                   41   14
+  large   SLASH LARGE SLARGE  avg 22             29    3
+  acid    SLASH ACID    avg 22                   13    5
+  poison
+  earth
+  electricity
+  water
+  stun
+  bleed
+  air
+  gas
+Lord Tarashakan           95       E--x -1   -               377012         INFO, [magical], vuln crush/mental, immune unlife, resist normal, invis, 6-6 attacks, hell fire, vampiric mist, shockwave, powerword blind, 1-3 spells
+The Draconian Jailor      95       Ex-  -2   -                50950-51009   INFO, vuln silver/mental, resist WEAPON/magic/energy, immune unlife, invis, forcewave, plasma ball, teleport-opponent-to-random-cell-and-self-to-outside-that-cell
+  plain:  annihilate
+  slash:  annihilate
+  crush:  annihilate
+  pierce: annihilate
+  silver: vaporize
+  mental: vaporize
+  fire:   annihilate
+  wood:   annihilate
+  pure+light: annihilate
+  magic+energy: extremely hard
+  magic:  massacre/obliterate
+  hf: normal
+  ice/iron/acid/poison/earth/electricity/energyonly/magic/unlife/water/
+  dark/large/superlarge/stun/bleed/air/gas/
+Lady Eleonora            100       Gx-       -                              transporter, no-attack
+The Stranded Whale       100  300M N--xx-1   -   130487-132472    1-1       vuln ice, immune water/light, invis, sleeping, cake, 1-4 attacks, crap ac
+Lord Sarakesh            100       Ex-  -3   ---            1249315-1251267 INFO, vuln mental/wood, immune unlife/fire/ice/powerpain, invis, mass pain, area ritual of pain, nether ball, trueheal, area ice-damage spell, area fire-damage spell, area wither, area(?) power(?)blind, special-handgrab, 1-3 spells, items are carried
+  plain:  ?
+  slash:  ?
+  crush:  ?
+  pierce: ?
+  Mind flail (CRUSH MENTAL, avgdam 21): 21 atomize

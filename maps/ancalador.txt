@@ -1,0 +1,41 @@
+# Ancalador/Necromancers' Guild (29): 10-25, CAW  (Karandras: 10wn3wswswn10w2swse2sws)
+* FIND OUT: Bloodstone: Levels (or anti-align)
+#
+#  |
+#  X-o-f-o-o   o                                          o - o   o - o
+#         /   /                                           |   |   |   |
+#        o   o                                          o---o o   o   o - o
+#       /    |                                          | | | |   |       |
+#      o --- o - o - o ----- o - o - o - o + o -------- o | o o - o       V
+#            |      /       /   /   /   /    +            | |             f
+#            | o o-/o-o   RIP RIP RIP  /     o -- o       o o
+#            |/  |/ | |               /     /    /        |/
+#            o   o--o-o <------------/     o o --- o + o  o
+#                |  | |                    |/  /  /
+#                o--o-o                o + o  o  /
+#                                     x       | /
+#                                    o        |/
+#                                             o
+#
+* Whole area is very bright
+
+Ancalador:               Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+The zombie                 5   14k E-x--     G     94-105       0-0     vuln heal, immune unlife/dark, summoned, no-group
+The green slime            6   26k N-----    G    117-125       0-0
+The yellow crystal spider  7   38k E-x---    G    137-141       0-0
+The green crystal spider   8   60k E-x---    -    156-165       0-0     flees
+The hermit                10  110k G-----    -    196-201      24-24
+The spectre               10  100k E-x---    G    191-210       1-1     summoned, immune unlife
+The undead riding beetle  11  132k E-----    -    212-230       1-1
+The deadly asp            12  156k N-x---    G    241-248       1-1
+The Petrified Warden      12  156k E-----    -    238-250    1010-1010
+The putrid zombie         13  182k N-----    -    263-269       1-1     no-group, immune unlife/dark, vuln heal
+The wraith knight         15  255k E-----    G E  293-310    1556-1556  no-group, immune unlife/dark, vuln heal, bash, kick
+The flame dweller         14  210k E-----    -    272-286    1801-1801  sitting
+The wraith                15  225k E-x---    G    293-304       1-1     summoned, immune unlife
+The ochre jello           16  304k E-x---    G    323-338    1577-1577
+The Necromancer           17  357k E----     -    354-369    6667-6667  flees, blindness, feeblemind, summon spectre, summon zombie, summon wraith, chill touch, cure critic, curse, edrain, shocking grasp
+Lazarus                   19  475k Ex----    -    420-427   13239-13239 no-group, backstab (95), immune unlife/dark, vuln heal
+The umber hulk            18  414k E-x---    G    385-394       1-1
+Morticia                  23 1035k Ex-x--    -    527-537    9787-9787  fireball, lightning bolt, colour spray
+The Crypt Keeper          25 1500k E--x      G E ~600-~609  15226-15226 vuln pure/light/heal, immune unlife/dark, shocking grasp, chill touch, summon spectre, summon zombie, blindness, feeblemind, cure critic (damages him), summon wraith, energy drain, curse

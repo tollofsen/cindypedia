@@ -1,0 +1,36 @@
+# The Marsh (83): 40-50, Unknown  (Sundhaven: 6es2es3ese3ne)
+#
+#     - X -\
+#       |  |
+#          o
+#          |
+#          o - o - o - o
+#          |
+#          o - o - o - o
+#          |   |   |
+#       Slaad  o   |
+#          |   |   |
+#          o - o - o - o
+#                      |
+# Citadel of - o - o - o
+#   Order
+#
+* Some aggies, but none that see invis or in darkness.
+
+Marsh:                   Lvl    Xp ASWIDMX # agg     Hp          Gold      Special
+A rather small beast      15  300k N-x---    -    411-419       500-500    flees
+The Marsh Hag             26 3900k E-x---    -   1313-1316    10000-10000
+A gargoyle                28 8400k E-----    G    710-715     10000-10000
+A marsh wolf              28 6160k E-x---    G    883-914         0-0      vuln mental
+A shambling mound         33 6600k E-x---    -   1539-1552        0-0
+A green troll             34 5440k E-x---    G   1622-1633     8000-8000   [troll], vuln acid?/mental?, resist earth?/poison?/crush?
+A large snake             35 7350k E-x---    -    919-928         0-0      flees
+A huge hairy beast        36   11M E-x---    G   1573-1576    10000-10000
+A swamp troll             36 7200k E-----    G   1146-1163    20000-20000  [troll], vuln acid?/mental?, resist earth?/poison?/crush?
+The monstrous snake       36 7200k E-x---    -    334-354     10000-10000  flees, hide
+A gnoll                   40   12M E-x---    -   1762-1762    25000-25000
+An ogre                   40   12M E-x---    G   2509-2515    30000-30000  vuln fire/superlarge, resist ice
+The Will-O-Wisp           40 8000k N-x---    -   1011-1016     3000-3000   flees
+The Swamp Thing           44   18M E-----    G   2051-2061    25000-25000
+A marsh giant             45   36M E-x---    G   3334-3408    20000-20000  [giant], resist crush?/large?/superarge?/poison?
+A Death Slaad             75  525M E--xx-    -  12339-12340  250159-250197 vuln pure/light/iron, immune fire, resist unlife/dark/poison

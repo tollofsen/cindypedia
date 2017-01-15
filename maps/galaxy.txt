@@ -1,0 +1,72 @@
+# Galaxy (104): 10-30, Doctor  (Elven Village: 6nend)
+#
+#                              o + o ---------------- o
+#                              |                      |
+#                              o                  o - o
+#                              |                  +
+#                              o              o - o
+#                              |              |   |
+#                              o          Cepheus-o
+#                              |              |
+#                              o          o - o
+#                             x           |
+#                            o          Ursa
+#                           x             |
+#           Sag - Sco - Lib/- Vir      Polaris
+#                        |/
+#           Leo - Can -- o -- Cap - Aqu
+#                       /|
+# RIP       Gem - Tau -/Ari - Pis
+#  |                  /
+#  o - o       o     /
+#  |   |       |    /
+#  o - o ----- o --/- o ----------- o
+#  |   |          /   |            /|
+#  |   |   o - o-/Herc|           / |
+#  |   |   |   |/  |  |          /  |
+#  o - o   o - o - o  o ----------- o
+#  |   |   |   |   |  |        /
+#  |   | Orion-o - o  |       v
+#  |   |       |      |   RIP/
+#  o - o ----- o ---- o    |/
+#      |               RIP-o-RIP
+#      |  Tavern           |
+#      |   /              RIP
+#      X<-/
+#
+* Entrance from Crystalmir Lake or Elven Village
+* Cancer, Libra, Capricorn & Aries carry the keys needed for the top level.
+
+Galaxy:                  Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A poor mudder              4  3400 N-x---    -     76-84      101-101
+A baby draco               9   90k E-x---    -    177-185    2001-2001 flees
+A speedy comet            10  110k E-x---    G E  196-210     751-751
+A young nebula            10  110k G-x---    -    192-194     501-501
+The Pleiades              11  132k G-----    -    212-228    1501-1501
+A red supergiant          15  255k N-----    -    296-306    1001-1001 sleeping, flees
+A white dwarf             15  255k N-x---    -    293-300    1001-1001
+Gemini (hiding)           15  255k Ex-x--    -    296-309    2001-2001 flees
+The wild Pegasus          17  357k G-----    -    355-367    2501-2501 flees
+A horsehead nebula        18  414k E-----    -    390-392    3001-3001 sitting
+Poor Andromeda            18  414k Gx----    -    386-393    2501-2501
+Orion the hunter          19  475k Gx----    -    413-428    2501-2501 bash, kick
+The mighty Hercules       19  475k Gx----    -    412-428    2501-2501 bash, headbang
+Aquarius                  22  880k Gx----    -    498-510    1001-1001
+Aries                     22  880k Gx----    -    500-503    3001-3001 sitting
+Cancer                    22  880k Gx----    -    502-525    1201-1201
+Capricorn                 22  880k Gx----    -    497-517    1001-1001
+Gemini (looking)          22  880k Gx----    -    501-516    3001-3001
+Leo                       22  880k Ex-x--    G    501-505    1001-1001
+Libra                     22  880k Gx----    -    489-514    1001-1001
+Pisces the fish           22  880k Ex----    G    506-512    1001-1001
+Pisces the mermaid        22  880k Gx----    -    503-523    1001-1001 sitting
+Sagittarius               22  880k Gx----    -    498-515    1001-1001 bash, kick, headbang
+Scorpio                   22  880k Ex-x--    G    517-519    1001-1001
+Taurus                    22  880k Ex-x--    G    515-518    3001-3001
+Virgo                     22  880k Gx----    -    507-521    1001-1001 sitting
+The Head of Draco         25 1500k Ex-x--    GN   589-601    1501-1501
+Cassiopeia the Queen      26 1820k Gx ---    -    618-622    1201-1201 sitting
+Ursa Major the bear       27 2160k Nx-x--    GN   654-656    1501-1501
+A beautiful star          28 1556k G-----    -    717-725    1542-1575 cake
+Polaris, the polar star   30 3600k Gx-xx-    -N   734-780    2001-2001 invis, fireball, blindness, harm, colour spray
+Cepheus the King          36 5400k Gx----    -   1019-1035   1201-1201 sitting, meteor blast, meteor swarm, colour spray, fireball

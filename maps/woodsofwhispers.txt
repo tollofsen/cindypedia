@@ -1,0 +1,165 @@
+# Woods of Whispers (???): 25-100, Zendrax  (Crossroad: 2nen2en3en2en2es2es2en3enwnw3ne)
+* FIND OUT: 4 locked doors in White witch house
+* FIND OUT: 2 locked doors in Black witch house
+* FIND OUT: Zhariana's room - any exits?
+* FIND OUT: DT to be found: the pit o death
+* FIND OUT: a Light-forged Witchblade used by Sharae
+* FIND OUT: Is Sharae's room unlocked at certain hours?
+* FIND OUT: Are all rooms in both houses noflee & norecall?
+* FIND OUT: Try holding a mushroom
+* FIND OUT: Is just about everyone here looter?
+* FIND OUT: Tons! Levels, vulns, rest of map, mobs, etc.
+* FIND OUT: Level on A gigantic culicidae-mosquito (1-40)
+* FIND OUT: Level on A large cockroach (1-40)
+* FIND OUT: Level on A red worker ant (1-40)
+* FIND OUT: Level on A black beetle (1-40)
+* FIND OUT: Level on A soldier ant (1-40)
+* FIND OUT: Level on An angry earwig (1-40)
+* FIND OUT: Level on A giant worker ant (1-40)
+* FIND OUT: Level on A giant warrior ant (1-40)
+* FIND OUT: Level on A green-glowing frog (1-40)
+* FIND OUT: Level on A fox (1-40)
+* FIND OUT: Level on A fat badger (1-41)
+* FIND OUT: Level on A tiny roe deer (1-40)
+* FIND OUT: Level on A prowling lynx (1-40)
+* FIND OUT: Level on An adult deer (1-40)
+* FIND OUT: Level on A wild boar (43-46)
+* FIND OUT: Level on A hungry wolf (43-46)
+* FIND OUT: Level on An aggressive moose (52-54)
+* FIND OUT: Level on A young troll (62-66)
+* FIND OUT: Level on An adult troll (72-73)
+* FIND OUT: Level on A young Ent of Pine (77-79)
+* FIND OUT: Level on A young Ent of Spruce (77-78)
+* FIND OUT: Level on A young Oaken Ent (77-79)
+* FIND OUT: Level on Ancient Oaken Ent (92-93)
+* FIND OUT: Level on The ancient Ent of Mountain Ash (92-93)
+* FIND OUT: Level on The Grawlth (97-99)
+* FIND OUT: Level on Zhariana (?)
+* FIND OUT: Level on Sharae (97+)
+#
+#    o---o--------o---o
+#    |   |    \   |   |
+#    |   |     |  |   |
+#     \->o-----o--o---o
+#        |  \  |  |
+#  ______|_  | |  |
+# /      | \ o-o--o
+# |      |  \     |
+# o--o--Tro  \____/        o--------o--o
+# |  |   |                 |        |  |
+# o--o---o--o--o--o--o-Bdg-o-------Gri-o-Gri-Tro
+# |  |   |  |  |  |  |  |  |        |  |  |   |     o   o             o
+# o--o--ASH-o--o--o--o--o--o--------o--o--o--Gri     x  +             |
+# |  |   |  |  |  |  |  |  |        |  |  |   |       o+o+o           o
+# o-Pond-o--o--o--o--o--o--o--------o--o--o---o         |             |
+# |  |   |  |  +  |  |  |  |        |  |  |   |       o+o--o--o-o-o-o-o
+# o--o---o--o RIP+o--o--o--o--------o--o--o---o       | |   o | | |
+#        |  |     |  |  |  |        |  |  |   |       | |  /| | | |
+#        o--o--o--o--o--o--o--------o--o--o---o   RIP o-o+o o o-o-o
+#        |  |  |  |  |  |  |        |  |  |   |      \| | |/  | | |
+#    Tro-o--o--o--o-Ant-o--o--------o--o--o   o--o-o  o+o+o   o-o-o
+#     |  |  |  |  |  |  |  |        |  |  |      | |    |     | |
+#     o--o--o--o--o-Tro-o--o--------o--o--o      o-o--o-o--o--o-o
+#     |  |  |  |  |  |  |  |        |  |  |           | |  |  | |
+#     o--o--o--o-Tro-o--o--o--------o--o--o           o-o--o--o-o
+#           |              |        |                   |  |  | |
+# -o--X--o--o              o Sharae | Zhariana          o--o--o-o
+#  |                       | +      |  /                |  |  | |
+#                      ?+o o o      o o                 o--o--o-o
+#                       x| |/       | |                 |  |  | |
+#                   RIP? | o        | o                 o--o--o-o
+#                        |/         |/                        | |
+#                      ?+o   +      o                         o-o
+#                            o+    x+                         |
+#                            | ___/ o                         o
+#                            |/                               |
+#                            o+                               o
+#                            +                                |
+#                                                             o
+#
+* Whole area, except entry rooms, is norecall. Forest is not very bright.
+* Normal & Ancient Ents REMOVE a random exit in the room they are in.
+* Ents seem to be mythical
+
+Woods of Whispers:             Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A gigantic culicidae-mosquito 1-40 ~138k E-x--      NE  203-205     459-500  cure light, poison
+A large cockroach             1-40  186k N--            265-266     607-648
+A red worker ant              1-40  211k N--                        588-647
+A black beetle                1-40  278k N-x        -   303-304     711-744
+A soldier ant                 1-40  343k N----     GN               758-774
+An angry earwig               1-40  399k N-x -     GN   362-363     775-779
+A giant worker ant            1-40  469k N--            393-394     831-877  flees
+A giant warrior ant           1-40  924k N-x            512-646    1097-1178
+A green-glowing frog          1-40 1468k Nx-            602-606    1394-1420
+A fox                         1-40 2641k N-x        -   693-694    1685-1736
+A fat badger                  1-41 4078k N--            843        2166-2222
+A tiny roe deer               1-40 5290k N-x            812-814    2003-2131 headbang, flees
+A prowling lynx               1-40 9523k N-x            983-985    2385-2580
+An adult deer                 1-40   13M N-x           1224-1225   2640-2726 flees
+A moose                         42   17M N-            1422-1425   3115-3142 vuln mental/gas?, resist earth?
+A wild boar                  43-46   21M N-x           1604-1605   3173-3397
+A hungry wolf                43-46   23M N-x         E 1682-1684   3542-3583 vuln mental, flees
+A brown bear                    51   32M N-x         E 2205-2205   3749-3917
+An aggressive moose          52-54   40M N-xxx      N  2802-2803   4165-4275 vuln mental/gas, resist earth
+A grizzly bear                  59   61M E--x      GN  3801-3804   4491-4878
+A young troll                62-66   95M Nxx  -    G-  5601-5602   5072-5161 [troll], heal, headbang, flees, invis, turns into a large stone at 6 am and back into a troll at 9 pm
+An adult troll               72-73  160M N--xxx    G-              6195      [troll], resist dark, kick, powerheal, turns into a medium-sized stone at 6 am and back into a troll at 9 pm
+A young Ent of Ash              75       N-x                                 fireball, heal
+A young Ent of Birch            76       Nxx                                 flees
+A young Ent of Pine          77-79       N-x                       6423      vampiric mist
+A young Ent of Spruce        77-78       N-x
+A young Oaken Ent            77-79       N-x                       6425      trueheal
+A young Ent of Mountain Ash     80       N-x
+An Ent of Ash                   82       E-x
+An Ent of Pine                                                               triad of ice
+An Ent of Birch                 83       N-x                       7134-7547 powerheal
+An Ent of Spruce                84       N-x                                 ignore-cop
+An Ent of Mountain-Ash          86       N-x
+An Oaken Ent                    87       N-x                                 vuln slay mythical
+The ancient Ent of Ash          88       N-x        -                        ignore-cop, hell fire
+The ancient Ent of Birch        89       N-x                      8122-8374  trueheal
+The ancient Ent of Spruce       90       Nxx                      8581-8958  plasma ball
+The ancient Ent of Pine         91       N-x                                 ignore-cop, hell fire
+Ancient Oaken Ent            92-93       N-x        -             9416-9534  ppain, trueheal
+The ancient Ent of Mountain Ash 92-93    N-x                                 trueheal
+The Grawlth                  97-99       E-xx      GN            10955-10649 INFO, vuln light or pure? (plain=vaporize), noflee/norecall, hell fire, 5-7 attacks
+Angry ash                      100       N--x       N                        INFO
+Zhariana                         ?       Ex x       N                        invis, noflee/norecall, hell fire, 8-9 attacks, can do 1100 damage per round
+Sharae                         97+       Gx                                  noflee/norecall
+
+cluster of rowanberries:
+  A young Ent of Mountain Ash
+
+a green scroll:
+  An Ent of Mountain-Ash
+  An Ent of Spruce
+  The ancient Ent of Pine
+  An Ent of Ash
+  The ancient Ent of Birch
+  The Ancient Oaken Ent
+-> the scrolls are remove force field...
+-> cause zhariana have a forcefield, so you cant touch her without those
+-> scrolls.
+
+a drop of blood:
+  ground
+  Also been carried by An Ent of Pine
+                       A hungry wolf
+                       A grizzly bear
+                       A brown bear
+                       The ancient Ent of Birch
+                       An Ent of Ash
+                       An Ent of Spruce
+-> Probably means those mobs are looters.
+
+a brown edible mushroom:
+  ground
+  Also been carried by An adult troll
+                       A hungry wolf
+                       An Ent of Spruce
+                       An Ent of Ash
+                       The ancient Ent of Birch
+                       An Ent of Mountain-Ash
+                       A brown bear
+                       An Ent of Pine
+-> Probably means those mobs are looters.

@@ -1,0 +1,163 @@
+# NewCont - Roads and Rivers (Ashinara): 1-100, Smack
+#
+#                                      o-o-o-o
+#                                      |     |
+#                                o-o-o-o     o-Apocalypse
+#                                |                                           Khronatio
+#                                o                                               |
+#                                |                                            Lorchid
+#                            o-o-o                                             City
+#                            |                                                   |
+#                            o                                                   o
+#                            |                                                   |
+#                          o-o                                                   o
+#                          |                                                     |
+#                        o-o                                                     o
+#                        |                                                       |
+#               Oblivion-o                                                     o-o
+#                        |                                                     |
+#                      o-o                                                     o
+#                      |                                                       |
+#                  o-o-o                                                     o-o
+#                  |                                                         |
+#                o-o                                                         o
+#                |                                                           |
+# Palanthas  o-o-o                                      o-o-o              o-o
+#  |         |                                              |              |
+#  o-o-o   o-o                                              o-o            o Battlefields
+#      |   |                                                  | Narnia     |    +
+#      o-o-o                                                  o   |      o-o-Alterac
+#          |                                                  |   | Cohn |
+#          o High                                             o-o | Shar o
+#          | Clerists                                           | |  |   |
+#          o Tower                                              o-o  | o-o
+#          | |                                                    |  | |
+#          o-o-o                                                  o  o-o
+#              |                                                  |    |
+#              o-o                                                o--o-o
+#                |                                                   |
+#                o-o-o                                               o
+#                    |                                               |
+#                    o                                             o-o
+#                    |                                             |
+#                    o                                             o
+#                    |                                             |
+#                    o-o                                         o-o
+#                      |                                         |
+#                      o-o                                       o
+#                        |                                       |
+#                        o                                     o-o
+#                        |                                     |
+#                        o                                     o
+#                        |                                     |
+#                        o                                     o
+#                        |                                     |
+#                        o                                     o
+#                        |                                     |
+#                        o                                     o
+#                        |                                     |
+#                        o                                     o
+#                        |                                     |    Woods
+#                        o                                     o-o-  of
+#                        |                                       | Whispers
+#                        o                                       o
+#                        |                                       |
+#                        o                                       o
+#                        |                                       |
+#                        o-o                                     o-o
+#                          |                                       |
+#                          o         Haarvenu      o-o-o           o-o
+#                          |            +          |   |             |
+#                          o-o     Guallidurth-o-o-o   o-o-o   o-o-o-o
+#                            |                 |           |   |
+#                            o           o-o-o-o           o-o-o
+#                            |           |
+#                            o-o     o-o-o
+#                              |     |
+#                              o   o-o
+#                              |   |
+#                              o   o
+#                              |   |
+#                              o-o-X
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o
+#                                  |
+#                                  o-o-Giants
+#                                    |
+#                                    o
+#                                    |
+#                                o---o
+#                                |   |
+#                             Castle o
+#                            Dunheim |
+#                              |     o
+#                          Lahresin  |
+#                                    o
+#                                    |
+#                                    o
+#                                    |
+#                                  o-o
+#                                  |
+#                                  o
+#                                  |
+#                                o-o
+#                                |
+#                              o-o
+#                              |
+#                            o-o
+#                            |
+#                        o-o-o
+#                        |
+#                    o-o-o
+#                 ...|.....
+#                    o
+#     Myrridon       |
+#      Mines   o-o-o-o
+#      / |     |
+#     /  o-o   o
+#    /     |   |
+# Inferno  o   o
+#          |   |
+#          o-o-o-o
+#                |
+#                o
+#                |
+#                o o-o--Myrridon
+#                | |
+#              o-o-o
+#              |
+#          o-o-o
+#          |
+#          o  Tournament
+#          |  ...|...
+#          |     |
+#          o-o   o
+#            |   |
+#            o-o-o
+#            |
+#          o-o
+#          |
+#          o-o
+#            |
+#            o-o
+#              |
+#          Dragontail
+#             Isle
+#
+* New Continent, Ashinara

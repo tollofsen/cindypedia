@@ -1,0 +1,61 @@
+# Point of Impact (227): 10-20, Zendrax  (Karandras: 5s3w3sw)
+* FIND OUT: Level on A bright angel (99+)
+#
+#                                 X-        /
+#                                /|       15
+#                               o         /
+#                              /         o
+#                             o         /             o
+#                            /         o              |/
+#                           o         /            o-30-o
+#                          /         o           o   /|
+#                         o         /            |  / o
+#                        /         o             o /
+#                       o         /              |/
+#                      /         o           o-o-o-o-o
+#                     o         /               /|                   o
+#                    /         o       o-o-o   / o                   |/  
+#                   o         /          |    /  |               o o-38-o
+#                  /         o           o   /   o               |  /|
+#                 o         /            |  /                    o o o
+#                /         o       o     o /   o                 |/ 
+#               o         /        |     |/    |             o-o-o-o-o
+#              /         o         o-o-o-o-o-o-o                /|
+#             o         /          |    /|     |               o o
+#            /         o           o   o o     o              /  |
+#           o         /               /  |                 o o   o
+#          /         o               o   o                 |/
+#         o         /               /    |           RIP o-o-o
+#        /         o               o   o-o-o           |  /|
+#       o         /               /                   WM / o
+#      /         o               o                     |/
+#     o         /               /             RIP-WM-Angel-WM-RIP
+#    /         o               o                       |
+#  15        |/              |/                    Watchman
+#  /       -30-            -38-                       /
+#           /|              /|                     Brain
+#
+* Max level 20
+* First room destroys moves. All other rooms boost hp regen.
+* The WM rooms near Angel boost mana regen.
+* Nice lowbie area with plenty of mobs
+
+Point of Impact:         Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A large flying insect     10  110k E-----    -    229-239     108-132  aware
+A rotten hand             10  110k E-----    -    202-205      41-41
+A smelly foot             10  110k E-x---    -    209-211      41-43   no-group, immune unlife, vuln heal
+A small bug               12  155k E-----    -    227-235     179-183
+Some dark material        13  168k N-----    -    253-254     345-357  sleeping
+A murderous bat           14  210k E-----    -    292-294      30-49   sleeping, invis
+A big creature            15  240k E-x---    -    325-325     160-168  +300 starthp
+A carnivorous plant       15  247k E-----    G    314-320     251-254
+A huge eye                15  247k E---x-    GN   340-348     178-181  flying before being in battle, standing after
+A jumping stone           15  247k E-----    -    298-311       2-2
+The Big                   15      
+A slithering green snake  22  770k E-x-x-    -    471-475       1-1    flees
+A heavy lizard            25 1500k E-x--x    -    722-725    2672-2753 sitting, bash
+A black haired beast      30 3600k E-----    G   1330-1341   5488-5591
+A Watchman of the Dark    30         -x       NE
+The cook servant          30       N----x         750        2500      [human]
+The Master Brain          39       Nx-        N
+A bright angel           99+       N--x--    -  79884-79940     1-1    INFO, [human], cake

@@ -1,0 +1,62 @@
+# DragonSpyre (56): 45-75, Unknown  (Solace: 7seu2nw4ne)
+#
+#                         o
+#                        /+                      o+Ice
+#                     New o - RIP                +
+#                  Thalos |                      o
+#                         o                      +
+#                         |          White+o-o-o-o-o-o-o-o-o
+#                         o            |                   +
+#                         |            |           New     o
+#                         o            o          Thalos   +
+#                       o |            |            /      o
+#                      /| o<-o-o-o-o-o-o-o-o-o-o-o+o       +
+#             Abandoned | |      |                   o-o-o-o
+#               Caves   | o      o                   +
+#                       | |      |                   o
+#           f-o-o-o-o-o-o-o      o                   +   Gate-
+#          /              |      |                   o-o-keeper
+#         o               o-o--o-o                       +
+#        /                                               o
+#       o                                                |
+#      /                                                 o
+#     o                                                  |
+#     |                                                  o
+#     o                                                  |
+#     |                                                  o
+#     o                                 __               |
+#     |                                /  \  o-o-o-o-o-o+o-o-o-C
+# X-o-o                                |  |  |     |
+#                                      \->o<-/     o
+#                                                  +
+#                                                Time
+#                                                  +
+#                                                  o
+#                                       o+-----\   +
+#                                       ^      |   o
+#                                       |      V   |
+#                                       \-+o-o-o-o-o-o-o-o+P
+#                                                  |
+#                                                  o
+#                                                  |
+#                                                  o
+#                                                  |
+#                                                  o
+#                                                  |
+#                                                  o
+#                                                  |
+#                                                  o-> f
+#
+* Pixies are vuln unlife. Slay dragon on dragons. Slay human on gatekeeper.
+
+Dragonspyre:                    Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A Pixie                          40   17M G-x--x    -   1302-1312     51-51    vuln unlife, immune pure/light, flees, mass pain, meteor blast, powerword pain
+A Pixie Guard                    42   15M G-----    -   1404-1407    201-201   hide, vuln unlife, immune pure/light
+The Master Pixie Mage            44   39M Ex-x-x    -   1551-1580   2001-2001  vuln unlife, immune pure/light, powerword pain, meteor blast, mass pain
+The Copper Dragon                45   21M Gx-x-x    GN  1586-1600      1-1     [dragon], resist earth?/air?/gas?, no-group
+The Pixie King                   45   43M G--x-x    -   1600-1613      1-1     vuln unlife, immune pure/light, mass pain, confusion, harm, meteor blast, blindness, wither
+The White Dragon                 46   23M Ex-x-x    GN  1665-1691      1-1     [dragon], resist earth?/air?/gas?, no-group, shadowform
+The Spirit of the Time Dragon    50   29M Nx-x-     G   2425-2443  40001-40001 [dragon], resist earth?/air?/gas?, no-group
+The GateKeeper                   50   29M N--x-x    GN  1985-2010      1-1     bash, kick, headbang
+The Spirit of the Ice Dragon     60   67M Nx-xx     GN  3974-3987  50001-50001 [dragon], resist fire?/ice?/earth?/air?/gas?, invis, shadowform, aware
+The Eternity Dragon              95       Nxxxxx    - ~48000                   [dragon], shrugger

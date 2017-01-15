@@ -1,0 +1,47 @@
+# The Ice castle (47): 45-100, Solo/Static  (King's Castle: 3wnwne2nw2nwne4swse3sd4se3s)
+#
+#             |                                        WM
+#             X                     ___________________/|
+#             |                    /                    |
+#         o - o - o               /                 o-o-o-o-o
+#         |       |              /                  |   |   |
+#         o - o - o             /                   o   o   o
+#             |                /   o-o-o            |   |   |
+#             o               /    |   |            o-o-o-o-o
+#             +              /     o-o o-o+Light-       |
+# o - o - o - o-o-o-o       /        |     beam         o
+# |       +         |      /         o                  |
+# o       o - F     o     /          |          o-o-o-o-o-o-o+King
+# |           |     |   WM --------- o          |       |       +
+# |         /-----------/            |          o       o       o
+# |        /  |     |                |          |       |       |
+# o      WM   o     o    Lady        |   Spring+o-o   o-o-o   o-o
+# |       +   +     |     of--+o-o   o   Ruler    |   |   |   |
+# o - o - o - o --- o   Summer   |   |            o   o   o   o
+#                                o   |            |   |   |   |
+#                                |   |            o-o-o   o-o-o
+#                                o-o-o              |       |
+#                                                   o       o
+#                                                   |       |
+#                                                   o-o-o-o-o
+#                                                       |
+#                                                       o
+#                                                       +
+#                                                     Witch
+#
+* Whole area is very bright
+* Many aggressive guards - vuln fire/slay human
+
+Ice Castle:                Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+An Icicle                    5   50k N--x--    GN    14-21      213-217   invis
+The Paper Boy               25 1375k N-xx--    -    592-602    8013-8016  [human], flees
+The Polar Bear              39   14M G-x---  5 -    965-988    3120-3161  vuln mental/gas, resist earth, bash, kick, headbang, invis
+The Snowman                 45   27M N---x-    -   1782-1787   5010-5017  vuln energy, resist WEAPON, immune unlife, invis, save 5
+The Guard of Ice            55   52M Exxx      GNE 3383-3396  40703-41847 [human], vuln fire, immune ice, magic missile, triad of ice
+The Guardian of the Stair   55   47M E--x x    -   1997-2023  20492-20626 immune ice, triad of ice
+The Ice Guard               60   90M Exxx      G   4055-4059  50418-50540 [human], vuln fire, immune ice, magic missile, triad of ice
+The dancing lightbeam       85 1190M Ex-x      G  10230-10330 67628-68829 [magical], powerword pain, mass pain, meteor blast
+King Aryan                  95       Gx-x x    -                          [human], immune ice, invis, fireball, meteor swarm, meteor blast, colour spray, shrugger
+The Lady of Summer          95       Gx-x x    -                          vuln acid, immune fire/air/gas/light/dark, powerword pain, mass pain, meteor blast, invis
+The Spring Ruler            95       Gx-x x    ---                        vuln acid, immune fire/air/gas/light/dark
+The Evil Witch of Greyscale 95       Exxx      G                          shrugger, mass pain, powerword pain, meteor blase

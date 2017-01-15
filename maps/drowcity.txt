@@ -1,0 +1,62 @@
+# Drow City (51): 15-50, DikuMUD/Jess  (Drow: -)
+#
+#       o + Yochlol
+#      x       |
+#    UD    /-- o --\   o
+#          |  /    |   +
+#          o RIP   o + o
+#          |       |
+#          \-- o --/   o-o
+#              | _______/|
+#              |/        o+o
+#              o        /
+#                      o   o
+#                      |   +
+#          o - o - o - o-o-o-o    o
+#              |   ^   | ________/|
+#              |   |   |/         |
+#              \-> o   o    WM    |
+#                         HPreg   |
+#                           |     |
+#                       o + o - o |      o   o - Jenaria
+#                           |     |      +   +
+#                Anhara o - o --- o ---- o - o
+#                   +       |            |   |
+#                   o + o + o     o   o  o - o - X
+#                           |     |   |      |
+#                           o --- o - o ---- o
+#                           |     |   |
+#                 Shanara + o    WM   o
+#                                     +
+#                                  Mandara
+#
+* Min level 0/32 (Anhara's house)
+* Whole area is very bright
+* All drows are immune to pure/light/ice(?) No vulns(?) Careful with Anhara.
+
+Drow City:              Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+An abused Goblin Slave    5  8800 E-----    -    104-111      62-68    sleeping
+The Captive Fairy         7   49k N---x-    -    140-142     301-319
+The Drow Scout           10  128k E-x-x-    -    201-227    1189-1490  sneak
+A Drow magician          15  750k E--xx-    -    202-215     944-2365  no-group, NOT immune unlife, lightning bolt, fireball
+Anhara's Consort         15  255k E---x-    G    181-185     666-1555
+Jenaria's Consort        15  255k E---x-    G E  182-185     879-1122
+Mandara's Consort        15  255k E---x-    G E  181-184    1128-1334
+Sharana's Consort        15  255k E---x-    G E  184-185    1066-1563
+Warrior Student          15  255k E---x-    -    303-307    2520-2527
+Drow Slaver              20  550k N--- -    -    447-463    3026-3063  immune blind, no-charm
+Minor Priestess of Lolth 17 1190k E--xx-    -    236-255    3179-3267  blindness, curse
+An Angry Spider          25 2000k E-----    G    777-790   10251-10343 bash, kick, headbang
+Drow Musician            25 1375k E---x-    -    596-604   10301-10356 immune pure/light/ice
+Anhara's Pet Spider      28 2240k E-----    -    744-784   10311-10361 sleeping, magic missile, chill touch, armor, burning hands
+The Smithy               30 3300k E--- -    -   ~754-~759  30274-30304 vuln light, immune pure/ice/blind, resist dark, save 14, no-charm, bash/kick/headbang
+Drow Master of Healing   31 3410k E---x-    G    717-737   15028-15110 heal, blindness, curse
+Drow Master of Magic     31 3410k E---x-    G E  714-732   15076-15102 lightning bolt, colour spray
+Drow Master of War       31 3410k E---x-    G E  716-736   15068-15103 bash
+The Old Drow Alchemist   31 3410k E--         E  725-729   15114-15154 lightning bolt, colour spray
+The weaponsmaster        33 4950k E---x-    G    660-693   12686-17164 bash, headbang
+Jenaria                  34 5950k E--xx-    GN   508-514   21195-21386 chill touch, resist blind, cure serious
+Mandara                  34 5950k E--xx-    GN   537-542   20869-21011 chill touch
+Sharana                  34 5950k E--xx-    GNE  530-547   20986-21188 chill touch
+The yochlol              35 5950k Ex-x-x    -    438-442    3718-5015  resist ice/fire/earth/air/gas?
+Anhara                   37 8325k E--xx-    GN   919-957   40094-40264 immune pure/light/ice, powerheal, confusion, harm, fireball, curse, meteor blast, colour spray, meteor swarm, cure serious, blindness

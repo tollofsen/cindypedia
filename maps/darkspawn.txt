@@ -1,0 +1,71 @@
+# Cain's Spawns of Darkness (353, 355): 45-100, Cain  (Slithering: 2wd2nw4ne2n2w, enter tree, 8d, drink well)
+* FIND OUT: MAP Tixi-part
+* FIND OUT: Level on A Black worm (40-56)
+* FIND OUT: Level on A White worm (40-56)
+* FIND OUT: Level on A Pink worm (40-56)
+* FIND OUT: Level on A Black spider (90-91)
+* FIND OUT: Level on Szeess (95+)
+* FIND OUT: Level on Tixin'erto (97+)
+#
+#       o - o ------------ o ------------ o -Uma      X
+#       |   |                             |   |       |
+#       o - o                   /-> out   o   o       o
+#       |                      /          |           |
+#       o                     o <-\       o           o
+#      /                          |       |           |
+#     /   o - o - o -Olg- o - o - o       o - o - o - o
+#     \   |   |       |                   |
+#      \->o   o       o                   o
+#            /        |                   |
+#           a    Lurk+o                   o
+#                     |                   |
+#                 o - o                   o           o - o - o - o
+#                 |                       |           |           |
+#                 o                       o       o - o       o - o
+#                 |                       |       |           |
+#         o - o - o                       o   o - o       o - o
+#         |           o - ? - o - o - o   |   |           |
+#         o          /|   |  /|   |  /|   o - o --------- o
+#         +       RIP o - ? -
+# o - o - o - o       |  /|   |   |
+# |           |       o - o -Tix- ? -
+# o       o   o       |   |   |   |                    /-> Tix
+# |      /|   |       o - ? - ? -                     /
+# o - o-/-o - o      /|   |   |   |   |             RIP
+#      x          RIP o - o - o - o - ?              |
+#     /              /   /   /|      /           In the web
+#    o - o         RIP RIP RIP|    RIP               |
+#        |                    |                  In the web
+#        o - o Szeess         a                      |
+#            |   |                                   v
+#            o - o                                   a
+#
+* Entrance from Enchanted Forest
+* The whole area is Nosum/Norecall
+* Area with Tixin'erto drains moves, and corpses quickly drop into DT:s.
+* Lurk is vuln pure/light. Olg is vuln fire if using plate. Uma is vuln fire.
+* RIP: Former deathtraps. Now they lead up to Tixi and south towards safety.
+
+Cain's Dark Spawn:       Lvl    Xp ASWIDMX # agg     Hp        Gold       Special
+A White worm           40-56   45M E-xx      GN                           vuln gas, resist dark, invis, sneak, 3-5 attacks
+A Black worm           40-56   45M E-xx      GN                           vuln gas, resist dark, invis, sneak, 3-5 attacks
+A Pink worm            40-56       E-                                     invis
+A Snail                   56   45M E-xx x    --- 3846-3895   9868-10655   vuln gas, immune mental, resist pierce/poison/water, sneak, 4-5 attacks, looter
+A Large bug               56   45M E-xx      GNE 3837-3885   8878-10439   vuln gas, immune pierce, resist water, 3-5 attacks
+A Mole                    65       N         ---
+A Black rat               66   85M E- x      GNE            25091-25579   vuln gas/poison, resist dark?
+An Ant worker             68       E- x      G              30044-30052
+A Phase spider            85       E- x       N                           INFO, invis, vuln fire
+A Warp spider             85       E- x       N                           INFO, invis, vuln fire
+A Poisonous Viper         85       E-x       ---                          invis
+An Ant Soldier            85       E- x      GN            241300         INFO, resist unlife if using "lapis lazuli encrusted platemail"
+A Black spider         90-91       E- x      GN            244527-247151
+Lurk                      95       Ex x      G--          2009446-2012132 INFO  vuln pure/light
+Olg                       95       Nxx                    2010705-2013022 INFO, vuln fire if using "plate of the seventh star", immune dark, area feeblemind, earthquake, powerheal
+Szeess                   95+       E--        N           3004428-3009668 INFO, invis, shrugger, area wither
+                                        Obli Anni Vapo Pulv
+  Plain:   WEAPON              avg 22              XX
+Uma                       95       N-xx x    ---          3000152-3000161 INFO, [human], vuln fire, resist dark if using "Cloak of the seventh star", area blindness, powerword kill, deathspell, shrugger, 8-9 attacks
+Tixin'erto               97+       Ex-x      GN                           INFO, resist fire, invis, powerword blind, area sleep
+  plain: vaporize
+  hf: 57/417  (resist)

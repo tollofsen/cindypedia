@@ -1,0 +1,145 @@
+# Nefertum's Ragnarok (452): 50-100, Nefertum  (Karandras: 10wn3wswswn12ws2w2sws3wnwn5u10nd)
+* FIND OUT: Level on The Fenril Wolf (87+)
+* FIND OUT: Level on Sleipner (92-96)
+* FIND OUT: Level on Thor (97+)
+#
+#                            o-o-o-o-o-o-o
+#                            | | | | | | |
+#                            o-o-o-o-o-o-o
+#                            | | | | | | |
+#                          o-o-o-o-o-o-o-o-o b b        o-o
+#                          | | | | | | | | | | |        | |  o
+#                          o-o-o-o-o-o-o-o-o-o-o-b      o-o /|
+#                          | | | |     | | | | |        |  / o
+#        o-o-o         o-o-o-o-o |     o-o-o-o-o-b      + /  |
+#        | |           | | | |   |       | | | |        |/   o
+#    o-o-o o-o-o       o-o-o-o   U   U---o-o-o-o-b    D X D  |
+#    |       |         | | | |           | | | |      | | |  o
+#    o-o-o-o o-o o-o-o-o-o-o-o           o-o-o-o-b    o-o-o  |
+#      | |     | |     | | | |           | | | |      |   |  o
+#      o o-o-o o-o-o   o-o-o-o---U   U   o-o-o-o-b    D   D  |
+#      |   | |     |   | | | |       |   | | | |             o
+#  o-o-o o-o o-o-o o-o o-o-o-o-o     | o-o-o-o-o-b           |
+#  |   | |       |   |     | | |     | | | | | |             o
+#  o-o o-o-o A o-o o-o     o-o-o-o-o-o-o-o-o-o-o-b           |
+#    |   |   | |           | | | | | | | | | | |             o
+#    o-o-o-o-o o-o-o       o-o-o-o-o-o-o-o-o b b             |
+#      |   |     | |         | | | | | | |                   o
+#  o-o o-o o-o-o-o o-o       o-o-o-o-o-o-o                   |
+#  |     |   |       |       | | | | | | |                   o
+#  o o-o-o o o-o   o-o o     o-o-o-o-o-o-o                   |/
+#  |   |   |   |   |   |     | | | | | | |                   o
+#  o-o-o   o-o-o   o-o-o     o-o-o-o-o-o-o---o              /
+#                            | | | | | | | \ |
+#                          o-o-o-o-o-o-o-o-o-o-o
+#                          | | | | | | | | | | |
+#                          o-o-o-o-o-o-o-o-o-o-o
+#                          | | | | | | | | | | |
+#                          o-o-o-o-o-o-o-o-o-o-o
+#                          | | | | | | | | | | |
+#                          o-o-o-o-o-o-o-o-o-o-o
+#                          | | | | | | | | | | |
+#                          o-o-o-o-o-o-o-o-o-o-o
+#                            | | | | | | | | |
+#                            o-o-o-o-o-o-o-o-o
+* b: Back to the same room
+* A: Angerboda
+* NOTE: Contingency doesn't work (never even tries to kick in) when fighting
+* Frost/fire giant, Berserker, Heimdall or Angerboda. Works for Giant Warrior
+* and Odin.
+* Wolves are vuln mental, but resist dark (so not Nemesis)
+
+Ragnarok:                Lvl    Xp ASWIDMX # agg      Hp        Gold       Special
+A small grey wolf         40   16M N-xx--    G    1711-1722      1-1       vuln mental, resist dark, summoned
+A small red wolf          40   16M N-xx--    G    1703-1726      1-1       vuln mental, resist dark, summoned
+A small white wolf        40   16M N-xx--    G    1729-1749      1-1       vuln mental, resist dark, summoned
+A sleepy warg             75  338M N-xxx-    --- 15485-15624    23-23      vuln mental, resist dark/fire, special-bite
+A Viking                  75  488M G-xxx 1    N  11435-11481    23-23      vuln dark/bleed, resist pure/light/silver, summoned, bash, kick, headbang
+A bloodthirsty Warg       80 1201M N-xxx-    --- 27008-27360    23-23      vuln mental, resist dark/fire, random-delayed-agg-all, special-bite, kick, haste (probably just an emote)
+A hungry warg             80 1160M N-xxx-    --- 23550-23709    23-23      vuln mental, resist dark/fire, special-bite
+
+
+The Fenril Wolf          87+       Ex    2   ---                1          INFO, vuln mental?, resist dark, vampiric mist, ritual of pain, 2-4 spells
+                                      anni vapo pulv atom ultr ULTR
+   CRUSH MENTAL             avg 21               30    1
+
+
+A Viking                  90       G-x   2                      23-23      [human], vuln dark?, resist pure, not summoned
+                                      anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 22          XX
+   slash/crush/pierce       avg 24          89   59
+   WEAPON PURE  SLAY Giant  avg 22.5   65    2
+   DARK                     avg 23              134   33
+   SLASH FIRE               avg 23           3    1
+   slay human ?
+   ...
+A Giant Warrior           90       E- x  1   GNE                23-23      [giant], vuln dark?, resist crush/large?/superarge?/poison?
+                                      anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 21          XX
+   slash/pierce             avg 24          28   12
+   crush                    avg 24      7
+   MAGIC ENERGY             avg 22.5             18
+   SLASH        SLAY Human  avg 22.5    4   35   17    1    1    1
+   CRUSH        SLAY Human  avg 25      2
+   WEAPON PURE  SLAY Giant  avg 22.5         6
+   SLASH FIRE               avg 23           9   12
+   DARK                     avg 23          32   41
+   SLASH BLEED              avg 22           1    1
+   pure       ?
+   dark       ?
+   large      ?
+   slarge     ?
+   poison     ?
+   ...
+A Fire Giant              94       E-    1   ---                23         [giant], vuln ice/WEAPON, immune fire, resist crush?/large?/superarge?/poison?, pulsing-areadamage
+                                      anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 22               XX
+   SLASH                    avg 24    
+   CRUSH                    avg 24    
+   PIERCE                   avg 25    
+   MAGIC ENERGY             avg 22.5         1
+   SLASH        SLAY Human  avg 22.5         1   12    6         2
+   CRUSH        SLAY Human  avg 25           8    9
+   CRUSH ICE                avg 24               13    9
+
+A Frost Giant             94       E-    2   ---                23-23      vuln WEAPON?, pulsing-areadamage
+                                      anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 22               XX
+   SLASH                    avg 24               11    1
+   CRUSH                    avg 24    
+   PIERCE                   avg 25    
+   SLASH        SLAY Human  avg 22.5              4    3
+   MAGIC ENERGY             avg 22.5                             1
+   WEAPON PURE  SLAY Giant  avg 22.5                   3         1
+   SLASH FIRE               avg 23                    10    2    1
+
+A Berserker               94       G     2    NE                23         
+                                      anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 22               XX
+   SLASH                    avg 24               18    6
+   CRUSH                    avg 24    
+   PIERCE                   avg 25    
+   MAGIC ENERGY             avg 22.5             10    4    1
+   CRUSH MAGIC              avg 24                2    1
+   SLASH        SLAY Human  avg 22.5         1    6    1
+   CRUSH        SLAY Human  avg 25                8   14
+
+A Valkyrie                94       Gxx   2   ---                23-23      [giant?], vuln dark?/WEAPON?, resist pure/light/crush?/large?/superarge?/poison?
+                                      mass obli anni vapo pulv atom ultr ULTR
+   WEAPON                   avg 22                     8
+   SLASH                    avg 24                    26    6         1
+   CRUSH                    avg 24                     6    2
+   PIERCE                   avg 25                     6    3
+   MAGIC        SLAY Dwarf  avg 21.5                   4    1
+   PURE LIGHT               avg 21      4    5
+   DARK                     avg 23                         47    2
+   unlife   ?
+   iron     ?
+   ...
+
+Sleipner               92-96       N-
+Angerboda                 95 2470M Ex-x  0   G E 49011-53925    23         INFO, [mythical? (not human/giant/magical)], vuln weapon/magic/unlife?, resist crush/large/superlarge/poison, bash, summon small white wolf, summon small grey wolf, small red wolf, 5-7 attacks, 24505-26963 hp withered, either vuln unlife or less hitpoints than noted.
+Heimdal, the Guardian of Bifrost
+                          99       N-x       ---                           immune dark, trueheal, dancing blades, whirlwind
+Odin                     100       Gxx       ---           1407285-1426492 INFO, [mythical?], resist fire/ice?/unlife?/earth?/air?, entropy, powerword kill, area wither, (area?)(power?)blind, 1-2 spells, summon viking, special-munin-backstab(?)
+Thor                     97+   16B           ---                           INFO, [mythical?], resist fire?/ice?/unlife?/earth?/air?, has around 180k hp when withered, casts blind

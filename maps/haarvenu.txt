@@ -1,0 +1,80 @@
+# Nefertum's Halls of the Haarvenu (359): 50-100, Nefertum  (Crossroad: 2nen2en3en4ws2w2n2wn)
+* FIND OUT: LOTS!
+* FIND OUT: onyx hieroglyph:    Death Mage @ Haarvenu     (opens door WM room?)
+* FIND OUT: bloody hieroglyph:  Blood Mage @ Haarvenu     (opens west door?)
+* FIND OUT: shadowy hieroglyph: Zombie Warrior @ Haarvenu (ID! opens east door?)
+* FIND OUT: Level on The hound of dark (90-91)
+* FIND OUT: Level on the hound of light (90-91)
+* FIND OUT: Level on A Haarvenu Elemental Mage (90-91)
+* FIND OUT: Level on A Haarvenu Blood Mage (90-91)
+* FIND OUT: Level on The Zombie of a Haarvenu Warrior (88-91)
+* FIND OUT: Level on A Haarvenu Death Mage (88-91)
+* FIND OUT: Level on Itindar (98+)
+#
+#                       o-o-o-o-o
+#                       |       |
+#                   o-o-o       o-o-o
+#                   |               |
+#                   o     o-o-o     o
+#                   |     | | |     |
+#               o-o-o o-o-o o o-o-o o-o-o
+#               |     |     |     |     |
+#               o-o-o-o     o     o-o-o-o
+#                           |
+#     o----------o----------o-o-o
+#     |                     |   |
+#     |  o-o-o              |   o-o-o   o-o-o
+#     o  | |                |       |  /    |
+#     |  o-o-o              o       o+o     o         o
+#     |  | | |              +               |         |
+#   o-o  o o-o-o-o      X*->o*->Home        o-o+WM+Itindar
+#   +        | | |      +                     |
+#   o        o-o o-o   -o-                    o
+#  /         |   | |                          |
+# o-----o----o-o-o o-o                        o-o-o
+#              |   | |                            |
+#              o-o-o o                        o-o-o
+#                |   |
+#                o-o-o
+#
+* Entrance from Guallidurth
+* Whole area is norecall.
+* WM: WildMag. Recallable.
+* Guardian has key to the gates. 2 hounds inside will hunt you once...
+*   Guardian is killed?
+*   gates have been unlocked?
+*   gates have been opened?
+
+Haarvenu:                       Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+The Guardian of the Halls        90       Nx        ---           124652-124652 INFO, vuln pure/light, vuln poison if using "a runic spear", shrugger, special-spearjab
+The hound of dark             90-91       E-x                          2-2      vuln pure/light, resist mental, hunt
+the hound of light            90-92         xx      GNE                2-2      vuln pure/light, immune dark, resist mental, hunt
+A Haarvenu Elemental Mage     90-91       Nxx   1   ---           372582-373144 immune fire/stun/electricity/wood/earth/dark/magic?/bleed?/silver?/iron?/unlife?/ice?/pure?/light?/poison?/unlife?/water?/energy?, gas/lightning breath, ice storm, plasma bolt?, 2+ spells, ac <pretty poor>
+                                     Obli Anni Vapo Pulv
+  WEAPON                   avg 22               13
+  SLASH                    avg 24                5    2
+  CRUSH                    avg 24          28    6
+  PIERCE                   avg 25    
+  CRUSH     SLAY Human     avg 25          52    7
+  Check magic, bleed, silver, iron, unlife, ice, pure, light, poison, unlife,
+        water, energy
+  Also check acid, mental, large, superlarge, air, gas
+A Haarvenu Blood Mage         90-91       Nxx   1   ---           372612-373125 immune fire/stun/magic?/bleed?/electricity?/silver?/iron?/unlife?/ice?/pure?/light?/wood?/dark?/poison?/unlife?/water?/energy?, vampiric mist, hell fire, plasma bolt, 2-2 spells, 3 attacks, ac <pretty poor>
+                                     Obli Anni Vapo Pulv
+  WEAPON                   avg 22               XX
+  SLASH                    avg 24               13    5     1
+  CRUSH                    avg 24          37    4
+  PIERCE                   avg 25                7   11
+  CRUSH     SLAY Human     avg 25          
+  Check magic, bleed, electricity, silver, iron, unlife, ice, pure, light,
+        wood, dark, poison, unlife, water, energy
+  Also check acid, earth, mental, large, superlarge, air, gas
+The Zombie of a Haarvenu Warrior 88-91    Nxx       ---           372648-373158 hide
+   Deathbringer:  vapo/pulv (std)
+A Haarvenu Shadow Mage           90       Nx        ---           372408-372652 hide
+A Haarvenu Death Mage         88-91       Nx        ---           372560-372845 immune fire
+   Deathbringer: anni/vapo (resist)
+Itindar                         98+       N--x      GN            246670-246670 INFO, vuln light if using "midnight velvet robes", resist pure?, resist ice if using "midnight velvet robes", special-transform-into-heap, area wither, lightning/acid breath, hell storm
+   hf: 37/277
+   pp: 28/208
+   Notorych: obli: 1  (when he had the robe)

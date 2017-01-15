@@ -1,0 +1,49 @@
+# Krashkarand (247): 25-100, Akira  (New Thalos: 2en2e2nes2en2eses4e5nw)
+#
+#                                                  o - o - o - o-o+o
+#                                                  |   |      /
+#                                        o         o   o     o
+#                                       /          |        /
+#                 o ---------- o       o - o - o - o    Garatza + o
+#                 |           x       x
+#         o   o - o       o  o - o - o
+#         |       |       |
+#         o       o       o
+#         |       |       |
+#   o-o-o-o ----- o ----- o - o - RIP
+#  /      |       |       |
+# o       o       o       o
+#         |       |       |
+#         o   o - o - o   o
+#                 |
+#                 o
+#                 |
+#                 o
+#                 |
+#                 o
+#                 |
+#                 o
+#                 |
+#                 o
+#                 |
+#                 o - o
+#                     |
+#                     X - o -
+#                         |
+#
+* Min level 0/20
+* Children steal money! Garatza has no vulns, just a load of resists.
+
+Krashkarand:                    Lvl    Xp ASWIDMX # agg      Hp        Gold     Special
+The leech                        10  100k N-xx--    -     205-209       0-0     pulsing-areadamage, drain blood, hide, flees
+A marsh viper                    25 1590k N-x---    -     594-648    6033-6050
+A small child                    25 1400k N-x---    -     642-647    6007-6051  no-charm, thief
+A venom wurm                     25 1590k E-----    G     576-619    6039-6054
+A villager                       25 1400k N-x---    -     523-609    5992-6040
+A deadly insect                  30 4125k N-----    G     740-780    8565-8678
+A jungle goblin                  30 5025k N-----    G     733-759    8581-8652  backstab
+A village guardian               30 3750k N-----    G     732-752    8460-8768  invis, hide
+A village shaman                 30 3750k N-----    G     732-767    8611-8634  invis, hide, harm, curse, pow, blindness, confusion
+Ghazga the holy guardian         45   30M Nxx---    -    1787-1807  19432-19536 bash, kick, berserk
+Nebuchadnezzar the Village Chief 65  150M Nxxxx-    -    5531-5551  42672-42734 bash, kick, headbang
+Garatza the evil Serpent god     75 1050M Ex-x      GN ~13965           0-0     INFO, resist fire/ice/unlife/air/earth, mass pain, harm, powerheal, blindness, confusion, wither, hell fire, invoke mira-heart (can be done more than once), 1-2 spells

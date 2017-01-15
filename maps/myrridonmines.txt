@@ -1,0 +1,50 @@
+# Myrridon Mines (517): 50-100, Barre  (Myrridon: 24wsw3n3w2nwn)
+* FIND OUT: Level on The Elder-Brain (98+). And IRV:s!
+#
+#      Lvl 1           Lvl 2       g-o     Lvl 3              o---o---o
+# o  o   o    o o    q-o g-o         |              /         |   |   |
+# |  |   |    | |      |   |         o-o-o-o-------o o-o      o-Brain-o-o
+# o  o-o-o  o-o o      o-o-o         |     |      /    |      |   |   | |
+# |    | |  | | |        |         o-o     o     o     o-o-o  o---o---o o
+# o-o  o o  o o-o        o         |       |    /      |                |
+#   |    |    |          |         g       o   o    o--o        o  o  o o
+#   o    o    o          o                 |  /     |  |        |  |  | |
+#   |   /|    |          |/                o-/---o--o  o     o--o--o--o-o
+#   o-o  o  o-o     o-o--o                  /                |  |  |  |
+#     |  |  |       |   /|                 o                 o  o  o  o
+#     o  o  o       |    o                /                  |
+#     |  |  |       q-g  |               o-----------\       o--o--o--o
+#     o--o--o            o              /|           |          |  |  |
+#        |               |       Inferno o           |          o--o--o-o
+#        X           o-o-o-o-o           |           |          |  |  | |
+#        |           | |   | |       o-o-o  RIP      |          o--o--o o
+#                    o-o   o-o       |   |   |       |                  |
+#                                   RIP  o-o-o       \---------o--------o
+#                                        |
+#                                    RIP-o
+#
+* g = pile of gold
+* Intellect Devourer (bottom floor aggie) is vuln unlife
+
+Myrridon Mines:            Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A Ustilagor                 30 4200k E-----    G    800-800    4000-4000  resist mental
+a Mole                      35 7700k N-xx-x    -    824-881    3000-3000  vuln mental/gas, resist earth
+An Umber Hulk               40   15M E-xxx-    -   1278-1312   8000-8000  NO irvs, confusion, hide
+An Intellect Devourer       45   32M E--xx-    G E 1201-1201   9000-9000  [magical], mana shielded
+A Mind Flayer               50   35M E-----    G E 2253-2271  25000-25000 NO irvs, charm person
+A Captured Dwarven Champion 75  301M N--x -    -  13000-13001     1-1     [dwarf], bash, kick, headbang, berserk
+The Tub of briny fluid     100  200k N--x -    ---50000-50000     0-0     INFO, vuln crush, resist unlife/fire/ice/earth/air, 1-1 attacks, returns any spell/skill/weapon damage done to him back to the source (with the same damage type), summons Elder-Brain on death
+The Elder-Brain            98+       E--x                         0-0     INFO, resist fire/dark/unlife, shrugger, summoned, 7-7 attacks, charm person (makes you hit your friends. If no non-charmed player is in the room, the charmed players get killed), is replaced by the Tub of briny fluid when the zone resets
+  normal     (SLASH) avg 22.5: vapo: 1
+  mental     (CRUSH) avg 21:   vapo: 1
+  stun      (WEAPON) avg 19:   vapo: 1
+  fire       (SLASH) avg 23:   anni: 4
+  unlife    (PIERCE) avg 25:   anni: 2
+  dark      (WEAPON) avg 23:   anni: 4
+  energy    (WEAPON) avg 22.5: vapo: 1 (& magic)
+  magic      (CRUSH) avg 24:   
+  purelight (WEAPON) avg 21:   
+  large+sl   (SLASH) avg 22:   
+  ice
+  earth
+  hf: 417

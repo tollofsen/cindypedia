@@ -1,0 +1,104 @@
+# Alterac Battlefields (171): 55-100, Stryder  (Crossroad: 2nen2en3en2en2es2es2en3enwnw3nw6ne2ne2ne2ne2ne2n4es2e3n2eun)
+* FIND OUT: LOTS!
+* FIND OUT: Map & mob info. Room damages have been lowered?
+* FIND OUT: Troll maul: Damtype / weight / value
+* FIND OUT: lugroki caduceus: What vuln
+* FIND OUT: Level on A caveling (57-61)
+* FIND OUT: Level on A lugroki seeker (67-83)
+* FIND OUT: Level on Borlak the drow-elf saboteur (90-93)
+* FIND OUT: Level on A Siege Troll (95-96)
+* FIND OUT: Scorched crater & blazing plateau are WM?
+* FIND OUT: Is Colossus really resistant to fire???
+#
+#                                                               ?Saboteurs
+#           r-r                                                     +
+#        T    |                                                 o---o
+#        ^  r-r+o                                               |   |
+#        |      |\                                           Shaman o+Warlord
+# X-o-o--o--o---o \                                                 |
+# +   |  |  |      ?-?-?                                        o---o
+#     |  V  |          |\                                          x
+#     o->T<-o          | \                                        o
+#     |     |          | WM?--?---?-->T                           |
+#     o->T<-cf         |          |                    ?-RIP?   ?-o
+#     |     |\         ?          |                    |  |     |
+#    +o->T<-? \        |          |                    ?--?-----?
+#          /   \       |          ?-->T                |       /vz
+#         /     ?---?n |          |                    ?    o-o---o
+#        /      |     \|          |                    |    |
+#    T<-?f     RIP   am?tfb-?b-?a-?a->T                ?    |
+#       |       |                 |                    |    |
+#       |       o                 |             ?->T<--o o--?----o
+#       |       |                 |   /--------/|      |\|  |   /
+#       |       o                 |  /      ?   |      | ?-RIP o
+#       |       |         m---b---|-?b->T  /    |  T<--?       |
+#    T<-?f---?t |        /        |/      ?     |      |       o---o
+#       |      \|       /         o->T    |     ?->T<--?       |   |
+#    T<-?       o------?                ?-?     |  ^   |^z     o   p
+#       |              |                  +     |  |   |          /
+#    T<-?              ?                  ?-----?--?-?-?         NM-NM
+#      /               |                 /         |             |   |
+#     ?----------------?----------------?          V             NM-NM
+#                                                  T                /
+#                                                               Colossus
+#
+* Min level 0/44 (Alterac)
+* T = Room filled with hot tar (works like lava room). All exits lead back to T
+* t = Room hurts you with hot tar (119/500? dam)
+* a = Room hurts you with arrows (154? dam)
+* b = Room hurts you with boulders (371/753? dam)
+* f = Room hurts you with flaming arrows (156?/500?/1007? dam)
+* m = Room hurts you with ballista missiles (532? dam)
+* c = No-cop
+* r = No-recall
+* n = No-flee
+* p = tunnel room (max 1 player)
+* z = Going that dir hurts you with razor sharp thorns (35? dam)  (not sure if it's exit or entrance room)
+* Dangerous area!!!
+
+Battlefields:               Lvl    Xp ASWIDMX # agg     Hp         Gold       Special
+A homeland peasant           60       N-                                      [lugroki?], vuln pure?/light?/fire?, resist ice?/dark?/poison?
+A caveling                57-61       N-      4   E                           hide
+A lugroki seeker          67-83       N                                       [lugroki?], vuln pure?/light?/fire?, resist ice?/dark?/poison?
+A lugroki runner             72  281M N--x -    -   9603-9604    5913-6200    [lugroki], vuln superlarge/fire?, resist ice?/dark?/poison?, kick, headbang
+a lugroki bloodling          73       N-                                      [lugroki?], vuln pure?/light?/fire?, resist ice?/dark?/poison?, invis
+A Brettonian guardsman (works) 79     N-xxx-2   -                6353-6831    [human], kick, bash
+A Brettonian guardsman (fight) 79     N-xxx 2   GN               6299-6854    [human], kick, headbang
+A lieutenant of the Brettonian High Command (directs troops)
+                             80       G--xxx    -                             [human], backstab, blocker
+A lieutenant of the Brettonian High Command (rallies his troops)
+                             80       G--       -                             [human?], backstab?
+A lugroki marauder (hides)   80       N-        -                             [lugroki?], vuln pure?/light?/fire?, resist ice?/dark?/poison?, hide, sneak, backstab, flees
+A lugroki marauder (waits)   80       N-                                      [lugroki?], vuln pure?/light?/fire?, resist ice?/dark?/poison?, hide, sneak, backstab, flees
+A Brettonian man-at-arms (protecting catapults)
+                             80       Nx-x x    -                             [human], special-lance-strike?
+A Brettonian man-at-arms (prepared to repel)
+                             80 1521M Nxx       -   16005       231475         [human], special-lance-strike
+Sagnat the drow-elf saboteur 80       E-    1                 1951225         [drow-elf?], vuln ice?, resist unlife?/dark?/magic?, backstab
+A drow warrior               80       E-    1      21796.5     173669-173934  [drow-elf?], vuln ice?, resist unlife?/dark?/magic?
+A captain of the Brettonian High Command (confirms targets)
+                             82 1485M G--x x    -- 21783-21796 258402-273443  [human], immune fire, backstab, blocker
+A captain of the Brettonian High Command (studies the battle)
+                             82 1485M G--xxx    -  21761-21780 249624-276238  [human], immune fire, backstab (61), blocker
+An Ofcol mercenary           83       N-x   1                  105463-120060  [human], invis, powerheal, powerharm, 0-2 spells
+A lugroki veteran            83       N- x  2   GN            1000067-1000089 [lugroki?], vuln fire?, resist ice?/poison?, special-attack
+A lugroki berserker (awaits orders)
+                             84       E--x      G                             [lugroki], vuln superlarge, resist ice?/poison?, attack (self), special-bite
+A lugroki berserker (charges) 84      E-xxx 2   GN               7028-7787    [lugroki?], vuln fire?, resist ice?/dark?/poison?, attack, special-bite
+Vunir the drow-elf saboteur  85       E- x  1   G-            2451192         [drow-elf?], vuln ice?, resist unlife?/dark?/magic?, hell storm
+The lugroki Shaman           87       Nx x  2   GN               8342         [lugroki?], vuln fire?, resist ice?/dark?/poison?, vuln something if using "lugroki caduceus", special-evoke-pain-totem
+A lugroki raider             88       N--   2   -                8039-8316    [lugroki], vuln pure?/light?/fire?, resist pierce/ice?/dark/poison?, whirlwind
+A Battle Troll               90       N-xxx 2   GN             181042-181072  [troll?], vuln fire?/acid?/mental?, resist earth?/poison?/crush?, special-maul-attack, blocker
+Borlak the drow-elf saboteur 90-93    E-    2                 3651339         [drow-elf?], vuln ice?, resist unlife?/dark?/magic?, teleport
+The drow-elf Envoy           92       Nx    1                    8996-9293    [drow-elf], resist unlife?/magic?, triad of fire, special-searing-flame
+The lugroki Warlord          92       Ex    1                    8518-9181    [lugroki?], vuln fire?, resist ice?/dark?/poison?, vuln silver if using "A trophy belt", resist dark if using "A trophy belt", confusion, special-axe-strike
+The Brettonian Battlemaster 94-96     Gx    2   - E            234331-234347  INFO, [human], special-broadsword-cleave, attack
+A Siege Troll             95-96       Nx x      GN               9245-9717    INFO, [troll?], vuln fire?/acid?/mental?, resist earth?/poison?/crush?
+The Colossus                100       Nx    3   GNE   ~150k     11555-11789   INFO, [giant], resist fire/crush?/large?/superlarge?/poison?, hide, special-rock-rain, special-short-group-blindness (affects you even if you recall), special-claw-attack, trueheal, powerheal, attack, 3 skills/spells, trueheals even if not in battle, blocker, you can't get summon from the room but you can recall
+  HITROLL: +38+8: 47 hits / 19 misses (71% hits)
+  HITROLL: +42+8: 27 hits / 25 misses (52% hits)
+  Colossus info:                        Anni Vapo Pulv Atom
+  Gungner:   PURE, SLAY giant  avg 39:             47
+  Firebrand: SLASH, FIRE       avg 23:   25
+  hf: 415
+  pp: 553

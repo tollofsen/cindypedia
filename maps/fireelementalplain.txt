@@ -1,0 +1,39 @@
+# Fire Elemental Plain (120): 30-50, Porlan (?/25min)  (Olympus: e3n2u2n)
+* FIND OUT: Crimson belt: Levels
+* FIND OUT: silver scimitar: Damtype
+#
+#       ______________________        King - o - o
+#      /                ____  \                 x
+#      |     /\        /    \ |                /
+#      |     \|        |     \|         o - o-/-o - o - o - o - o
+#  _   \--6---5--------4----\ |         |    /  |   |   |       |
+# / \     |   ^        |  \_/ |         o   o - o   o   o - o   o
+# | |     |   |        |\     |         |   |   |   |   |   |   |
+# \-8-----7-\ |        | \    |         o   o - o   o   o - o   o
+#   |     | | |        3-|--\ |         |   |       |   |       |
+#   |     \_/ |        | |   \|         o - o - o - o - o - o - o
+#   9         |       /| |    |         |           |   |       |
+#   |         |      / | |    |         o - o <-o   o   o <-o   o
+#   |         |      \-2-/    |         |   |   |   |   |   |   |
+#   |         |        |      |         o   o - o - o   o - o - o
+# /-10-------11--------|------|----\    |           |           |
+# | |         |        |      |    |    o - o - o - o - o - o - o
+# \_/         |    /---1 <----/    |                |
+#             \____\_/ ^           |                o
+#                      |           |               /
+#                      X           \------------- a
+#                      |                         /
+#                                               o
+#
+* From entrance: nnewwswsseeu, then north to get inside
+* Min level 0/16
+* Fire Giants and Royal Guards are agg and vuln ice
+
+Fire Elemental Plains:   Lvl    Xp ASWIDMX # agg     Hp         Gold       Special
+A Small Fire Elemental    20 1400k N-xx--    -    348-372     1008-1137    looter
+A Fire Elemental          30 6000k N-xx--    -    521-539     2069-2164    NOT resist fire, NOT vuln ice
+A Hell Hound              30 7500k E-xx--    G E  808-833       13-27
+A Large Fire Elemental    45   25M N-xx--    -   2011-2058   20085-20111   NOT resist fire, NOT vuln ice
+Fire Giant                55   71M E-xx  0   G   3438-3616   34343-48837   fireball, vuln ice, immune fire
+Royal Fire Giant Guard    58  101M E-xx  1 2 G E 4470-4471   44034-58064   fireball, vuln ice, immune fire
+Fire Giant King           95       Ex-x    1 G  ~65k       1009159-1010243 INFO, vuln ice, hell storm, earthquake, immune fire, call for guards (which ones?) summon guards?, mana shield (cast or is?), blood mirror

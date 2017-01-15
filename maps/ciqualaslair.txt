@@ -1,0 +1,41 @@
+# Ciquala's Lair (25): 10-50, Unknown  (Solace: 9sesd)
+#
+#                     |
+#                     X
+#                    x
+#                   o
+#                  /
+#   o   o         o     o
+#   +   +        /      +
+#   o + o + o + o - o - o + o
+#  x+   +               +
+# o o   o               o
+#   |
+#   o
+#   +
+#   o
+#  x
+# o
+#
+* Min level 0/20
+* Same area as Olympus. most rooms are very bright
+
+Ciquala's Lair:                   Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+The vampire lab assistant          22  704k E--x-x    -    497-524       9-9    no-group, immune unlife/dark, flees
+The lurker above                   27 1755k E-----    -    648-652       9-9    flees
+The human automaton                30 4110k E-----    -    731-762       9-9
+Guardian Lich                      33 7260k E----x    G E  844-869       9-9    vuln heal/pure, immune unlife/dark, meteor swarm, meteor blast, fireball, colour spray, no-group, invis
+The human automaton                33 6831k E-----    -    852-858       9-9
+A docile creature                  35 8050k Nx --x    -    891-905       9-9
+The human automaton                36 9936k G-----    -    969-973       9-9
+A vampire servant                  37 8140k Ex-x      G    ~1k           9      vuln pure/light, immune unlife/dark
+Lich                               37 8177k E----x    G - 1054-1110      9-9    vuln heal/pure, immune unlife/dark, invisible, no-group
+The black pudding                  37   11M E-----    -  1057-1063      9-9
+The human automaton                39   17M G-----    -   1210-1220      9-9
+A warped creature from a nightmare 40   18M E-xx--    -   1297-1302      9-9    flees
+The torturer lich                  41   18M Ex---x    G - 1338-1363      9-9    vuln heal/pure, immune unlife/dark, no-group
+The undead guardian                45   25M E--x x    G -~1611-~1629     9-9    vuln pure/light/heal, immune unlife/dark, invis
+Vampire                            47   21M E----x    G - 1745-1770      9-9    invisible, immune unlife/dark, no-group
+A gigantic automaton               50   39M Nx----    -   1983-2028      9-9
+Ciquala's undead pet dragon        50   42M Ex---x    -   1993-2024      9-9    [dragon], resist fire?/ice?/earth?/air?/gas?, gas breath
+The lich Ciquala                   52   52M Ex-x x    GN-~2405-~2467     9-9    vuln pure/light/heal, immune unlife/dark

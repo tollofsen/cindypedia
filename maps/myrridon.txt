@@ -1,0 +1,126 @@
+# The City Of Myrridon (410): 1-100, Roland/Vortex  (Myrridon: -)
+* FIND OUT: Level on Haebeth (1-3)
+* FIND OUT: Level on The Pisshead (29-30)
+* FIND OUT: Level on A huge tumbleweed (39-59)
+* FIND OUT: Level on Lionheart the Coward (97+)
+* FIND OUT: Level on Smallheart the Wuss (99+)
+#
+#                                                                      Shards
+#                                                                       /
+#                                                                      o
+#                                                                     /
+#                                                                    o
+#                                                                   /
+#                                                                  o
+#                                                                  +
+#                                                t--r---e---e--t o o
+#                                                |  |   |   |  | | |
+#                           A-r--n--o--l---d---o-s  o   o   o  | o-o
+#                           |       |      |     |             |   |
+#                  o-o---o  |   o-o + o-o  +   o |             o-o-o
+#                  | |  /|  o  /    |   |  |  /  o               |
+#           o      o-o-/-o  | o-o   o-o o  o-o   | Mg-o-R-o   o  n
+#          /          /     | |     | |/   |     o      |     |  |  o-o
+#         o+o-o+-o-o-o      o+o-o   o o    o-o   | o    o-Arc-l--o  | |
+#           | |  | | |      |                    | |    |   | |  |  o-o
+#        o  o Fg o-o-o    M-e-r--c--h--an--t---s-w-ay---c   o o  o   /
+#       /   |             |   |  |  |      |   |   |    |   |    +  /
+#      o  W-a---r---r-i-o-r o-o  o  o  o   o   H o-o    k-l Wg o-o /
+#      |  |     |   | | |     |        |   |   |   |      |    | |/
+#  Ag  |  a-o   o   o o o o o-o--o Bak o   o   e-o o   UG-e    o-o o  CR-
+#  |   +  |           |   |      |  |  |       |          |        |  |
+#  o   |  l o   o   o-o o o o As-o--o--o-o     t-o  o Q   i-o-Pg   o  o-Don
+#  |   |  | |   |   |   | | |    |  |  |       |    | |   |        |  |
+# -o-o+o--M-A---I---N-o-M-A-I-N--o--F--o---M---A--I-N-o---g--------o--X
+#  |      | |   |   |     |      |  |  |       |      |   |        |  |
+# Ss      l o   o   o o o-N-o Ws-o--o--o-Gs    f-o  o-o---h-o-Tg  Ms Post
+#         |           |   |      |  |  |       i      |   |
+#         R--Tin-k--e-r-o o     Ms Pub | o     |      o   |
+#         |      |  |     |            |/      e          s
+#       o-o-o    o  o o-m-r-o-Tg     Inn-Auc o-l-o-Ng     |
+#         |             |              |       d          |
+#         |     3       |        o-A   o       |   o      |
+#       o a-o Mages o-o a-o-o      |           |   |      t
+#      /  |     |   |   |          r-Fr--i-e-d-m-a-n-UG   |
+#     o-+-d-W--ha---r-f-n          | |     | | | | |      |
+#         |           |            t o     o o o o o    e-r
+#         o-o         o-o          |    o    |          |
+#         | |                      i    |    o          e
+#       o-o-o-o                o-o-s  o-o-o  | o  Bs-o  |   o
+#         |                        |    |    | |  |     |  /
+#         o  dump              o-o-P-i--e--r-m-o--u---n-t+o
+#                                  + |  |    | |  |
+#                             Wizard o RIP   o o  o
+#                                    |            |
+#                                    o-o          o
+#                                      |          *
+#                                   Shaman     Ship to OC
+#
+* Whole area (except sw dump) is very bright
+* Shops are open from 5 o'clock am to 9 o'clock pm
+* Glimmering rift, moving around in Myrridon: 1 room with Thorn demon.
+* Nasty aggies in dump (sw), shards (ne), shaman (s), and some aggressive
+* thugs in the centre. Plus the tower elite guards are agg-evil.
+* Normal guards are protectors, and maybe the big lvl 85 knight is too.
+* Most mobs are human - vuln slay human. Children steal money!
+
+Myrridon:                  Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+Haebeth                    1-3       G--       ---                        questmaster, no-attack
+A child of Myrridon         15  300k N-x- -         282-300       1-1     no-charm, thief
+The happy drunk             15  247k G-x---    -    242-268       1-1     [human]
+A horse                     20  870k N-----    -    421-468       1-1
+A tipsy drunk               20  610k N-x---    -    399-415       1-1     [human]
+An angry drunk              25 1875k E-x---    -    626-628       1-1     [human]
+The Pisshead             29-30       G--       -                          nofight-room
+A huge tumbleweed        39-59       Nx    1                      1-1     summoned, shrugger
+A Shambling Mound           40       N----x    G   1300-1300      1-1     [botanic]
+The Merchant                40   14M G-x---    -   1304-1317   5000-5000  [human]
+A City Guard of Myrridon    45   19M G-xx--    -   1608-1620   9000-9000  [human], protector
+A wealthy merchant          45   25M N-----    G   1511-1696  20000-20000 [human]
+The Thug                    45   28M E--x-x    G - 1800-1800  12000-12000 [human], backstab (225)
+The unbroken horse          45   25M E-----    -   1659-1722      1-1     kick
+A Citizen of Myrridon       50   15M G-x---    -   1273-1325   3106-3143  [human], ignore-cop
+A merchant guard            50   43M N----x    -   2300-2300   4000-4000  [human]
+The Metaphysician           50       G--       ---                        nofight-room
+An Elite guard              55   55M G--x x    - E 3501-3501  20000-20000 [human]
+The sea troll               65  140M Ex-x x    -   6455-6504      1-1     [troll]
+The retired sergeant        65  143M G--x x    -   6501-6501   5000-5000  [human], bash, kick, headbang, berserk
+The Thug King               65  150M Ex-x x    -   6501-6501  65536-65536 [human], backstab, adrenal focus
+The lesser shard            65  189M E--x    5 G   6000-6000      1-1     [magical]
+The Dwarf Ent               70       G--                                  nofight-room
+The Knight                  70       G--                                  nofight-room
+The Knight Templar          70       G--                                  nofight-room
+The Large Sea Troll         70  227M Ex-x x    -   8508-8518      1-1     [troll]
+The Nightblade              70       E--                                  nofight-room
+The Paladin                 70       G--                                  nofight-room
+The Sorcerer                70       G--                                  nofight-room
+The Warlock                 70       G--                                  nofight-room
+The Captain of the Guard    75  375M Gxxx x    -  12015-12051 65536-65536 [human]
+The Shaman Troll King       80       E--x      G E                        [troll], powerword pain, confusion, trueheal, wrath of god, 1-1 spells, mana shielded
+The Knight                  85       N-xx x    ---            65536       resist fire/ice/unlife/air/earth, teleports away (to safe-room) with one opponent to duel him. If that person dies or chickens out, knight returns in random room. If opponent survives, both come back after a few rounds. Id:"duelist"
+The Catoblepas              85 1700M Nxxxx     G  25000.5         2       resist fire, 6-6 attacks, special-instakill (does not work when he is blind)
+The greater shard           85 1700M E--x      G  24000-24000     1-1     [magical], shrugger
+The Assassin                90       G--                                  nofight-room
+The Gatekeepers assistant   90       N--       ---
+The secretary               99       G--                                  nofight-room
+A Brother Bob              100       G--       ---                        shopkeeper
+Alfred the Baker           100       G--       ---                        shopkeeper
+An Diamond Astrogater      100       G--                                  nofight-room
+An Emerald Astrogater      100       G--                                  nofight-room
+An Sapphire Astrogater     100       G--                                  nofight-room
+Bill the Shipwright        100       G--       ---                        shopkeeper
+Gressford the Priest       100       G--                                  nofight-room
+Lionheart the Coward       97+       Gxx       -
+Smallheart the Wuss        99+       Gxx       -
+The Ancient Wizard         100       N--x -    -              65536       INFO, [human], area blindness, force bolt, hell storm, 2-2 spells
+The Auctioneer             100       G--                                  nofight-room
+The Behemoth               100       Nx-xxx    -                          vuln fire, 7-7 attacks, force-flee, special-stomp-damage (400)
+The Gatekeeper of Myrridon 100       N--       --- ~70k           2-2     INFO, [human]
+The Guild Master           100       G--                                  nofight-room
+The Overseer               100       N--       ---                        no-attack
+The Postmaster             100       G--       ---                        no-attack
+The Publican               100       G--       ---                        shopkeeper
+The receptionist           100       G--                                  nofight-room
+The shopkeeper             100       G--       ---                        shopkeeper
+The Storekeeper            100       G--                                  nofight-room
+The Thorn Demon            100       Ex-   1   G -                1-1     INFO, vuln pure/iron, NOT vuln light, immune fire, 7-7 hits, special-ensnare-paralyze, summon tumbleweed

@@ -1,0 +1,153 @@
+# Merc halls (?): ?-?, ?  (Different places)
+#
+* Kindred of the Dark:
+* ====================
+#
+#               o
+#              /|
+#           TrR o
+#               |
+#       o - o - o - o -bar- o
+#           |   |   |
+#           o - F - o     o
+#           |   |   |    /|
+#           o - o - o   o |
+#               |      /  |
+#               |     o   o
+#               | ___/    |
+#               |/        |
+#               o         |
+#                         |
+# [Sundhaven] - o *-> o - o
+#
+#
+* Suicide Squad:
+* ==============
+#
+#        TrV  o
+#         |   |
+# ItemS - o - o
+#         |   |
+#         G  Pub
+#         |
+#      [Kerofk]
+#
+#
+* Coalition of Sin:
+* =================
+#
+#            |
+# [Desert] - G
+#
+#
+* Generation Zero:
+* ================
+#
+#   |
+#   G
+#  /
+# o - [Sundhaven]
+#
+#
+* Paragons of Valour:
+* ===================
+#
+#            o
+#            |
+# [Kerofk]   o - o <arena>
+#    |       |   |    |
+#    o - o - o - o -- o - o
+#                     |
+#                     o
+#                    /
+#                   o
+#
+#
+* Final Sanction:
+* ===============
+#
+# [Ofcol]
+#    |
+#    o
+#    |
+#    G
+#    |
+#
+#
+* Shadowy Conquerors:
+* ===================
+#
+#   [Kerofk]
+#      /
+#     o
+#    /
+#   o
+#  /
+# G -
+#
+#
+* The Trocade:
+* ============
+#
+#              [Sundhaven]
+#                  x
+#                 o
+#                 +
+#                 o
+#                 |
+#       o -- o -- o -- o -- o
+#      /                   /
+#     /   o               /
+#    /    |              /
+#   /     o   o + o     /
+#  /      +   |        /
+# o ----- o - o - o - o
+#         +   |
+#             o
+#            /
+#           o
+#
+#
+* Blades of Torment:
+* ==================
+#
+#     <arena>
+#        |
+#    o - o - o
+#       /|
+#      / o
+# <arena>
+#
+#
+* Red Hand:
+* =========
+#
+#
+* Gangsters of Domination:
+* ========================
+#
+#
+* Clandestine:
+* ============
+#
+#
+* Storm Walkers:
+* ==============
+#
+#
+* Dragon Riders:
+* ==============
+#
+#
+* Titans:
+* =======
+#
+#
+* Clearly Outplayed:
+* ==================
+#
+#
+* GODS:
+* =====
+#
+#

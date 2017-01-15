@@ -1,0 +1,131 @@
+# The Apocalypse (201): 50-100, Sin  (Palanthas: 5s2es2enen2enen2ene2nene2n2e2n3en3ese)
+* FIND OUT: Look for summonable rooms on west side (first area checked, except at Kjata, Ragnarok and K'intar)
+* FIND OUT: a Green key    from Shatan  : Holdable? Dissolves?
+* FIND OUT: an ivory key   from Yahweh  : Dissolves?
+* FIND OUT: a Blue key     from Guardian: Holdable?
+* FIND OUT: Need new ident: boots of wrath
+* FIND OUT: Level on The Sheep (21-40)
+* FIND OUT: Level on The Shepherd (65-66)
+* FIND OUT: Level on Angel of Dominations (92-94)
+* FIND OUT: Level on Angel of Powers (92-93)
+* FIND OUT: Level on Angel of Principalities (92-93)
+* FIND OUT: Level on Angel of Thrones (92-94)
+* FIND OUT: Level on Archangel (92-93)
+* FIND OUT: Level on Angel of Virtues (92-93)
+* FIND OUT: Level on Goliath (92-96)
+* FIND OUT: Level on Gzora (90-92)
+* FIND OUT: Level on K'intar (88-92)
+* FIND OUT: Level on Kjata (88-92)
+* FIND OUT: Level on Zorath (88-92)
+* FIND OUT: Level on Cherubim (92-93)
+* FIND OUT: Level on Shatan (93-96)
+* FIND OUT: Level on Yahweh (95-96)
+* FIND OUT: Level on It (98+)
+* FIND OUT: Any mobs missing (around Goliath)
+#
+#                                   RIP RIP
+#                                     |/
+#                                 RIP-It-RIP
+#                                    /|
+#                                 RIP S
+#                                     ^
+#              Shatan                 +                Yahweh
+#               /|   *--------------->o<--------------*  /|
+#       start<-/ S               X<--/         start<---/ S
+#                ^                                        ^
+#                |      ?----o----?      Angel of         +       Angel of
+#                o<-*   |    |    |     Dominations o o-Guard-o S Seraphim
+#                    G?-?-Goliath-?-G?       |      | |       | |    |
+#          Kin-     /   |    |    | *   o--->o------o-o---o---o-o----o<----o
+#       slaughter ???   o----o----? |   ^    |      | |   |   | |    |     ^
+#             |              ^      v   | Angel of  S o---o---o S Angel of |
+#   Khondar-o | o-Gzora      |   start  | Thrones                 Cherubim |
+#       |   | | |   |     *->o          |                                  |
+#   Gb--o---o-o-o---o---Gr              |           o<-------------\       |
+#  *    |     |     |   /               |  Angel    |              |       |
+#  |    |     |     |   \               |   of      v   Arch       |       |
+#  | Zorath-o-o-o-Lorgon \--> X         | Virtues o-o-o Angel      |       |
+#  v          ^                         *    |    | | |   |        |       *
+# start       |      Ragnarok            Gw--o----o o o---o--------|------Gb
+#             o   Kjata | K'intar    X<-/    |    | | |   |        |  X<-/
+#             ^       | | |              Angel of o-o-o   |        |
+#             |   o-o | | | o-o           Powers       Angel of    |
+#             *   | | | | | | |                     Principalities |
+#              Gr-o o-o-o-o-o o-Gm            Gy                   |
+#                 | | |   | | |   *           | *------->o         |
+#                 o-o o-o-o o-o   |           o          |         |
+#                       ^         v           ^          v         |
+#                       |   Gy  start    Gm   |      o---o----o    |
+#                       o<-* |           | *->o      |   |    |    *
+#                            o           o       Gc--o-Lesser-o--Gc
+#                            |           |      *    | Angel  |
+#                            o-Mediator--o      |    |   |    |
+#                                 |             |    o---o----o
+#                               start <---------/
+#             Evil                |                 Good
+#       (Ae)  side               -X                 side  (Ag)
+#
+* Most of the rooms are no-summon, but recallable. "S" means summonable.
+* Evil (west) side can't be entered by good-aligned people
+* Good (east) side can't be entered by evil-aligned people
+* Gx means Guardian holding a key starting with the letter "x"
+* Portals (Abyss) never close after being opened.
+* Most evil guys (west side) are vuln pure/light/iron
+
+Apocalypse:              Lvl    Xp ASWIDMX # agg      Hp         Gold       Special
+The battered slave        15  254k N-xx-- 14 -     241-301        2-2       [human]
+The tortured slave        15  254k N-xx-- 14 -     334-317        2-2       [human]
+The Sheep              21-40 3300k G-x- -  8  -    683-822        2-2       vuln mental
+The hungry rat            30 4200k E--x--  8 G     893-959        2-2       vuln poison/gas, resist dark
+The Shepherd           65-66  111M Gxxx x  8  -E  5499-5743       2-2       vuln fire, mana shielded
+The Fiery Demon           65  143M E-xx   22 G    7167-7437       2-2       vuln pure/light/iron, resist fire/dark/unlife/poison, bash, kick, headbang, berserk
+The Fiery Ghoul           65  140M E-xx -112 -    7225-8475       2-2       vuln pure/light/iron/poison, resist fire/dark/unlife, random-agg-G??
+The Winged Angel          65  137M Gxxx x 22 --E  5588-6768       2-2       [human], immune electricity, mana shielded
+The Grey Serpent          66  139M E--x -    -N   5154-5223       2-2       resist poison/fire, 5-5 attacks, fireball, poison, 1-1 spells, flying & sentinel before being in battle - standing & walking after
+The Bloody Wraith         66  152M E--x      GN                   2-2       vuln pure/light, fireball, powerword blind, flying & sentinel before being in battle - standing & walking after
+The white hooded monk     66  195M Gxxx x 20 --E  4742-7494       2-2       [human], wrath of god, wither
+The Green Dragon          70  253M Gxxx   20 GNE  6291-9258       2-2       [dragon], area powerword blind, hell storm, 1-1 spell
+The Holy Templar          70  252M Gxxx x 20  -E  6903-9721       2-2       [human], area wither, confusion, wrath of god, miracle, feeblemind
+Translucent demon         70             1                        2-2       poison
+Guardian of the abyss     75  346M Nx-x x1   --- 14957-15501 121853-145542  [human], bash, kick, headbang, berserk
+Guardian of the Gate      75  264M Nx-x x     -  13980       192239         [human], headbang
+The angel of dominations 92-94     Gx-x x  1  -                             [human], mana shielded, powerheal, wither, harm, 1-1 spells
+The Angel of Powers    92-93       Gx-x x     -                             [human], mana shielded, hell fire(storm?), trueheal, ?-2 spells
+The Angel of Principalities
+                       92-93       Gx-x x     -                             [human], mana shielded, trueheal, wrath of god, hell fire(storm?), wither, 1-2 spells
+The Angel of Thrones   92-94       Gx-x x  1  -                             [human], mana shielded, wrath of god, plasma ball, powerblind, 1-2 spells
+The Archangel          92-93       Gx-x x     -                             [human], mana shielded, plasma ball, wither, area wither, wrath of god, 1-2 spells
+Goliath                92-96       Ex-       GN                   2-2       entropy
+Gzora                  90-92       Ex-x  2   G                              resist fire, bash, kick, headbang, berserk
+K'intar                88-92 2356M Ex-x      G   37060          101         vuln pure/light/iron, immune fire, resist dark/unlife/poison, 6-6 attacks, bash, kick, headbang, berserk
+Kjata                  88-92 2356M Ex-x      G   31198.75         2         vuln pure/light/iron, resist fire/dark/unlife/poison, 7-7 attacks, hell storm, deathspell, wither, 1-2 spells, 6-6 attacks
+Khondar                   92       Ex-x  2 1 GN                   2         vuln pure/light/iron, resist fire/dark/unlife/poison, 5-6 attacks, wither, wrath of god, miracle, 1-2 spells
+Lorgon                    92       Ex-x  2   GN                   2         vuln pure/light/iron, resist fire/dark/unlife?/poison?, bash, headbang, berserk
+Ragnarok                  92 2364M Ex-x      G   40870.5          2         [dragon], 5-6 attacks, hell storm, 1-2 spells
+The Lesser Angel          92       Gx-x x  1  -E  ~30k            2         [human], mana shielded, powerheal, harm, wither, blindness
+Zorath                 88-92       Ex-x  2 1 GN                   2         plasma ball, powerword blind, area powerwod blind, deathspell, 2-2 spells
+Kinslaughter              93       Ex-x    1 GN              543492         vuln pure/light/iron, resist fire/dark/unlife/poison, backstab, hell storm, 1-2 spells/skills, 6-6 attacks
+The Angel of Cherubim     93 2791M Gx-x x     -  42010.5          2         [human], NOT mana shielded, plasma ball, miracle, wither, deathspell, 1-1 spells
+The Angel of Virtues   92-93       Gx-x -  1  -                             [human], mana shielded, wrath of god, plasma ball, wither, 2-2 spells
+The Angel of Seraphim     93       Gx-x x  1  -                             [human], mana shielded, plasma ball, wither, powerblind, 2-2 spells
+Shatan                 93-96       Ex-   3    N              946191-1011856 INFO, vuln pure?, immune fire, area wither, hell storm, deathspell, plasma ball, shrugger
+  HITROLL: +42+8: 46 hits out of 50: 92%   hits
+                                              Obli Anni Vapo Pulv
+  Plain:   WEAPON                avg 22                  51
+  WoJ:     WEAPON PURE LIGHT     avgdam 21.0:        2   17    1
+  pp: 558  (=standard)
+Yahweh                    95       Gx-x x2   --E              65642-65719   INFO, [mythical], resist WEAPON/fire/ice/unlife?/earth?/air?, mana shielded, shrugger, trueheal, plasma ball, deathspell, area wither, 6 attacks, 1-2 spells, AC -42 or worse
+  HITROLL: +38+8: 15 hits out of 40: 37.5% hits
+  HITROLL: +42+8: 64 hits out of 75: 85%   hits
+                                              Extr Mass Obli Anni Vapo
+  Plain:   WEAPON                    avg 22         33   32
+  Myth:    CRUSH LARGE GAS Slay myth avg 26         38    3   52
+  Ice:     PIERCE ICE                avg 23         67
+  hf: 29/208
+  pp: 38/256+
+The Ambivalent Mediator   99       N--                                      nofight-room
+It                       98+       Nx-x  3   GNE  ~70k        68179-68379   INFO, [mythical?], resist fire?/ice?/unlife?/earth?/air?, resist stun if using "leggings of the Ancients", shrugger, hell storm, area sleep, area powerword blind, area wither, 2-3 spells
+  HITROLL: +42+8: 4 hits out of 100: 4.0% hits
+                                        Extr Mass Obli Anni Vapo
+  Plain:   WEAPON              avg 22                         5
+  Fire: normal damage

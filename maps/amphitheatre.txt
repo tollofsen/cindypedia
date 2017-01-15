@@ -1,0 +1,45 @@
+# The Amphitheatre (Grolim) (6): 51-100, Gobzilla  (Sundhaven: 6es2es3ese2n4w)
+#
+#                                 o
+#                                 ^
+#                /-----------*    |
+#                |            Zandramas
+#                |                ^
+#                |                *
+#        o-o-o   v  o--dragon-->drain
+#        |          |  Mordja   room
+#        o          o
+#        |          |       o-o-o-o 
+#        o          o        /    |
+#        |          |     o-o-o   o
+#        o    o--o--o         |   |
+#   o-o  |    |               o   o
+#   |    o    o               |   |
+#   o   /     |               o   o
+#  /|  /      o               |   |
+# o o /       |               o   o
+# | |/        o               |   |
+# | o o      /                o   o
+# | |/|     o  o-o            |   |
+# o o o    /     |  o-o-o-o-o-o   o
+# |   |   o      o                |
+# |   o--/--o--o-|--o--o---o---o--o
+# |     o        o  |
+# |    /         |  o
+# o   o--------o o  |
+# |   |        |/|  o
+# |   o--------o |  |   |
+# |              |  X---o--
+# o----o----o----o      |
+#
+* Zarndramas' room is noflee/norecall
+* Grolims are vuln slay human/iron, except high priests who are vuln energy
+
+Amphitheatre:               Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+A fanatic Grolim priest      90       E-xxx-    ---                         vuln iron, blindness
+A Grolim warrior priest      94       Exxx  1   GNE            79100-82367  [human], vuln iron, immune fire, resist dark
+Grolim high priest           95       Ex x  1   GNE           210013-238057 INFO, [human], vuln energy, invis, area blindness
+The red dragon              100       E--x      GNE           506449-601970 INFO, [dragon], resist air?/gas?, shrugger, hell storm, summons Mordja on death
+Mordja the demon lord       100       Ex    2                  12444-13649  INFO, vuln pure/light/energy, immune WEAPON/fire, resist dark, invis, can push you into drain-room
+Zandramas the child of dark 100       Ex-xx 3   GN-  ~100k         2-2      INFO, vuln light, resist dark if using "black crimson cape", shrugger, special-push, slow-agg (enter and go north fast to avoid getting attacked)
+  iron: vaporize

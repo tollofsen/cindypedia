@@ -1,0 +1,39 @@
+# The Abandoned Caves (332): 50-95, Solo/Static  (Solace: 7seu2nw4n3e3n3u6en)
+#
+#             o -Shub
+#             |   |
+#             o - o
+#             ^
+#             |
+#             o
+#             ^                                    o-o-o
+#             +                                    |   |
+#           o-p-o                                  o   o
+#           | | |                                  |
+#         o-o-o-o-o                            o-o-o       o
+#           | | |                              |   |      /|
+#           o-o-o                              o   o   RIP +
+#             |                                |   |/      |
+#     o----o--|--o                             o-o-X-o-o - o
+#     |       |  |                             |   |   |
+#     o       o  o-o       o-o-h               o   o   o
+#     |       |  | |       | | |               |   |   |
+#     o-p-o-o-o  o-o-o-o-o-o-o-o-o-o-o-o-o+o-o-o   o-o-o
+#     |          | |       | | |
+#     o          o-o       h-h-h
+#     |          |
+#     o----o-----o
+#
+* h: hunting horrors
+* p: proto shoggoth
+* Orcs are vuln pure/light/fire. The rest I don't know.
+
+Abandoned Caves:         Lvl    Xp ASWIDMX # agg      Hp        Gold     Special
+The orc                   55   51M E-xxx-    -    4061-4099  10044-10045 vuln pure/light/fire, resist ice/poison/dark
+Far'nachtar the orc       58   58M E-xxx-    -    5532-5590  40001-40001 vuln pure/light/fire, resist ice/poison/dark
+Mor'balach the orc leader 70  280M E-xxx 1   G E 15063-15094 50001-50001 INFO, vuln pure/light/fire, resist ice/poison/dark
+The deep one              75  375M N-xx  1   G E 12011-12079     0-0     no vulns, resist water
+The hunting horror        75  375M N--x      G E 12404-12862     0-0     resist unlife/fire/ice/air/earth, flying before being in battle - standing after
+The star spawn            80 1200M N-xx      G E 15623-15970     0-0     resist unlife/fire/ice/air/earth
+The proto shoggoth        85 1955M Nx-x  3 2 G E 24789           0-0     INFO, [entity?/mythical?], shrugger
+Shub-Niggurath           100       Nxxx    1  N                          INFO, [entity?/mythical?], shrugger

@@ -1,0 +1,51 @@
+# Gypsy Village (137): 1-10, Mort  (Karandras: 8wn)
+#
+# wolverine
+#    |
+#    o - o                     o             o
+#        +                     |             |
+#        o                     o + o + Inn-+-|-o
+#        |                     |             |x
+#        o                     o             o
+#        |                     |
+#        o ------ o ------ o - o
+#        |                 |   |
+#        o   Shop- o ----- o - o
+#                  +       |   |
+#                  o   o - o - o
+#                          |
+#                  o - o - o - o   o
+#                      |   |       |
+#                      o - o ----- o
+#                      |   |
+#                      o   o - Herd
+#                          |   Area
+#                          o
+#                          |
+#                          o - o - o
+#                          |      /
+#                          X     o
+#                          |
+#
+* Same area as Orchard
+
+Gypsy Village:           Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A Gypsy kid (berries)      1   200 G-----    -     15-18       47-83   flees
+A Gypsy kid (singing)      1   200 G-x---    -     15-18       47-83   flees
+The small mouse            1   200 N-----    -     25-33        1-1
+A young gypsy              3  3000 G-x---    -     56-57      242-267  flees
+Barnabus Gypsy             3  3000 G-x---    -     59-60      252-269  flees
+Father Gypsy               3  3000 G-x---    -     62-63      237-255  flees
+Jonathan Gypsy             3  3000 G-x---    -     56-64      256-278  flees
+Sammy Gypsy                3  3000 G-x---    -     57-61      250-266  flees
+The Old Gypsy              3  3000 G-x---    -     56-64      243-256  flees
+Veronica Gypsy             3  3000 G-x---    -     60-61      251-266  flees
+The rabid rat              6   26k N-x--     G    119-122       0-0
+Spot the cat               8   60k E-----    -    160-163       0-0
+The giant maggot           8   66k N-----    G    157-162       0-0
+Grandpa Gypsy             10  110k G-x---    -    196-197     454-514  flees
+The evil Gypsy            10  110k E-----    -    195-205     399-414
+The wolverine             10  121k E--x-     G    197-201       0-0
+The old sailor            15  255k E-----    -    304-309       1-1
+The Barmaid               30       G--       -      ?           ?      shopkeeper
+The Gypsy Witch          100       E--       -      ?           ?      shopkeeper

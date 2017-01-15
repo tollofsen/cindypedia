@@ -1,0 +1,61 @@
+# The Abandoned Cathedral (237): 10-30, CAW  (New Thalos: 2en2e2n2w2n)
+#
+#               o
+#               +
+#               o     o---- Isaac ----o
+#               +    /               /
+#             Esme. / o-o+o         /
+#               |  /    |          /
+#               o /   o-o-o       /
+#               |/      |        /
+#               /     o-o-o     /
+#              /|       |      /
+#             o---------o     o
+#            /  |       |    /
+#           / o+o+o   o+o-o /
+#          /    |          /
+#         /     o         /
+#        /      |        /
+#       o - o - o - o - o
+#      /        |      /
+#     o ---- o -|---- o
+#     |      |  o     |
+#     o ---- o -|---- o
+#     |         +     |
+#     o - o     X     o
+#         |     |
+#       Erich
+#         +     
+#         o - o - Wyrenthoth
+#             |
+#             o - o
+#                 |
+#         o + o - o
+#             |
+#             o
+#            /
+#           o
+#          /
+#         o
+#        /
+#       o
+#      /
+#    RIP
+#
+* Pretty safe area. Only Erich is aggressive. Mostly undeads here.
+
+Abandoned Cathedral:     Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+The human skeleton         6   24k Gx-x--    -    109-136     101-110
+The zombie                 7   35k Gx x--    -    132-161       0-0     no-group, immune unlife, vuln heal
+The ghoul                  8   60k Gx-x--    -    162-163       0-0     no-group, immune unlife, vuln heal
+The shadow                 8   60k Ex-x--    -    147-166       0-0     immune unlife
+The wight                  8   60k Ex-x--    -    150-180       0-0     no-group, immune unlife, vuln heal
+The wraith                 8   60k Ex x--    -    151-174       0-0     immune unlife
+The man                   13  243k Ex-x--    -    261-269    1264-1265  flees
+The ghost of the Abbott   12  168k Gx x--    -    234-253       0-0     immune unlife
+The banshee               15  345k Gx x--    -    280-306       0-0     no-group, immune unlife, vuln heal
+Erich                     19  805k Ex-x--    GNE  427-443    7010-7011  no-group, immune unlife/dark, NOT vuln heal
+Esmerelda the priestess   17  561k Ex-x--    -    358-363    2010-2015  flees
+Isaac                     25 1900k G--x--    -    601-613    1004-1011  hide
+The giant zombie          25 1900k Gx x--    -    576-603       0-0     no-group, immune unlife, vuln heal
+Wyrenthoth                27 2822k Ex-x--    -    665-665   10005-10016 flees

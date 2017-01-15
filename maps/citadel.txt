@@ -1,0 +1,66 @@
+# The Citadel (144): 50-100, Unknown (?/never)  (King's Castle: 6wnwn)
+* FIND OUT: unpickable medicine cabinet(again). It can hold a healing potion. Weighs 10 when empty.
+#
+#   o                            o
+#  /                            /
+# o - o -- o -- o -- o -- o -- o
+# |                            |
+# o      o   o + o             o
+# |      |       |  o-Lady- o  |
+# o      o   o   o      +      o
+# |      +   +   |  o + D + o  |
+# o    Lord+ U   o      |      o
+# |      |   |   |  o + o + o  |
+# o      o + o   o      |      o
+# |          |   |  o + o + o  |
+# o      o + o   o      +      o
+# |      |   |   |  o + o + o  |
+# |      o   o + o      +      |
+# o     /    +          o      o
+# | Ceanyth  o                 |
+# | Dungeons |                 |
+# o - o - o -|- o -- o -- o -- o
+# |          |                 |
+# o  o - o - o - o - o         o
+# |  |   |   |   |   |         |
+# o  o - o - o - o - o         o
+# |  +   +   |   |   |         |
+# o  o + o - o - o - o         o
+# |  |   |   |   |   |         |
+# o  o + o - o - o - o         o
+# |  +   |   |   |   |         |
+# o  o - o - o - o - o         o
+# |          |                 |
+# o - o - o -|- o -- o -- o -- o
+# |          |                 |
+# |        o o-o     o         |
+# o       /| |      /|         o
+# | o    o | o     o |         | o
+# |/     | | |     | |         |/
+# o---o--|-o-|--o--|-o---o-----o
+#        |   |     |
+#      o-o---X-----o-o
+#            |
+#          - o -
+#
+* Whole area is very bright
+* Guards, sentries & archers are randomly aggressive.
+
+Citadel:                 Lvl    Xp ASWIDMX # agg      Hp        Gold     Special
+The horse                 20  550k N-----    -     454-457       0-0
+The reveller              22  770k G-x--x    -     508-516    2231-2266  vuln slay human, flees
+The bather                25 1050k G--x--    GN    603-606     401-415   vuln unlife/iron/dark, sitting, no-summon
+The guest                 25 1050k G----x    -     606-608     366-402   vuln slay human, sitting
+The servant               25 1050k G----x    -     606-608     359-381   vuln unlife/iron/dark
+The cook                  30 3300k G----x    - E   750-772     690-820   vuln slay human
+The wincher               45   23M G--x-x    -    1796-1803   5698-6149  vuln slay human, bash, kick, headbang, berserk
+The blacksmith            50   45M G----x    -    2297-2323   6343-6361  vuln slay human
+The sleepy guard          52   44M G-4xx-    G    2774-2804   6683-6734  vuln unlife/iron/dark, sleeping, bash, kick, headbang, berserk, random-agg-G??
+The sentry                55   47M G-xx x    -    3475-3565   6872-7112  vuln unlife/iron/dark, bash, kick, headbang, berserk, random-agg-G?E
+The archer                57   57M G--x -    -    3956-3969   7345-7542  vuln unlife/iron/dark, bash, kick, headbang, random-agg-G??
+The guard                 60   72M G-xx x    -    4760-4804   7757-8229  vuln unlife/iron/dark, bash, kick, headbang, berserk, random-agg-GNE
+The elite guard           62   77M G--x x    -    5459-5508   8144-8198  vuln unlife/iron/dark, bash, kick, headbang, berserk
+The laen golem            65  110M G--x -    --   6518-6530   8387-8631  resist unlife/ice/fire/earth/air, bash, kick, headbang, no-summon, +750k coins
+The mithril golem         65  110M G--x -    --   6535-6918   8344-8880  resist unlife/ice/fire/earth/air, bash, kick, headbang, no-summon, +750k coins
+Lady Nydethiel            70  140M Gx-x x    -                9462-9491  vuln unlife/iron/dark, powerheal, blindness, wither, harm, +1.2M coins
+Lord Ceanyth              80  880M Gx-x x    - E 17980       10984-11454 INFO, vuln unlife/iron/dark, force bolt, mass pain, fireball, plasma ball, plasma bolt, 2-2 spells, +3M coins

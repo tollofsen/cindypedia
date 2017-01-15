@@ -1,0 +1,65 @@
+# Town of Lahresin (219): 50-100, Chandos (?/55-75min)  (Crossroad: 10se2sw3s4w4s)
+* FIND OUT: Level on Loreshi, the undead elf-king (90-91)
+* FIND OUT: Level on A lost soul, summoned by Loreshi (73-75)
+* FIND OUT: Look for vulns on Loreshi
+#
+# o----g
+# |   x           |
+# o maze          o -
+# |               |
+# g-o-o-o         X                        Lorhesi
+#   |             |                           +
+#   | g  o        o                           o           _
+#   |/| x+        |                      __   |          / \
+#   o |/ o    o-o-o                     /  \  o-------s----/
+#     o  +        |                     \  |      /   |
+#    o-o-o-o-o    o---o          s----s----s-----/    |
+#    |       |        |         x     |               |
+#  o+o+o   o+o+o    o-o-o     NM      s-\             |
+#    |       |        |               | /             |
+#    o   o o o        o               |/              |
+#    |   + | |       /                |               |
+#    o-o-o-o-o      /       /---------o               |
+#    | | +   |      |       |                         v
+#    o o o   o      V       |   /--------------o-\ <-\
+#    |       |      o       |   |  /  /        | /    \
+#  o+o+o   o+o+o   /        |   s-/   |        |/     |
+#    |       |    /         |   |     |        |      |
+#    o-o+o+o-o    |         \___/     \--s----maze----s-\
+#        +        V                      |  /      \    |
+#        o        o                      \_/        \___/
+#        +       /
+#        o      /                Getting past the maze:
+#        |     /                 down, nwsnneewn, open door
+#        o <--/
+#
+* Entrance from Dunheim
+* Maze rooms are norecall, except entrance and south of king.
+* s: Lost soul
+* NM: Nomag. Pops "A dark-blue potion" when Lorhesi dies.
+* Orcs are vuln pure/light/fire. Ghouls are vuiln pure/light/silver/heal.
+* Tortured souls only has resists. Lost souls are vuln pure/light.
+
+Lahresin:                      Lvl    Xp ASWIDMX # agg     Hp        Gold       Special
+A rabbit                         1       N-x--     -     35-39        1-1
+A sparrow                        1       N-x--     -     28-31        1-1       NOT immune earth
+An orc child                    30 4500k E-xxx-    -    714-717     142-173     vuln pure/light/fire, resist dark/poison/ice, flees
+An orc woman                    40   17M E-xxxx    -   1259-1268    540-554     vuln pure/light/fire, resist dark/poison/ice
+An orc man                      45   28M E-x-xx    -   1549-1558   1057-1059    vuln pure/light/fire, resist dark/poison/ice, kick
+An orc commander                50   50M E-x-xx    G-- 2846-2848   7044-7061    vuln pure/light/fire, resist dark/poison/ice, aware
+An orc guard                    53   59M E--xxx    G-  4552-4554   7054-7066    vuln pure/light/fire, resist dark, bash, kick, headbang, berserk
+The orc guardian                65  163M E--x x    G-  8046-8056  90410-90473   vuln pure/light/fire, resist dark/poison/ice, bash, kick, headbang, berserk, special-open-door-and-create-treasure-on-death
+A suffering ghoul               65  144M E-xx      G E  ~5k           1-1       vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental, colour spray, meteor blast, meteor swarm, fireball, sneak, special-appear-on-entry, special-max-1-player-at-first-entry
+A tortured soul                 67  202M E-xx      G E 7048-7051      1-1       resist unlife/ice/fire/earth/air, sneak, meteor blast, meteor swarm, fireball, colour spray
+A lost soul                     75  375M E--x  0   GNE                0-0       vuln pure/light, immune unlife/dark, corpseless, meteor blast, mass pain, powerword pain
+A lost soul                  73-75                                              summoned
+Loreshi, the undead elf-king 90-91       E--x  1   G E          3500000-3500000 INFO, immune unlife/dark, resist WEAPON/pure/light/silver/air/water/mental, meteor blast, mass pain, powerword pain, summon lost soul, blocker
+  HITROLL: +38+8: 7 hits out of 22: 32% hits
+  Silver: massacre/obliterate
+  Normal: annihilate   (same for Energy/Iron/Fire/...)
+  hf: 554 (standard)
+  Check Slays: demon (turiel)
+               drowelf (PW ice)
+               elf/halfelf (blood)   avg 36: annihilate
+               magical (diamond)
+               mythical?

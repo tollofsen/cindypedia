@@ -1,0 +1,92 @@
+# The HighLands (66): 15-35, Unknown  (Sundhaven: 6es2es3esen)
+#
+#                 o o   o
+#                /| +   +
+#               o-|-o-o-o
+#                 |     |
+#               o-o-o   o
+#               | | |   |
+#               o-o-o   o+o<---+o-o-o-o-o
+#               | | |                   |
+#               o-o-o                   |
+#                 |                     |
+#                 | o                   o
+#                 |/|                   |
+#                 o o                   |       o
+#                   |                   |      x
+#                 o-o-o                 o     o
+#                   |                   |    /
+#             o     o         o         |   o
+#            x      |        /|         |  /
+#           o     o-o-o     / o       o+|-o
+#          /        |      /  |       | +/
+#         o         o     /   o   o-o-|+o
+#        /          |    /    |   |   |
+#       o           o-o-o   Lord  o   o
+#      /+                         |   |
+#     / o         o-o-o-o-o-o-o-o-o   o
+#    /  |         |                   |
+#   o+o-|-o-o-o-o-o   o-o-o-o-o       o
+#   +   |             |       |       |
+#   o   |           o-o       o-o-o-o-o
+#   |   |           |           |
+#   o   o-o-o-o-o-o-o           o
+#   |               |           |
+#   o               o       o   |
+#   |               |      /|   o
+#   o             o-o     o |   |
+#   |             |       | |   |
+# o-/             o   o-o-o o   o-o-o
+# |               |   |   | |       |
+# o               o   o   o o       o
+# |               |       | |       |
+# o o-o-o         o-o     o o     o-o
+# | |   |           |     | |     |
+# o-o   o         o o-o o-o o   o-o
+#       |        x    |     |   |
+#       o       o     o--o--o-o-o
+#       |      /            |
+#       o-o   o             o
+#         |  /              |
+#         o o               o                            o
+#         +/+               |                           x
+#         o o--o-o--o--o-o--o---o--o--o--o--o--o---o   o
+#                           |                      |  /
+#                           o                      o o
+#                           |                      +/
+#                           o                      o
+#                           |                     /
+#                           o         2 3 4 1 5  o
+#                           |         | | | | |
+#                        ---o---------o-o-o-o-o---
+#                           |         | | | | |
+#                           |         | | | | V
+#                        y<-o---------o-o-o-o-y-Marsh
+#                           |         | | | | |
+#                           | Amphi-  | | | | |
+#                        ---1 theatre-2-3-4-o-5---
+#                           |         | | | | |
+#                                           X
+#                                           |
+#
+* Quite safe area, as long as you don't stray off into March or Amphitheatre
+* Careful with the fire elementals by the castle entrance (eq-vape risk)
+
+Highlands:               Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A sheep                   10  110k G-x---    -    193-209       1-1
+A Barbarian               14  210k E-x---    -    273-288       1-1
+A gigantic frog           15  255k E-x---    G E  291-297       1-1
+A barbarian warrior       16  304k E-x---    -    326-340       1-1
+The Keeper of the Tower   16  304k N-----    -    327-338      11-11
+A guard                   17  357k E-----    G E  353-368       1-1
+A Barbarian Guard         18  414k E-----    -    382-396       1-1     bash
+The Lord's Cleric Boldar  18  414k Ex----    -    396-397      96-96    harm, powerheal, blind
+The Lord's Mage Mardonna  18  414k Ex-x--    -    384-392      61-61    colour spray, fireball, meteor swarm
+A Fire Elemental          20  600k E--x--    GNE  456-461       1-1     NOT resist fire, NOT vuln ice, fire breath, can VAPE eq!(?)
+Nessy's Child.            20  600k G-----    -    440-455       1-1     sleeping
+The wife of the Lord      20  600k E-----    -    446-458    1001-1001
+An Elite barbarian        21  735k E-----    -    467-495       1-1
+Nessy                     24 1200k Gx----    -    563-580   10001-10001 gas breath
+A Highlander              25 1500k Gxx---    -    601-610     101-101
+The Barbarian Lord        25 1500k Ex--x-    -    591-611    1501-1501  bash, kick
+The Holy Slayer           35 7700k Nxx---    -    888-906       1-1     fireball, blind, curse, colour spray, harm, meteor swarm, powerheal, meteor blast, confusion

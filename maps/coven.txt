@@ -1,0 +1,71 @@
+# The Coven (???): 40-100, Stryder  (New Thalos: 2enes)
+* FIND OUT: Level on An illusion of the silver winds (69-72)
+* FIND OUT: Level on An illusion of the sacred earth (69-72)
+* FIND OUT: Level on An illusion of the solar circle (69-71)
+* FIND OUT: Level on An illusion of the crescent moon (?)
+* FIND OUT: Level on An illusion of the evergreen forest (1-71)
+* FIND OUT: the coven key: from The high-priestess, to vault, id?, carried?, d?
+#
+#                |                  Home
+#        D1      X   D4             /
+#       /|      /   /|             o
+#        o     o     o             ^
+#        |    /      |             |
+#    D2- o - o ----- o - D5        o  Sol
+#   /        |          /          |
+#            o                 o - o - o
+#            |                 |   |   |
+#            D3                o - o - o
+#           /                  |   |   |
+# Home         Earth       o - o - o - o - o           Wind         Home
+#  /                       |/  |   |   |   |                         /
+# o <- o - o - o - o - o - U1- o - o - o - U4- o - o - o - o - o -> o
+#      |   |   |   |   |  x               x    |   |   |   |   |
+#      o - o - o - o - o o               o     o - o - o - o - o
+#          |   |   |     |               |         |   |   |
+#          o - o - o     |               |         o - o - o
+#                  |/    |    strong-    |         |/
+#                  U2- o |      box      |     o - U5
+#                 x|   | |       +       |     |  x|
+#                o-|---|-o-------o-------o-----|-o |
+#                  |   |         |             |   |
+#                  o - o - o     o         o - o - o
+#          Forest  |   |   |     |  /      |   |   |  Moon
+#                  o - o - o - o---U3- o - o - o - o
+#                  |   |   |     |x        |   |   |
+#                  o - o - o     o         o - o - o
+#                  |   |                       |   |
+#                  o - o  Home                 o - o     Home
+#                  |     /                         |    / 
+#                  \--> o                          \-> o
+#
+* No known IRV:s
+
+Coven:                                  Lvl    Xp ASWIDMX # agg      Hp        Gold     Special
+A neophyte of the coven                  30 3300k N-xxx-    --    751-753    1804-1910  kick
+An apprentice of the evergreen forest    40   14M N-xxx-    --   1304-1305   2704-2949  magic missile
+A wench of the evergreen forest          43   18M N-xxx-    --   1484-1485   2972-3144  colour spray
+A conjurer of the evergreen forest       47   23M N-xxx-    --   1761-1761   3443-3541  insect plague
+The priestess of the evergreen forest hive 49 26M Nxxxxx    --   1922-1925   3725-3783  insect plague
+A student of the sacred earth            50   28M N-xxx-    --   2002-2002   3757-3801  earthquake
+A harridan of the sacred earth           53   36M N-xxx-    --   2605-2605   3988-4283  meteor blast
+An enchantress of the sacred earth       57   49M N-xxx-    --   3402-3405   4323-4665  meteor swarm
+The priestess of the sacred earth hive   59   56M Nxxxxx    --   3804-3804   4421-4817  earthquake, meteor blast
+A graduate of the solar circle           60   61M N-xxx-    --   4002-4003   4705-4821  fireball
+A virago of the solar circle             63   77M N-xxx-    --   5202-5205   5086-5247  sun arrow
+A shrew of the solar circle              67  103M N-xxx-    --   6804-6804   5284-5348  fire bolt
+The priestess of the solar circle hive   69  118M Nxxxxx    --   7602-7605   5490-5805  sun ray, fire bolt
+A scholar of the silver winds            70  147M N-xxx-    --   8001-8004   5532-5746  ice storm
+An illusion of the silver winds       69-72       N- xx     GN                          summoned, mass pain
+An illusion of the sacred earth       69-72       N- xx     GN                          summoned, meteor swarm
+An illusion of the solar circle       69-71       N-xxx     GN                          summoned, hell storm
+An illusion of the crescent moon          ?
+An illusion of the evergreen forest    1-71       N- x       N                          summoned, sticks to snakes
+A hag of the silver winds                73  176M N-xxx-    --  10403-10405  5699-6266  ice bolt
+A sorceress of the silver winds          77  201M N-xxx-    --  13602-13605  6399-6520  hurricane
+The priestess of the silver winds hive   79  451M Nxxxxx    --  15201-15204  6285-6890  hurricane, ice bolt
+An initiate of the crescent moon         80 1057M N-xxx-    --  18890-18891  6579-6818  shock bolt, 0-1 spells
+A crone of the crescent moon             83 1212M N-xxx-    --  21348-21352  7216-7593  force bolt
+A witch of the crescent moon             87       N-xxx-    --                          nether bolt
+The priestess of the crescent moon hive  89 1754M Nxxxxx    --  30402       8029        nether bolt, mass pain
+The high-priestess of the witches coven  99       Nx xx     G-                          mass pain, harm, confusion, powerheal, 0-2 spells per round, summon illusions

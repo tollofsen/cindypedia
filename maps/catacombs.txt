@@ -1,0 +1,59 @@
+# Dwarven Catacombs (19): 10-25, Raff  (Karandras: 10ed3n)
+#
+#                     x
+#                    o
+#                    |
+#                    o
+#                    |
+# o - o - o - o ---- o
+# |       |          |       a
+# o - o   o - o      o       ^
+#     |   |          |       |
+# a<- o   o - o      o - t - t - t
+#     |   |          |       |   |
+#     o   o - o      o       t - t
+#     |   |          |           +
+#     o - o - G  /-o-Db- o       o
+#                |       |
+#                |       o - o - o - o - o - o
+#                |       |       |           |
+#                |       |       v           |
+#                o       |       o      o -- o
+#                |       |       |     /     |
+#                |       o       o -- o      |
+#                |       |       |           o
+#        o - o - o - o   |       o -> a      |
+#        |               |       |           o
+#        o ----- o ----- o - o - o --- o     |
+#        |               |             |     |
+#        o ------------- o             o --- o
+#                        |                   |
+#                        v                   o
+#                        a - o               |
+#                        |   |               o
+#                        o - o               |x
+#                                            X
+#
+* Northwest part is very bright
+* Db: Darkenbeast
+* G:  Grand templar
+* t:  Tunnel rooms. Max 2 pers.
+
+Dwarven Catacombs:       Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A bat                      5   14k N-----    G E   97-105       0-0
+A templar page             7   35k G-x--x    -    137-145     541-818   flees
+A spelunker                8   60k G-x--x    -    156-160     738-858   flees
+A graverobber              9   90k E-x---    G E  177-185     877-919
+It                        10  110k N-x---    G E  194-207    1001-1001
+Some mist                 10  100k Nxx---    -    193-204     201-201
+A skeleton                11  132k E-x---    G E  214-223    1101-1101
+A mysterious wraith       12  156k N-x---    G E  232-249     601-601
+A templar                 12  156k G-x--x    G E  233-244     501-501
+The templar officer       13  182k G-xx-x    GNE  256-262     601-601   bash, berserk, headbang, kick
+Zombie                    13  182k E-xx--    G E  257-262     551-551   no-group, immune unlife, vuln heal
+The shadow                14  210k N-x---    -    278-287     801-801
+The evil necromancer      15  255k E-x--     G E  315-323    1101-1001  blindness, curse, cure critic, no-charm, energy drain, feeblemind
+The vampire               15  255k E----x    G E  294-302    1001-1001  no-group, immune unlife/dark
+The grand templar         16  304k Gx-x-x    -    326-336    1501-1501  blindness, cure critic, curse
+The prism dragon          20  600k E--x-x    G E  442-461    3001-3001  [dragon], resist fire?/ice?/earth?/air?/gas?
+The DarkenBeast           24 1200k E-----    G E  565-585   20001-20001

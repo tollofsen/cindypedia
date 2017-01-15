@@ -1,0 +1,40 @@
+# Quest Zone, Sin: ?-?, ?  (New Thalos: 2en2e2n2wn2wn2wn8d4ne)
+* FIND OUT: dark key f.f.a.m: Whereto / Dissolves
+* FIND OUT: Level on A Gargoyle (95-96)
+#
+#                       ___
+#                      /   \
+#                      |   |
+#             /------> X   o  Palladrus
+#            /         |   |      |
+#           /          v   \______/
+#          /           o        
+#         /            |
+#        /             o+Feast
+#       *              |
+# Kerjim     o-Crowley o
+#       *    |         |
+#        \   o---o     o
+#         \      +     |
+#          \     o--o--o-----o-----o
+#           \          |          /
+#            \         o Azrael  /
+#             \        +     |  t
+#              \-----> X     + /
+#                            |/
+#                            o
+#
+* Entrance from Kerjim, which has min level 0/35
+* t: tunnel (max 2(?) pers)
+* Fallen Angels, Azrael, Crowley, Feast & Palladrus are vuln pure/light/iron
+* Book & Gargoyle is vuln unlife
+* Palladrus (northern) part is norecall
+
+Quest Sin:               Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+A Book                    95       Ex x      GNE           191157-191187 INFO, vuln unlife, hurricane, dancing blades, powerheal
+A Fallen Angel            95       Ex x  1   GNE           191164-191255 INFO, vuln pure/light/iron, immune fire, resist unlife/dark, vampiric touch, powerheal, triad of ice
+A Gargoyle             95-96       Exxx  1   GNE           191186-191210 INFO, vuln unlife, powerheal, mass pain
+Azrael                   100       Ex x      GNE           191126-191147 INFO, vuln pure/light/iron, immune fire, resist unlife?/dark?, powerheal
+Crowley                  100       Ex         NE           191171        INFO, vuln pure/light/iron, immune fire, resist unlife?/dark?, powerheal
+Feast                    100       Ex x      GNE           191096-191178 INFO, vuln pure/light/iron, immune fire, resist unlife/dark, powerheal, lightning/gas breath
+Palladrus                100       Ex x  2   GNE           191135-191193 INFO, vuln pure/light, immune fire, mana shielded, trueheal, vampiric touch, powerheal, mass pain, triad of fire, poison, nether bolt, 2-2 spells

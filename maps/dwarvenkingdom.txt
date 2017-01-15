@@ -1,0 +1,63 @@
+a# The Dwarven Kingdom (65): 5-50, Anon  (Karandras: 10ed3n)
+* FIND OUT: short sword: Damtype
+#
+#                                             o
+#                                            /|
+#                                           k |
+#                                             +
+#                                         o---o
+#                                        /
+#                                       o
+#                                      /
+#                                     o
+#                                    /
+#                               k + o
+#                               |
+#                               o
+#                               |
+#             o                 o
+#             |                 +        _     a
+#         o - o -- o - o    o - k       / \    ^
+#         |            +        |       |  \   |
+#  shop - o            o        o    a<-o ---- o
+#         |            |        |       |      |
+#       shop- o        k    o - o       o      |
+#             |   Dw. x     |           |      |
+#             o  Catacombs  o          MK   a<-a
+#             |             |                  |
+#         o - o + k - X --- k--+--o        o - o-\
+#        x            |     |    /         +     /
+#       k             o   shop  o --- o -- o ------ o
+#      x              |        /           |
+#   Dwarven           o      Zorn          o
+#  Catacombs          |/     Uzkul
+#                     o
+#                     |
+#                  Dwarven
+#                  Daycare
+#
+* Dwarfs (and mazekeeper) are vuln superlarge/water/magic/slay dwarf
+* k = key locations
+
+Dwarven Kingdom:             Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+The dwarven peon               3  3000 G----     -     60-65       70-81    [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+A dwarven mineworker           4  7000 N----     -     78-81       83-146   [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+Dwarf worker                   4  7000 G-x--x    -     72-88      114-146   [dwarf]
+The dwarven doctor             4  7000 Gx-x-     -     77-85      111-112   [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+A dwarven mine leader          6   24k N----x    -    113-122     355-476   [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+The barrack's guard            6   24k G----x    -    113-124     311-468   [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+The dwarf                      9   90k G----x    -    176-183     724-1084  [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+The unwanted son               9   90k G-x---    -    175-185     739-924   [dwarf?], vuln superlarge?/water?/magic?, resist fire?/poison?
+The unwanted daughter         10   50k G-x---    -    138-145      51-51    [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?
+The giant snake               15  450k E-----    G    441-444     608-612   immune poison?
+The man in waiting            15  300k G----x    -    206-217    6970-6970  [dwarf?], vuln superlarge?/water?/magic?, resist fire?/earth?/poison?
+A wraith                      17  680k E--xx-    GNE 1024-1027    390-729   vuln heals?/silver?/pure?/light?, immune unlife/dark?, resist earth?/water?/air?/mental?
+Dwarf guard                   20  600k G--x-x    -    713-717    1015-1029  [dwarf], protector
+The giant                     25 2500k N-x---    -   2206-2289   4496-4979  resist crush/poison/large/superlarge
+The giant lizard              25 1500k G-xx--    -    604-610    1434-2305
+Dwarf guard (with ring)       30 4500k G--x-x    -   1015-1016   4023-4027  [dwarf], protector
+Dwarf queen                   70   31M G--x x    -  20017-20018  1022-1021  [dwarf?], vuln magic?, resist fire?/earth?/poison?
+The mazekeeper                71  319M Ex-x x0   -  14096-14097 50228-50254 [dwarf?], vuln superlarge?/magic?, resist fire?/earth?/poison?, 'xwpjir'(wither?)
+Granite Head the baker        99       G--       -      ?           ?       shopkeeper
+The Hide & Tooth storekeeper  99       G--       -      ?           ?       shopkeeper
+Guttnubblet Rockhocker       100       N--       -      ?           ?       shopkeeper

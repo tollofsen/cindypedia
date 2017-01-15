@@ -1,0 +1,32 @@
+# Khronatio (354): 45-99, Zendrax  (Crossroad: 2nen2en3en2en2es2es2en3enwnw3nw6ne2ne2ne2ne2ne2ne2ne2ne2ne6n7w4n5ene)
+* FIND OUT: Level on Ghostly shopkeeper (98+)
+#
+#             Captain
+#               /                               o+o
+#              o  NM   o-w-w---o--o-w-o-w-w-o   + |
+#             /+   +   |   +   |  | + |     |   D o
+#          RIP hp-hp o W o o-+-o  o o+w   __w__/
+#              |   | | | | |   |      |  /  |
+#              hp-hp o W o o   w  o o w U+o w
+#              |   | + | + +   |  | | | +   |
+# -o-X-drain-o+mv--f-w-w-w-w---o--w-w-o-w-w-o
+# /|     mv    |   | + | + +RIP|  |   |     |
+#              hp-hp o W o o | o  o+o w     w
+#              |   | | | | | o | o    |     |
+#              |   | | | | |/  | +    |     |
+#              hp-hp o W o o   o-S  o-w     w
+#              +   +   |       | |  + |     |
+#              o  NM   o-w-w---o-w--w-o-w-w-o
+#
+* Entrance from Lorchid
+* hp: hp regen room
+* w: decapitated woman (the westmost ones, marked "W" are in noflee-rooms)
+* All npc:s are vulnerable to water.
+
+Khronatio:                      Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A ghost of a decapitated woman   84       E--x  2   GN                 2-2    light damage, vuln water, immune fire/unlife, resist energy, 2-4 attacks, sun ray, area vampiric mist, backstab, murder, invis, hide
+Khronatian Gatehouse Guard       85       N--xxx    -                         SUMMONER, [human], vuln water, immune crush/unlife/dark/ice/iron/silver/wood/acid/electricity/stun/air/earth, 1-4 attacks, miracle, 0-1 spells, flying before being in battle - standing after
+A Guard of Khron                 92       N--xxx    -                         [human], vuln water/silver, immune crush/unlife/dark/fire/iron/wood/acid/electricity/stun/air, 5-5 attacks, headbang, flying before being in battle - standing after
+Soldier of Khron                 94       Nx-xxx    -                         [human], vuln water, immune crush/unlife/dark/silver/fire/ice/iron/wood/acid/electricity/stun/air, 5-6 attacks, bash, backstab, flying before being in standing after
+The late Captain of Khron        95       N--xxx    -                         [human], vuln water, immune crush/unlife/fire/ice/iron/wood/acid/electricity/stun/air, 5-5 attacks, kick, headbang, backstab, murder, vampiric mist, 0-1 spells, flying
+Ghostly shopkeeper              98+       N--       -                         flying

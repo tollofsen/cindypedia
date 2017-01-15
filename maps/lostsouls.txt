@@ -1,0 +1,48 @@
+# Catacombs of the Lost Souls (???): 15-100, Angharad  (Solace: 6s3wnd)
+* FIND OUT: Level on A maggot (16-18)
+* FIND OUT: Level on The carcass (16-18)
+* FIND OUT: Level on A decrepit zombie (26-28)
+* FIND OUT: Level on The cadaver (26-28)
+* FIND OUT: Level on An entity (29-30)
+* FIND OUT: Level on The zombie master (34-35)
+#
+#                           Solace
+#                            x
+#                           X
+#                           |
+#                           o
+#                           |
+#                   o       o
+#                   |       |
+#                   o - o - o - o - o - o
+#                   |               |   |
+#           o - o - o               o   o - o
+#               |                       |
+#               |                       o - o - o
+#               o                           |
+#               |                           o
+#               |                           |
+#               o ---- o --\            o - o
+#              /            \           |
+#     o - o - o              \-- o ---- o - o - o - o
+#     |       |                                     |
+# o - o o     o                                 o - o - o
+#     |/|                                           |
+#     o o -- o --- o -- o - o   o       o - o - o - o
+#            |          |   |   |       |
+#            o          o   o - o       o - o
+#                       |       |       |
+#                       o - o - o - o - o
+#                       |
+#                       o
+#
+* Most mobs are vuln pure/light
+
+Lost Souls:              Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A maggot               16-18  391k N-xxx-    -    363-364       1-1    vuln gas
+The carcass            16-18  413k N-x--     GNE ~424-~428    856-908  vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental
+A skeleton                23 1080k E-xxx-    -   ~545-~547   1192-1290 vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental
+A decrepit zombie      26-28 2519k E-xxx-    -   ~696-~698   1633-1781 vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental
+The cadaver            26-28 2160k N-xxx-    -   ~665-~669   1550-1700 vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental
+An entity              29-30 3600k N-xxx-    -    753-754    1809-1997 resist fire/ice/unlife/earth/air
+The zombie master      34-35 9449k Ex-xx-    -   ~915-~916   2280-2487 vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental

@@ -1,0 +1,74 @@
+# Random's Amber Keep (138): 50-100, Random  (Karandras: 10es)
+* FIND OUT: Holy Avenger: Levels
+#
+#   |
+# - o -
+#  /|
+#   X - o - o
+#           |
+#           o     o - o - o           o                          o
+#           |    /        |         / |                         x
+#           o - o         o       /   o                        o
+#                         |     /     |                       /|
+#                         o   /       o   o       /----------/ |
+#                         | /         +   +      /             |
+#                         o       o + o + o     o    o         +
+#                         |           +        /+   x          |
+#                   RIP - o        o+Leader-+---o  o---+---o+o |
+#                         |       x          /     |      /    |
+#                         |      o          o      + o   /   o | o
+#                         |      +         /       |x   /    + | +
+#                         |      o        o  (comp)o   o -+- o+o+o+o
+#                         |      +        |         *
+#                         |   o  o        +          \--> Gandolf
+#                         |   +           |
+#                         |   o + o - o + o---+---o
+#                         |   +          x       /
+#                         |   o         o   Sku.x
+#                         |   +               +/
+#                         o + o + o      Volt+o+Troll
+#                         |   |               +
+#                         |   +             Giant
+#                         |   |
+#                         o - o - o - o - o - o - o - o - o - o - o
+#                                                                /
+#                                                               o
+#                                                               |
+#                                                             - X
+#                                                         River |
+#
+* Plenty of hidden doors and keys.
+* Different NPC:s with different IRV:s, but pure/light/fire is most common.
+
+Amber Keep:          Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A traveller            8   60k G-x---    -    157-157     200-200   flees
+A merchant            10  110k G-x---    -    201-205     400-400   flees
+A journeyman          12  168k N-x---    -    233-248     600-600   flees
+A Medium Warhorse     15  360k N-----    -    288-294       0-0     flees
+A pilgrim             15  360k G-x---    -    302-319    1000-1000  flees
+A Worker Ant          15  330k N-----    G    309-325      50-50    looter
+A bandit              16  528k E-xx--    -    327-338     500-500   flees, invis, hide, bash, kick, headbang
+A Soldier Ant         20 1000k N--x--    G E  469-492     500-500
+A Heavy Warhorse      25 1875k N-----    -    596-600       0-0     flees
+The Animated Cleric   25 2500k Nx-x--    -    574-612     500-500   sitting, vuln heal/pure/light, immune unlife/dark, no-group, curse, blindness, harm, energy drain
+The Animated Mage     25 2500k Nx-x--    -    614-666     500-500   sitting, vuln heal/pure/light, immune unlife/dark, no-group, haste, blur, lightning bolt, fireball, blindness, armor
+The Animated Warrior  25 2125k Nx-x--    -    598-664     500-500   sitting, vuln heal/pure/light, immune unlife/dark, no-group, bash, kick, headbang
+A Female Gnoll        30 3900k E--x-x    -    753-810    2000-2000  vuln pure/light/fire/superlarge, resist dark, flees
+A Gnoll Guard         30 4800k E--x-x    GNE  732-739    2000-2000  vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang
+A War Dog             30 4050k E-----    G    676-691       0-0     vuln mental
+A Worg                30 4050k E--x--    G E  702-734       0-0     vuln mental
+The Queen Ant         30 4200k N--x-x    -    733-789    6000-6000
+A Huge Gnoll          35 9100k Ex-x-x    -    871-894    2000-2000  vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang
+A Hyena               35 8750k N--x--    G E  908-926       0-0     vuln mental, resist dark
+Gnoll Guard           35 3080k E----x    -    879-898     100-100   vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang
+A Volt                40   20M E--x-x    GNE 1257-1276   2500-2500
+A Revenant            45   32M Nx-x--    -   1634-1694  10000-10000 no-group, energy drain, vuln pure/light/silver/heal, immune unlife/dark, flees
+A Witch Doctor        45   30M Exxx-x    -   1735-1742   4500-4500  vuln pure/light/fire/superlarge, resist dark, powerharm, powerheal, wither
+An Ogre               47   40M Ex-x-x    G E 1937-2013  10000-10000 vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang
+The Gnoll Chief       50   60M Ex-x--    GNE 2258-2286  15000-15000 vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang
+The Gnoll Leader      50   60M Ex-x-x    GNE 2313-2346  14500-14500 vuln pure/light/fire/superlarge, resist dark, bash, kick, headbang, berserk
+A Skulk               55   82M Ex-x x    -  ~3683-~3701     0-0     vuln energy, immune unlife, resist WEAPON, sitting, hide, sneak, flees
+A Two-Headed Troll    55   82M Ex-x      GNE 3576-3646      0-0     vuln fire/slay troll, bash, headbang
+A Fire Giant          55   82M Ex-x      GNE 3486-3540      0-0     [giant], resist crush?/large?/superarge?/poison?, NOT vuln ice, NOT resist fire, bash, kick, headbang
+The Ogre Magi         55   88M Ex-xx     GNE 3453-3576  36500-36500 vuln pure/light/fire, resist dark, energy drain, blindness, powerword blind, teleport, powerword pain, 1-2 spells per sound
+Gandolf               99       Gx-xxx2   ---~57409      65916-66083 INFO, vuln iron/unlife/dark, area blindness, triad of fire, mass pain, area teleport, sleep, haste, blur, 2-2 spells

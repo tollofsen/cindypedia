@@ -1,0 +1,89 @@
+# Narnia (530): 40-99, Gothie (?/>1¨.7h)  (Crossroad: 2nen2en3en2en2es2es2en3enwnw3nw6ne2ne2ne2nw3n)
+* FIND OUT: Level on A giant-sized demon (69-70)
+* FIND OUT: Level on The great Demon King (99+)
+#
+#                                       S S S S S     M M M
+#                                       | | | | |     | | |
+#                                     o-o-o-o-o-o-o-o-o-o-o-o
+#                                     | | | | | |     | | | |
+#                                     o S S S S S     M M M |
+#                                     |                     |
+#           o                         o                   M-o-M
+#           +                         |                     |
+#           o       o+o               o                     o   L   L
+#           |       |                 |                     |   |   |
+#           o--o-o--o                 o       o-o-o         o-o-o-o-o-o
+#           |       |                 |       | | |           | |   | |
+#       o-o-o       o-o-o-o-o-o-o-o-o-o-o-o+o+o-o-o-Witch     L L   L |
+#        *          |         |               | | |                   |
+#   o o   o o-o-o-o o     o-o-o-o-o           o-o-o          o--o-o-o-o-o
+#   + +  /  | | | | |     | | | | |                          |  | |     |
+#   o-o-o   o-o-o-o o     o-o-o-o-o                          o  G G  o--o-o
+#  /        | | | | |     | | | | |                          |       |    |
+# o-o-o-o+o o-o-o-o-o     o-o-o-o-o                          o-o-o   |King|
+#       |   | | | | |     | | | | |                              |   | ^  |
+#     o-o+o o-o-o-o o-o   o-o-o-o-o                          o-o-o-G | |  |
+#       +   | | | |   |                                      |       o-o--o
+#       X   o-o-o-o o-o                                    Queen
+#       |           |
+#     - o           o
+#       |           |
+#                   o
+#                   |
+#                Pegasus
+#                   |
+#                   o
+#                   +
+#                   o         o o o o
+#                   +         + + + +
+#                   o-o     o-o-o-o-o
+#                   | |     |
+#                   o-o-o-o-o---o---o
+#                   | | |   |   |   |
+#                   o-o-o   o-Aslan-o
+#                     |     |   |   |
+#                     o     o---o---o
+#
+* S: Small-sized demon
+* M: Medium-sized demon
+* L: Large-sized demon
+* G: Giant-sized demon
+*
+* House and castles are very bright.
+* Demon king's room is norecall, but has a pile of BONES you can enter if not
+* fighting, to recall to OC. So kill him or die! (or sneak/rescue/...)
+* Queen's room is no-flee but recallable
+* Many npc:s here have insane ammounts of hp!
+
+Narnia:                    Lvl    Xp ASWIDMX # agg      Hp         Gold      Special
+A servant                    3       N-x---    -     631-642       46-51     [human], flees
+The old lady                 3       N-x---    -     731-733      111-118    [human]
+Mr. Tumnuz - The Faun       10  750k N-----    -    1003-1042    9286-9530   [human]
+Mrs. Beaver                 16  880k G-----    -     878-946      232-256    vuln mental, flees
+Mr. Beaver                  24 4007k G-----    -    1463-1484     338-349    vuln mental, flees
+A Dryad                     30 3277k N-----    -    1407-1496       1-1      resist light/dark
+The old professor           30 4500k G-----    -     729-750      193-199    [human], resist mental, no-charm
+A small-sized demon         55   47M E--xx     G E  4630-4743       1-1      unlife damage?, vuln pure/light/iron, immune fire, resist unlife/dark/poison, flying before being in battle - standing after
+A little man with a red hat 55   68M E--x      G   12794-13050   1565-1859   [dwarf]
+A medium-sized demon        60   61M E--xx     G E  4554-4570       1-1      unlife damage?, vuln pure/light/iron, immune fire, resist unlife/dark/poison, flying before being in battle - standing after
+A spytree                   60   61M Ex-xxx    -    4592-4903       1-1      vuln mental, invis
+Queen Susan                 60  122M G--x -    -   14568-14823 197013-197961 [human]
+Queen Lucy                  63  159M G--x -    -   15224-15966 197636-199671 [human]
+A large-sized demon         65  117M E--xx     G E  5094-5135       1-1      unlife damage?, vuln pure/light/iron, immune fire, resist unlife/dark/poison, flying before being in battle - standing after
+King Peter                  65  228M G--x -    -   18824-19164  92520-98144  [human]
+The Pegasus                 66  429M Gx-xxx    --- 19602-21150   1166-1285   [mythical], flying before being in battle - standing after
+A giant-sized demon      69-70  147M Ex-x      G E  8373-8468       1-1      unlife damage?, vuln pure/light/iron, immune fire, resist unlife/dark/poison, powerword kill, flying before being in battle - standing after
+Prince Caspian              70  268M Gxxxx-    -   24241-24795 204746-206710 [human]
+Maugrim - Chief of the Secret Police 
+                            80  617M Ex-xx     G E 19223-19854 149427-149785 INFO, vuln fire/mental, immune dark
+King Edmund                 90 1387M N--x -    -   50108-50340  85757-87533f [human]
+An old king of Narnia      100       Gx-x -    -               674703        [human], invis, immune blind(dark?), powerheal, 1-1 spells
+The Demon Queen            100       Ex-x      GNE             325805        INFO, vuln pure/light/iron, immune fire/dark, resist unlife/poison, powerheal, 2-2 spells, 6-7 attacks, flying before being in battle - standing after
+    WoJ:   pulverize
+The white Witch            100       Ex-x      G               999803        INFO, [human], vuln light, immune dark, force field, hell storm, powerword kill, 2-2 spells
+    plain:        vaporize
+    Deathbringer: vaporize/pulverize
+The great Demon King       99+       Ex-x      GN              329470        INFO, vuln pure/light/iron, immune fire, resist dark/unlife?/poison?, flying before being in battle - standing after?, room is norecall
+Aslan - The great Lion     100       G--x x    ---             220272-220481 INFO, NOT vuln mental?, mass pain
+    hellfire:   57/400
+    Firebrand: annihilate

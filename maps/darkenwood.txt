@@ -1,0 +1,51 @@
+# Darkenwood Mountain (349): 15-45, Jydara  (Solace: 9sws)
+#
+#                           |
+#                           X - o
+#                           |
+#                           o
+#                           |
+#                           o     o
+#                           |    /|
+#                           o   / o
+#                           |  /  |
+#                           o /   o
+#                           |/    |
+#                WM         o     o
+#                 +               |  mana    o
+#             o - o   o - o - o + o+drain   x+
+#             |      /            |        o o
+#             o --- o             o          |
+#             |                   |          o
+#             o                   o + o --------- o - o
+#             |                   |          +       /
+#     o - o - o - o   o           o          hp-o-o-o
+#     |           |   |           |        regen
+# o - o - o       o   o - o + o - o - o
+# |   |   |                   |   |   |
+# o - o - o                   o - o - o
+#     +                           +
+#     o                           o
+#     |                           |
+#     o                           o
+#     |
+#     o
+#     +
+#     o
+#
+* Pretty safe area. Fire works against most npc:s (gas against rats & insects)
+
+Darkenwood:              Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+A rat                     15  262k N-x---    -    303-307     106-116   vuln gas/poison, resist dark
+A spider                  15  262k N-x---    -    324-335       2-4     vuln fire, immune poison, flees
+A small goblin            20  580k N-x---    -    479-483    5007-5022  vuln fire/large/superlarge/light, resist poison/gas/dark
+A snake                   20  500k N-x---    -    330-336       4-6     immune poison
+An insect                 20  580k N-----    -    467-486      12-14    vuln gas, standing before being in battle, flying after, shadow form
+A bugbear                 25 1450k E-x---    -    606-615    5024-5045  vuln fire/large/superlarge/light, resist poison/gas/dark, bash, kick, headbang, berserk
+A goblin guard            25 1374k E-----    -    558-567    5011-5028  vuln fire/large/superlarge/light, resist poison/gas/dark, kick, assist-equals and unequals
+Iggy                      25 1450k E-xx--    GN   620-629     101-103   vuln fire, immune poison
+The cook                  30 3450k N-----    -    762-765    5006-5009  vuln fire/large/superlarge/light, resist poison/gas/dark
+Bones                     35 7804k N--x--    -    939-947    5009-5012  resist pierce/slash
+Sammy                     35 7875k E-xx--    G    825-827    1020-1030  immune poison, sitting, invis, hide
+King Grognok              40   16M Nx-x--    -   1508-1510  15012-15014 vuln fire/large/superlarge/light, resist poison/gas/dark, powerheal, harm, confusion, wither, blindness
+Syracue                   40   20M E--x--    -   1478-1483  15017-15023 vuln fire/large/superlarge/light, resist poison/gas/dark, powerword pain, mass pain, meteor swarm, meteor blast, fireball

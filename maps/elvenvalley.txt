@@ -1,0 +1,56 @@
+# The Elven Valley (107): 5-25, Gbetz  (Solace: 5wn)
+#
+#                o---o---o---o
+#                |           |
+# o---o---o      |     o-+-o |
+# |       |      o     +  /+ o
+# o     o+o--o   |     o+--o |
+# |    /  |  |   |      /    |
+# |   o   |  |   |   o-o     |
+# |   |   |  |   o   | |     o
+# | o+o+o |  |   |   o-o     |
+# |       |  |   |   +       |
+# o---o---o  |   o---o---o---o
+#            |       |
+#            o---o---o
+#                |
+#     DR-DR--------o----DR-DR
+#     |          |/         |
+# DR-DR          o          DR-DR
+# |              |              |
+# |          o---o---o          |
+# o          |   |   |          o
+# |\____ o---o---o---o---o ____/|
+# |     \|   |   |   |   |/     |
+# |      o---o---o---o---o      |
+# |      |   |   |   |   |      |
+# |      o---o---o---o---o      |
+# DR-DR      |   | o |      DR-DR
+#     |      |   |/| |      |
+#     DR-DR  o---o-|-o  DR-DR
+#         |        |    |
+#         o--------X----o
+#                  |
+#                  o-
+#
+* DR = Down-exit leading to DT (RIP)
+* Lowbie area, but many aggressive mobs. And many DT:s
+
+Elven Valley:            Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+An old hermit              3  2400 N----     -     56-61       11-11   flees
+A wolf                     4  6400 N-x--     -     81-83        1-1    flees
+A cooshee                  5   12k N-x---    -     96-105       1-1    flees
+A valley elf (duties)      6   21k N-x---    -    118-122      11-11   flees
+A valley elf scout         6   21k N-x---    G    116-123      11-11
+An antelope                6   21k N-x---    -    120-125       1-1    flees
+A valley elf sentry        7   35k N-----    G    136-145      11-11
+The demon skeleton         7   24k E-----    G    137-144       1-1    summoned
+A valley elf (female)      8   56k N-x---    -    156-165      11-11   flees
+A valley elf (male)        8   56k N-x---    -    158-162      11-11   flees
+The demon zombie          10  100k E-----    G    196-202       1-1    summoned, no-group, vuln heal, immune unlife
+A valley elf elder (A)    15  255k N-----    G    292-298      11-11   looter, blindness, cure critic, curse, 
+A valley elf elder (B)    15  255k Nx----    G    297-302      11-11   magic missile, burning hands, lightning bolt, blindness
+The lesser demon          15  225k E-----    G    294-308       1-1    summoned
+The pyrohydra             20  600k N-----    G    438-462       1-1
+Talemon                   25 1500k N-----    G    595-603    1001-1001 colour spray, fireball, lightning bolt, 
+The guardian daemon       25 1500k E-----    G    604-607       1-1    resist unlife/dark, summon demon skeleton, summon lesser demon, summon demon zombie, burning hands, fireball, blindness, teleport

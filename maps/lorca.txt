@@ -1,0 +1,56 @@
+# The Land Of Lorca (265): 50-85, Rafo  (King's Castle: 3wnwne2nw2n2wn5ws2wn)
+* FIND OUT: Firebeasts & lava demons vuln ice?
+#
+#                                      Ancient
+#                                       Lands
+#                                         |
+#                                         | Busti
+#                                         |/
+#                                         o - o
+#                                             |
+#                                             o
+#                                             |
+#                         M - M - M       o - o - o
+#                         |   |   |       |       |
+#             o - o - o - M   M   M - o - o   Fayador-o
+#             |           |   |   |               |   |
+#         o - o           M   M - M              RIP RIP
+#         |   |
+#         o - o - o - o               R       R ---- R
+#         |       |   |               |       |      |
+#     o - o       o - o - o - o - R - R - R - R   Rhalarji
+#     |           |   |           |   |       |      |
+#     o           o   |           R - R       R ---- R
+#     |           |   |
+# X - o           o - o
+# |
+#
+* R = Raider rooms
+* M = Marsh: Sleep there and you will die:
+* Sleep:You lie down and fall into a deep slumber.
+*       You are dead!  Sorry...
+* Sit: You flail about with your arms, trying not to sink further into the mud.
+*      You flail about with your arms, trying not to sink further into the mud.
+*      Finally your arms tire, and you resign to a murky death as you sink.
+*      You are dead!  Sorry...
+* [INFO] Cindy swallowed a lungful too much..shame they aren't a fish.'
+* Careful in Raider rooms - many! Fayador & Bustibieren are vuln slay human.
+* Use pure/light/iron on lava beasts in ne. Darkness to avoid Firebeasts.
+
+Lorca:                   Lvl    Xp ASWIDMX # agg     Hp          Gold      Special
+A sloth                   20  600k N-x---    -    452-491      1167-1848   vuln mental/gas, resist earth
+A falcon                  25 1624k N-x---    -    619-633         1-1      vuln mental/gas, resist earth, flees
+A man-eating plant        30 4050k N-xx--    G E  706-730         1-1      vuln acid, immune air/gas/light/dark
+A traveller               30 3750k Nx----    -    738-747         1-1      [human]
+A watersnake              33 5940k N--x--    G E  832-845         1-1      vuln mental/gas, resist earth
+A lion                    34 7651k N-x---    G E  877-881         1-1      vuln mental/gas, restsi earth
+A python                  35 8400k N-xx--    G E  869-893         1-1      vuln mental/gas, resist earth
+A Firebeast               45   22M N-xx--    G E 1785-1887     2560-4228   resist light/dark/iron
+A pile of ashes           50   33M N-xx--    -   2249-2304        1-1      resist fire/ice/unlife/earth/air, flees
+A Raider                  55   53M N-xxx     G E 3509-3582    21157-23424  [human]
+A lava demon              56   70M N-xxx     G E 3540-3560     5758-9738   vuln pure/light/iron, immune fire, resist unlife/dark/poison, plasma ball, hell fire, thac-34 11
+A shopkeeper              60   81M N--x x    -   4731-4764    32296-38882  [human]
+The Raider leader         60  105M Nx-x      G   4935-4944    22758-24337  [human]
+King Rhalarji             80 1440M Nx-x x    -  17684-17718   71918-76456  INFO, [human]
+Bustibieren               85 2295M Nx-xx     G E 24771-24900 137781-155994 INFO, [human], hell storm, teleport, triad of fire, area blindness, 1-2 spells, lava room
+Fayador                   95       Nx-xx-0   -                             [human], teleport, triad of fire, powerheal, 1-1 spells, 5-6 attacks

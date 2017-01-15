@@ -1,0 +1,72 @@
+# The Castle Dunheim (164): 40-100, Pakaka (?/36-60min)  (Crossroad: 10se2sws)
+* FIND OUT: Level on A dark dot (57-65)
+* FIND OUT: Info on Aramon (lvl 87+)
+* FIND OUT: virgin belt: Levels
+* FIND OUT: The Evil Darkmage: summons, doesn't he? If so, check those mobs
+#
+#     /--o--------\
+#     |  |  \     |
+#     | /    |    |
+#     o---hermit--o---\                      |
+#     |      |    |   |                      X   Aramon
+#     |      |   /    |                      |    /
+#     \------o--------o                      o <-/
+#                     |                      |
+#             o - o - o - o -------- o ----- o ---- o ----- o
+#                 |   |   |                  |              |
+#                 |   |   |              WM  |          WM  |
+#                 |   |   |              /   +          /   |
+#         o ----- o - o - o             o    |         o    |
+#         |       |   |   |            /     |        /     |
+#         o       |   |   |           o ---- o ----- o      | _
+#         +       |   |   |           |      +       |      |/ \
+#         |       |   |   |           o  o - o - o   o - o  o  |
+#         o       |   |   |Dark      x   |   |   |   |   |  |  |
+#        x        |   |   |Mage+o-o-J    o - o - o + o - o<-|--/
+#       /         |   |   |         |    |   |   |          |
+#      V          |   |   |       o+o+o  o Lord  o - o - o  |
+#      | o        o - o - o         |    |   |       +   +  |
+#       \|        |   |   |         o    o   o       o   o  |
+# RIP-o-hell--o   |   |   |                  |              |
+#        |    +   |   |   |              o + o + Lady       |
+#        o-+-Monk |   |   |                  +              |
+#                 |   |   |                  o              |
+#               Ceng--o - o ---------- o --------- o ------ o
+#                 |                    |
+#              Lahresin             Statues
+*
+* Area is very bright in castle and castle yard
+* Most are humans - vuln slay human. Careful with Dark Mage and Lady (hurts!)
+
+Dunheim:                   Lvl    Xp ASWIDMX # agg     Hp        Gold      Special
+A multicoloured bird         5   12k G-x  -    -     92-97        0-0      vuln air, immune earth, flees, flying & sentinel before being in battle - standing & walking after
+A rabbit                     5   10k N-x---    -     86-92        0-0      vuln mental, resist dark, flees
+A small squirrel             7   35k N-x---    -    199-216       0-0      vuln mental/gas, resist earth, flees
+A gardener                  10  110k N----x  4 -    198-215      45-76     [human]
+A servant                   10  100k N-x--x    -    212-225      51-52     [human], flees
+A deer                      14  280k N-x---    -    272-287       0-0      vuln mental/gas, resist earth, flees
+A boar                      20  900k N-x---    -    448-449       0-0      vuln mental/gas, resist earth
+A monk                      20  573k Gx-xx-  1 -    916-916    5094-7338   [human], sitting, no-charm, miracle, 1-1 spells, save 15, ac -7, special-drop-eq-on-death (if killed without being moved)
+A prisoner                  20  800k E-x---  2 -    452-459       2-2      [human], sitting
+The hermit                  20  900k Gx----  1 -    463-466       2-2      [human], sitting
+A castle guard              30 4500k N-xx-x    -    798-803    1635-1841   [human], bash, kick
+A nobleman                  30 3750k N-x---    -    759-763    2074-2091   [human]
+An archer                   30 4500k N-xx-x    -    746-751     540-571    [human], bash, kick, headbang
+A courtier (wanders)        32 5120k N-x---    -    849-856    3459-3598   [human]
+A cook                      35 7000k Nx---x  1 -    898-908    3000-3000   [human], invis
+A courtier (sits)           35 7700k Nx----  2 -   1024-1032   4046-4049   [human]
+A gateguard                 40   14M N--x-x  2 -   1426-1500   4442-4759   [human], bash, kick, headbang, berserk
+A small devil               40   16M Ex-     4 G               1800-1964   vuln pure/light, immune fire, flying before being in battle - standing after
+A watchman                  40   14M N--x-x  2 -   1350-1372    998-1038   [human], bash, headbang
+A maid                      45   30M Gx-x--  2 G   1827-1850   1133-1150   [human], 4-10 attacks, avgdam 26, thac-42 11
+Ceng, the friend of Eowaran 45   11M N--xx-  1 -   2100-2120      1-1      vuln mental, resist dark, flees, 4-6 attacks
+A large bear                50   45M N-----    G   2233-2250      0-0      vuln mental/gas, resist earth, sleeping
+The jailor                  50   42M N--xxx  1 -   2237-2275    896-1099   [human], sitting, bash, kick, headbang
+A dark dot               57-65  109M Nx-     4 G                  0-0      vuln energy, resist WEAPON, standing before being in battle - flying after
+The captain of the guard    60  105M Nx-x x  1 -   4854-4867   4883-6666   [human], blocker, whirlwind, 3-5 attacks
+A jade statue               70  140M Gx-xx-    -             204959-205331 vuln unlife, resist energy/magic, invis, shrugger, sitting, wither, powerheal, trueheal, grouppowerheal, poison
+The dark torturer           85       Ex-     1 G                           vuln energy, resist WEAPON, standing before being in battle - flying after
+Lord Dareil                 80 1440M Gx-x x  1 -  20795-22047 65536-65536  INFO, [human], sitting, wither
+Lady Sarah                  85       Gx-x    1 G              65536        INFO, [human], trueheal, 1-1 spells
+The Evil Darkmage           95       Ex-x    1 G                           INFO, [human], resist WEAPON, hell storm, hell fire, energy drain, 2-2 spells, summons something? (but only when hurt enough?
+Gwenyln, daughter of Amothus 100   0 G--xx-  1 -  22709-23001     0-0      INFO, [human], cake, great ac, 4-5 attacks

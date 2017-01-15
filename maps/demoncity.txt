@@ -1,0 +1,56 @@
+# Demonbyen (300): 20-100, Unknown  (New Thalos: 2en2e2n2wn2wn2wn)
+#
+#                      SOLUS!
+#                       x
+#                      o
+#                      +
+#                      o + o - o
+#                          +
+#                      q + o
+#                         /
+#                o   o   o
+#                |   |   |
+#       o        o - o - o
+#       |            |
+#     o+o-o--o  o    +    EW+o----o        o - o
+#     |     x   +    |       |    +           /|
+#     |    o--o+V+o  o       | o  o      o   / |
+#     |    +         |       |x|        x|  /  |
+#     |   RIP        +   o o+o |     o o + /   |
+#     |              |   |     +     +   |/    |
+# o - o ------+----- o - o   o+o+o   o + o-o   o           o
+#     |                  |     +               |           +
+#     o              o - o --- o ------------- o       o - o
+#                        |     |               |       |   |
+#                        o --- o - o       o - o - o - o - o - o + o
+#                              |                       |   |       +
+#                              o                       o   |       o
+#                              |                           |
+#                              X              Ludvaraman + o - o
+#                             /|
+#                        Kerjim
+#
+* Min level 0/10
+* Dangerous area! Most mobs are vuln pure/light
+
+Demon City:              Lvl    Xp ASWIDMX # agg     Hp        Gold     Special
+The hothedhel              6  9000 E-xx-x    G E   82-82       31-31    vuln pure/light/iron, immune fire, resist unlife/poison/dark
+The skeleton warrior      12  168k E-xx--    G    188-192       5-10    resist pierce/slash, summoned, looter?
+The narauk                13  247k E-xx-x    G E  161-166     669-881   vuln pure/light/iron, immune fire, resist unlife/poison/dark, (summoned), looter?
+Belkor                    14  280k Gx-x-x    G    379-380       2-2     vuln mental, resist earth
+The skeleton              14  2700 E-xx-x    G E   31-33        1-1     energy drain
+The woman                 20  280k N--x--    -    152-160     301-527   invis
+The undead priest         25  775k E-xx-x         688-751       2-2     vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental, no-group
+The sea serpent           27  756k Nx-x-x    G E  536-555    6800-7397  immune poison
+The celebdel              30 5400k E-xx-x    G E  818-820   23878-27188 vuln pure/light/iron, immune fire, resist unlife/poison/dark, (summoned), blindness, heal, lightning bolt, fireball, curse, colour spray
+The idol                  39 1170k N--x-x    -   1563-1811      2-2     resist fire/ice/unlife/earth/air
+The undead high priest    43   11M E-xx-x    G   1039-1065      2-2     vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental, no-group
+Moloch                    45   16M Ex-x-x    G E  969-1127  19526-21669 vuln pure/light/iron, immune fire, resist unlife/poison/dark, NOT summoned
+Moloch                    45       Ex-x-x    G    942-1003   5969-28714 vuln pure/light/iron, immune fire, resist unlife/poison/dark, summoned, meteor blast, fireball
+Tiilak                    50   29M G--x-x    -   1409-1651   3893-7455  no vulns
+The black stalker         60  120M E-xxx     G   3935-3965      8-13    vuln pure/light/iron, immune fire, resist unlife/poison/dark, backstab (550)
+The ein flayer            70  280M Ex-xx     G E 8532-8610  16680-18957 resist fire/ice/unlife/earth/air
+V'rama Vair               75  506M Ex-xx     G E 7469-7604  80070-80936 NO irvs, mass pain, blindness, hell storm, hell fire, cloudkill, teleport, summon skeleton warrior, summon narauk, summon celebdel
+The eternal witness       81   65M Gx-xxx    -    879-912   13519-20601 INFO, [human], fireball, meteor blast
+Ludvaraman                95       Gx----    -             139019       vuln pure/light/silver/heal, immune unlife/dark, resist earth/water/air/mental, he is blind
+Solus, the ancient god   100       Ex-xxx2   ---               43-85    INFO, [mythical], resist fire?/ice?/unlife?/earth?/air?, blocker, shrugger, area wither, area blindness, powerheal, hell storm, 2 spells, summon Moloch, can do 1400 damage per round

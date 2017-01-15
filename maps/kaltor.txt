@@ -1,0 +1,56 @@
+# The Ruins of Kaltor (401): 50-100, Vortex  (Elemental Canyon: us4dese)
+* FIND OUT: Level on Kaltar the Paladin-King (98+)
+* FIND OUT: charred key: Dissolves
+#
+#             o + D                       U
+#             |                           +
+#         o   o   o   o               o   s   s
+#         |   |   |   |               |   |   |
+#     o - o - o - o - o           o - o - s - o - o
+#     |   |   |   |   |               |   |   |
+#     o   o   o   o   o           o - s - s - o - o
+#             |                       |   |   |
+#     o   o   o   o   o           s - o - o - s - s
+#     |   |   |   |   |               |   |   |
+# o - o - o - o - o - o               s   s   o
+#     |       |   |   |                   +
+#     o   o - o   o   o                   o
+#             |                           +
+#     o   o   o   o   o                   o
+#     |   |   |   |   |                  /
+# o + o - o - o - o - o                 o
+#             |                         |
+#             o                         o
+#             |                         |
+#             o                         o - o - o
+#             |                         |       |
+#             o         o - o - o   o - o   o - o
+#             |         |       |   |   |   |
+#             o         o   o - o - o   o - o - o
+#             |         |   |       |           |
+#           - X -       o - o   o - o   o - o   o - o
+#             |             |   |           |       |
+#                           o - o - o   o - o - o   o
+#                                   |   |       |   |
+#                                   o   o   o - o - o
+#                                   |   |       |
+#                                   o - o - o - o
+#                                       +
+#                                    Balgroth
+#                                       +
+#                                     Kaltar
+#
+* Min level 0/32
+* s = Serpents
+* Flaming Corpses and Charred Skeletons are vuln unlife. Serpents... no idea. 
+
+Kaltor:                      Lvl    Xp ASWIDMX # agg     Hp        Gold       Special
+The Fugitive                  63   98M Exxxx-    -   4472-4761  30000-30000   [human], backstab
+The Flaming Corpse            66  132M E-xx  2   G E 6520-6537  30000-30000   vuln unlife
+A Black Serpent               67  141M E-xx  1   G E 6839-6840  30000-30000   immune poison, flying & sentinel before being in battle - standing & walking after, bash
+The Skeleton                  70  245M E--x -    -  10808-10825 30000-30000   vuln silver, resist pierce/slash
+The Insane Priest             75  450M G--x -    -              60000-60000   [human], wrath of god, trueheal
+The Charred Skeleton          85       E-xx  0   GNE    ?-?     20000-20000   vuln unlife, resist energy/magic
+The Charred Skeleton (info)  100       E- x  0   GNE           507403-509553  INFO, vuln unlife, resist energy/magic
+Balgroth the Lich-King       100       Ex x  2   GNE          1000001-1000001 INFO, vuln pure/light, immune dark/wither, invis, bloodmirror, area magic missile, 7-9 spells, blocker
+Kaltar the Paladin-King      98+       Gx    1    -E          5000001-5000001 INFO, [human], invis, shrugger
